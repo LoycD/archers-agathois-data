@@ -1,10 +1,11 @@
 {
-  "version": 1,
-  "updated_at": "2026-08-27T08:46:44+00:00",
+  "version": 2,
+  "updated_at": "2026-08-27T09:06:32+00:00",
   "source": "FFTA official competition result PDFs",
+  "parser": "header-columns-v2",
   "results": [
     {
-      "id": "ca70f910b2b20412733dea76",
+      "id": "7900fb1c169cae20048e8733",
       "licence": "0969845E",
       "name": "Eric Benard",
       "date": "2026-07-26",
@@ -14,16 +15,15 @@
       "category": "S3HCL",
       "departure": 1,
       "series": [
-        351,
         351
       ],
-      "score": 5,
+      "score": 351,
       "rank": 3,
       "source": "ffta",
       "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1384129_20260726_75988.pdf"
     },
     {
-      "id": "8f60916140d416f8e4580ad3",
+      "id": "f3c64b6b3df5347a38766e3a",
       "licence": "0969843C",
       "name": "Anne Barbara Benard",
       "date": "2026-07-26",
@@ -33,16 +33,15 @@
       "category": "S3FCL",
       "departure": 1,
       "series": [
-        353,
         353
       ],
-      "score": 6,
+      "score": 353,
       "rank": 4,
       "source": "ffta",
       "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1384129_20260726_75988.pdf"
     },
     {
-      "id": "77027992a07a598e31717c81",
+      "id": "d3360d574f3dd3b351d6f76d",
       "licence": "0969845E",
       "name": "Eric Benard",
       "date": "2026-07-25",
@@ -52,16 +51,15 @@
       "category": "S3HCL",
       "departure": 2,
       "series": [
-        317,
         317
       ],
-      "score": 2,
+      "score": 317,
       "rank": null,
       "source": "ffta",
       "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1384129_20260725_75987.pdf"
     },
     {
-      "id": "0f65415e589188e67df9accd",
+      "id": "6c052b3dab0acfb07ecf76b5",
       "licence": "0969845E",
       "name": "Eric Benard",
       "date": "2026-07-25",
@@ -71,16 +69,33 @@
       "category": "S3HCL",
       "departure": 1,
       "series": [
-        347,
         347
       ],
-      "score": 3,
+      "score": 347,
       "rank": 2,
       "source": "ffta",
       "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1384129_20260725_75987.pdf"
     },
     {
-      "id": "98c5f474b390469cabfaf2c9",
+      "id": "867f6dd67dba328d0b5e15da",
+      "licence": "0969843C",
+      "name": "Anne Barbara Benard",
+      "date": "2026-07-25",
+      "competition": "CONCOURS 3D 2 DEPARTS - SAMEDI - Tir 3D (1 X 24 CIBLES)",
+      "place": "ROBION",
+      "discipline": "3d",
+      "category": "S3FCL",
+      "departure": 2,
+      "series": [
+        186
+      ],
+      "score": 186,
+      "rank": null,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1384129_20260725_75987.pdf"
+    },
+    {
+      "id": "883679868bae4388de9c48b2",
       "licence": "0969843C",
       "name": "Anne Barbara Benard",
       "date": "2026-07-25",
@@ -90,16 +105,15 @@
       "category": "S3FCL",
       "departure": 1,
       "series": [
-        332,
         332
       ],
-      "score": 6,
+      "score": 332,
       "rank": 1,
       "source": "ffta",
       "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1384129_20260725_75987.pdf"
     },
     {
-      "id": "ed21f137813d9c43d06f59d7",
+      "id": "6ac15b8393e0a6bca4a6e784",
       "licence": "1034590Q",
       "name": "Francois Pujo",
       "date": "2026-07-12",
@@ -109,16 +123,15 @@
       "category": "S3HCL",
       "departure": 2,
       "series": [
-        258,
         258
       ],
-      "score": 2,
+      "score": 258,
       "rank": null,
       "source": "ffta",
       "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1181205_20260712_75826.pdf"
     },
     {
-      "id": "97361a984832a7ff0d4e0239",
+      "id": "44223e2c61eaf1612a28f95f",
       "licence": "1034590Q",
       "name": "Francois Pujo",
       "date": "2026-07-12",
@@ -128,16 +141,15 @@
       "category": "S3HCL",
       "departure": 1,
       "series": [
-        324,
         324
       ],
-      "score": 2,
+      "score": 324,
       "rank": 2,
       "source": "ffta",
       "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1181205_20260712_75826.pdf"
     },
     {
-      "id": "37e81d58f3034f6f3c288260",
+      "id": "9e469a1efe56942fde46b36e",
       "licence": "0972018S",
       "name": "Bruno Benit",
       "date": "2026-07-12",
@@ -147,16 +159,15 @@
       "category": "S3HAD",
       "departure": 2,
       "series": [
-        203,
         203
       ],
-      "score": 1,
+      "score": 203,
       "rank": null,
       "source": "ffta",
       "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1181205_20260712_75826.pdf"
     },
     {
-      "id": "923f0e8b0382214bb17645ed",
+      "id": "714b070cfd92baf1f4dd077e",
       "licence": "0972018S",
       "name": "Bruno Benit",
       "date": "2026-07-12",
@@ -166,16 +177,15 @@
       "category": "S3HAD",
       "departure": 1,
       "series": [
-        230,
         230
       ],
-      "score": 4,
+      "score": 230,
       "rank": 1,
       "source": "ffta",
       "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1181205_20260712_75826.pdf"
     },
     {
-      "id": "c34c519dac815c35982d0859",
+      "id": "a4c4738eb76ed72b877f1130",
       "licence": "0969845E",
       "name": "Eric Benard",
       "date": "2026-07-12",
@@ -185,16 +195,15 @@
       "category": "S3HCL",
       "departure": 1,
       "series": [
-        309,
         309
       ],
-      "score": 4,
+      "score": 309,
       "rank": 4,
       "source": "ffta",
       "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1181205_20260712_75826.pdf"
     },
     {
-      "id": "f648431ce68ee4236cc980f2",
+      "id": "759e4df8325af5d5639459cc",
       "licence": "0969843C",
       "name": "Anne Barbara Benard",
       "date": "2026-07-12",
@@ -204,16 +213,15 @@
       "category": "S3FCL",
       "departure": 1,
       "series": [
-        360,
         360
       ],
-      "score": 3,
+      "score": 360,
       "rank": 1,
       "source": "ffta",
       "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1181205_20260712_75826.pdf"
     },
     {
-      "id": "8218dcd68c03f562d686e70c",
+      "id": "87978d30a49e1ed124037792",
       "licence": "0319272K",
       "name": "Laurent Zdyb",
       "date": "2026-07-12",
@@ -223,16 +231,15 @@
       "category": "S2HTL",
       "departure": 2,
       "series": [
-        466,
         466
       ],
-      "score": 14,
+      "score": 466,
       "rank": null,
       "source": "ffta",
       "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1181205_20260712_75826.pdf"
     },
     {
-      "id": "944a97874f6a7df089c67784",
+      "id": "310a8289d0da2775725943b4",
       "licence": "0319272K",
       "name": "Laurent Zdyb",
       "date": "2026-07-12",
@@ -242,16 +249,15 @@
       "category": "S2HTL",
       "departure": 1,
       "series": [
-        462,
         462
       ],
-      "score": 15,
+      "score": 462,
       "rank": 2,
       "source": "ffta",
       "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1181205_20260712_75826.pdf"
     },
     {
-      "id": "117e58defb43d4700694af9d",
+      "id": "cdc2512bb00f812814cde2be",
       "licence": "0969845E",
       "name": "Eric Benard",
       "date": "2026-07-11",
@@ -261,16 +267,15 @@
       "category": "S3HCL",
       "departure": 2,
       "series": [
-        268,
         268
       ],
-      "score": 3,
+      "score": 268,
       "rank": null,
       "source": "ffta",
       "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1181205_20260711_75825.pdf"
     },
     {
-      "id": "d61764fc3f39496216f32f54",
+      "id": "7d969a99c2b5ebab626f049c",
       "licence": "0969845E",
       "name": "Eric Benard",
       "date": "2026-07-11",
@@ -280,16 +285,15 @@
       "category": "S3HCL",
       "departure": 1,
       "series": [
-        296,
         296
       ],
-      "score": 3,
+      "score": 296,
       "rank": 3,
       "source": "ffta",
       "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1181205_20260711_75825.pdf"
     },
     {
-      "id": "602e8e0f2d9249b2d6515d70",
+      "id": "1fc0770a06e3f699cb15fb00",
       "licence": "0969843C",
       "name": "Anne Barbara Benard",
       "date": "2026-07-11",
@@ -299,35 +303,15 @@
       "category": "S3FCL",
       "departure": 1,
       "series": [
-        322,
         322
       ],
-      "score": 2,
+      "score": 322,
       "rank": 1,
       "source": "ffta",
       "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1181205_20260711_75825.pdf"
     },
     {
-      "id": "34f9f436633342154c5b0c04",
-      "licence": "1051723P",
-      "name": "Claude Calbet",
-      "date": "2026-06-28",
-      "competition": "TAE NATIONAL REGIONAL - Tir a l'Arc Exterieur (Tir a l'Arc Exterieur)",
-      "place": "FRONTIGNAN",
-      "discipline": "tae",
-      "category": "S3HCO",
-      "departure": 1,
-      "series": [
-        266,
-        298
-      ],
-      "score": 564,
-      "rank": null,
-      "source": "ffta",
-      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/T_1134126_20260628_74857.pdf"
-    },
-    {
-      "id": "f29ae71cc156975ec59d0940",
+      "id": "a9abb7c224034a8c828d0edc",
       "licence": "1034590Q",
       "name": "Francois Pujo",
       "date": "2026-06-28",
@@ -337,16 +321,15 @@
       "category": "S3HCL",
       "departure": 2,
       "series": [
-        308,
         308
       ],
-      "score": 2,
+      "score": 308,
       "rank": null,
       "source": "ffta",
       "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1112022_20260628_74898.pdf"
     },
     {
-      "id": "8ea0962a0a00257669812898",
+      "id": "6e5e27c66316eea2aa6e60ac",
       "licence": "1034590Q",
       "name": "Francois Pujo",
       "date": "2026-06-28",
@@ -356,16 +339,15 @@
       "category": "S3HCL",
       "departure": 1,
       "series": [
-        291,
         291
       ],
-      "score": 4,
+      "score": 291,
       "rank": 3,
       "source": "ffta",
       "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1112022_20260628_74898.pdf"
     },
     {
-      "id": "311a7e282879fa7227888166",
+      "id": "70fcb279a7eaac6911a5b17d",
       "licence": "0319272K",
       "name": "Laurent Zdyb",
       "date": "2026-06-28",
@@ -375,16 +357,15 @@
       "category": "S2HTL",
       "departure": 2,
       "series": [
-        458,
         458
       ],
-      "score": 13,
+      "score": 458,
       "rank": null,
       "source": "ffta",
       "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1112022_20260628_74898.pdf"
     },
     {
-      "id": "bddd00271452877037982aa5",
+      "id": "a8b05fe9cc72fa3386199aea",
       "licence": "0319272K",
       "name": "Laurent Zdyb",
       "date": "2026-06-28",
@@ -394,16 +375,15 @@
       "category": "S2HTL",
       "departure": 1,
       "series": [
-        405,
         405
       ],
-      "score": 6,
+      "score": 405,
       "rank": 2,
       "source": "ffta",
       "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1112022_20260628_74898.pdf"
     },
     {
-      "id": "e619036a166f460b5e45603d",
+      "id": "2439873f239c63da10d3adbf",
       "licence": "0280322Y",
       "name": "Thierry Bourrie",
       "date": "2026-06-28",
@@ -413,16 +393,15 @@
       "category": "S2HAD",
       "departure": 2,
       "series": [
-        259,
         259
       ],
-      "score": 5,
+      "score": 259,
       "rank": null,
       "source": "ffta",
       "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1112022_20260628_74898.pdf"
     },
     {
-      "id": "dd266073b6867e217393c5b4",
+      "id": "fff0389dd334873f75779edc",
       "licence": "0280322Y",
       "name": "Thierry Bourrie",
       "date": "2026-06-28",
@@ -432,10 +411,9 @@
       "category": "S2HAD",
       "departure": 1,
       "series": [
-        255,
         255
       ],
-      "score": 2,
+      "score": 255,
       "rank": 5,
       "source": "ffta",
       "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1112022_20260628_74898.pdf"
