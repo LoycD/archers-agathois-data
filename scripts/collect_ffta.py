@@ -136,31 +136,49 @@ def pdf_to_text(pdf_bytes):
         return txt.read_text(encoding="utf-8", errors="replace")
 
 
+def date_from_pdf_url(pdf_url):
+    name = Path(urlparse(pdf_url).path).name
+    m = re.search(r"_(20\d{6})_", name)
+    if not m:
+        return None
+    raw = m.group(1)
+    try:
+        return datetime.strptime(raw, "%Y%m%d").date().isoformat()
+    except ValueError:
+        return None
+
+
 def parse_header(text, pdf_url):
     lines = [norm(x) for x in text.splitlines() if norm(x)]
-    head = " ".join(lines[:30])
+    head = " ".join(lines[:45])
 
-    m = re.search(r"\ble\s+(\d{2})/(\d{2})/(\d{4})\b", head, re.I)
-    date_iso = f"{m.group(3)}-{m.group(2)}-{m.group(1)}" if m else None
+    m = re.search(
+        r"\b(?:le|du)\s+(\d{2})/(\d{2})/(\d{4})(?:\s+au\s+\d{2}/\d{2}/\d{4})?",
+        head,
+        re.I,
+    )
+
+    if m:
+        date_iso = f"{m.group(3)}-{m.group(2)}-{m.group(1)}"
+        before = head[:m.start()].strip(" -")
+    else:
+        date_iso = date_from_pdf_url(pdf_url)
+        before = head
+
+    before = re.sub(r"^Classement Officiel\s*", "", before, flags=re.I)
+    before = norm(before).strip(" -")
 
     title = ""
     place = ""
+    chunks = [c.strip() for c in before.split(" - ") if c.strip()]
 
-    if m:
-        before = re.sub(
-            r"^Classement Officiel\s*",
-            "",
-            head[:m.start()].strip(" -"),
-            flags=re.I,
-        )
-        chunks = [c.strip() for c in before.split(" - ") if c.strip()]
-
-        if chunks:
-            place = chunks[-1]
-        if len(chunks) >= 2:
-            title = " - ".join(chunks[:-1])
-        elif chunks:
-            title = chunks[0]
+    if len(chunks) >= 3:
+        place = chunks[-1]
+        title = " - ".join(chunks[:-1])
+    elif len(chunks) == 2:
+        title = " - ".join(chunks)
+    elif chunks:
+        title = chunks[0]
 
     filename = Path(urlparse(pdf_url).path).name
     prefix = filename.split("_", 1)[0].upper()
@@ -249,6 +267,18 @@ def category_from_row(values, line, licence):
     return None
 
 
+
+def numbers_after_category(line, licence, category):
+    pos = line.upper().find(licence.upper())
+    if pos < 0:
+        return []
+    tail = line[pos + len(licence):]
+    cat_pos = tail.upper().find(category.upper())
+    if cat_pos < 0:
+        return []
+    after = tail[cat_pos + len(category):]
+    return [int(x) for x in re.findall(r"(?<![\w])(\d{1,4})(?![\w])", after)]
+
 def parse_row_by_header(lines, row_index, licence):
     header_index, header_line = find_header_before(lines, row_index)
     if header_line is None:
@@ -278,6 +308,13 @@ def parse_row_by_header(lines, row_index, licence):
             val = first_int(values.get(key))
             if val is not None:
                 series.append(val)
+
+    if not series:
+        nums = numbers_after_category(lines[row_index], licence, category)
+        if len(nums) >= 3:
+            candidate_s1, candidate_s2, candidate_total = nums[0], nums[1], nums[2]
+            if candidate_total == total:
+                series = [candidate_s1, candidate_s2]
 
     return {
         "category": category,
@@ -433,10 +470,10 @@ def main():
     save_json(
         RESULTS_FILE,
         {
-            "version": 2,
+            "version": 3,
             "updated_at": now,
             "source": "FFTA official competition result PDFs",
-            "parser": "header-columns-v2",
+            "parser": "header-columns-v3",
             "results": merged,
         },
     )
@@ -445,7 +482,7 @@ def main():
     save_json(
         PROCESSED_FILE,
         {
-            "version": 2,
+            "version": 3,
             "updated_at": now,
             "processed_urls": sorted(processed),
         },
