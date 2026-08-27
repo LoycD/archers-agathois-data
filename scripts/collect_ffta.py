@@ -10,6 +10,7 @@ import subprocess
 import tempfile
 import time
 import unicodedata
+from collections import Counter
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 from urllib.parse import urljoin, urlparse
@@ -24,18 +25,10 @@ PROCESSED_FILE = ROOT / "data" / "processed.json"
 
 CALENDAR_URL = "https://www.ffta.fr/competitions"
 HEADERS = {
-    "User-Agent": "ArchersAgathoisResultsCollector/2.0 (+https://github.com/LoycD/archers-agathois-data)",
+    "User-Agent": "ArchersAgathoisResultsCollector/4.0 (+https://github.com/LoycD/archers-agathois-data)",
     "Accept-Language": "fr-FR,fr;q=0.9",
 }
-DISCIPLINE_BY_PREFIX = {
-    "S": "18m",
-    "T": "tae",
-    "N": "nature",
-    "3": "3d",
-    "C": "campagne",
-    "B": "beursault",
-}
-REQUEST_DELAY = 0.35
+REQUEST_DELAY = 0.25
 
 
 def load_json(path, default):
@@ -77,9 +70,11 @@ def calendar_page_url(start, end, page):
     )
 
 
-def discover_result_links(start, end, max_pages=50):
+def discover_result_links(start, end, max_pages=500):
+    """Parcourt tout le calendrier, sans l'ancienne limite de 50 pages."""
     found = []
     seen = set()
+    empty_streak = 0
 
     for page in range(max_pages):
         url = calendar_page_url(start, end, page)
@@ -110,7 +105,13 @@ def discover_result_links(start, end, max_pages=50):
 
         print(f"  -> {len(page_links)} lien(s)")
 
-        if page > 0 and not page_links:
+        if page_links:
+            empty_streak = 0
+        else:
+            empty_streak += 1
+
+        # Deux pages vides consécutives : fin réelle du calendrier demandé.
+        if page > 0 and empty_streak >= 2:
             break
 
         time.sleep(REQUEST_DELAY)
@@ -141,11 +142,43 @@ def date_from_pdf_url(pdf_url):
     m = re.search(r"_(20\d{6})_", name)
     if not m:
         return None
-    raw = m.group(1)
+
     try:
-        return datetime.strptime(raw, "%Y%m%d").date().isoformat()
+        return datetime.strptime(m.group(1), "%Y%m%d").date().isoformat()
     except ValueError:
         return None
+
+
+def discipline_from_text(text, pdf_url):
+    """Détermine la discipline depuis le PDF lui-même avant d'utiliser le préfixe."""
+    head = norm(" ".join(text.splitlines()[:70])).lower()
+
+    if re.search(r"\btae\s*international\b|tir a l.?arc exterieur.*international", head):
+        return "taei"
+    if re.search(r"\btae\s*national\b|tir a l.?arc exterieur.*national", head):
+        return "taen"
+    if re.search(r"\btir\s*3d\b|\b3d\b", head):
+        return "3d"
+    if "nature" in head:
+        return "nature"
+    if "campagne" in head:
+        return "campagne"
+    if "beursault" in head:
+        return "beursault"
+    if re.search(r"18\s*m|18m|tir en salle|salle 2x18", head):
+        return "18m"
+    if re.search(r"\btae\b|tir a l.?arc exterieur", head):
+        # Certains PDF ne précisent pas International/National dans l'en-tête.
+        return "tae"
+
+    prefix = Path(urlparse(pdf_url).path).name.split("_", 1)[0].upper()
+    return {
+        "S": "18m",
+        "N": "nature",
+        "3": "3d",
+        "C": "campagne",
+        "B": "beursault",
+    }.get(prefix, "autre")
 
 
 def parse_header(text, pdf_url):
@@ -180,14 +213,11 @@ def parse_header(text, pdf_url):
     elif chunks:
         title = chunks[0]
 
-    filename = Path(urlparse(pdf_url).path).name
-    prefix = filename.split("_", 1)[0].upper()
-
     return {
         "date": date_iso,
         "competition": title or "Concours FFTA",
         "place": place,
-        "discipline": DISCIPLINE_BY_PREFIX.get(prefix, "autre"),
+        "discipline": discipline_from_text(text, pdf_url),
         "source_url": pdf_url,
     }
 
@@ -202,7 +232,7 @@ HEADER_ALIASES = {
 }
 
 
-def find_header_before(lines, row_index, max_up=35):
+def find_header_before(lines, row_index, max_up=45):
     start = max(0, row_index - max_up)
 
     for i in range(row_index - 1, start - 1, -1):
@@ -220,12 +250,10 @@ def column_positions(header_line):
 
     for key, aliases in HEADER_ALIASES.items():
         best = None
-
         for alias in aliases:
             m = re.search(re.escape(alias), header_line, re.I)
             if m and (best is None or m.start() < best):
                 best = m.start()
-
         if best is not None:
             found[key] = best
 
@@ -250,79 +278,119 @@ def first_int(value):
     return int(m.group(0)) if m else None
 
 
-def category_from_row(values, line, licence):
-    cat = (values.get("category") or "").strip().upper()
-
-    m = re.search(r"\b((?:U\d+|S\d)[HF][A-Z]{2})\b", cat)
-    if m:
-        return m.group(1)
-
+def find_category(line, licence, preferred=""):
+    sources = [preferred]
     pos = line.upper().find(licence.upper())
-    if pos >= 0:
-        tail = line[pos + len(licence):]
-        m = re.search(r"\b((?:U\d+|S\d)[HF][A-Z]{2})\b", tail.upper())
+    sources.append(line[pos + len(licence):] if pos >= 0 else line)
+
+    for source in sources:
+        m = re.search(r"\b((?:U\d+|S\d)[HF][A-Z]{2})\b", source.upper())
         if m:
             return m.group(1)
 
     return None
 
 
-
 def numbers_after_category(line, licence, category):
     pos = line.upper().find(licence.upper())
     if pos < 0:
         return []
+
     tail = line[pos + len(licence):]
     cat_pos = tail.upper().find(category.upper())
-    if cat_pos < 0:
-        return []
-    after = tail[cat_pos + len(category):]
-    return [int(x) for x in re.findall(r"(?<![\w])(\d{1,4})(?![\w])", after)]
+    after = tail[cat_pos + len(category):] if cat_pos >= 0 else tail
 
-def parse_row_by_header(lines, row_index, licence):
-    header_index, header_line = find_header_before(lines, row_index)
-    if header_line is None:
+    return [
+        int(x)
+        for x in re.findall(r"(?<![\w])(\d{1,4})(?![\w])", after)
+    ]
+
+
+def fallback_row(line, licence):
+    """Secours pour les tableaux FFTA dont les colonnes sont décalées."""
+    category = find_category(line, licence)
+    if not category:
         return None
 
-    positions = column_positions(header_line)
-
-    if not all(k in positions for k in ("licence", "category", "total")):
+    nums = numbers_after_category(line, licence, category)
+    if not nums:
         return None
 
-    values = slice_columns(lines[row_index], positions)
-
-    row_licence = re.sub(r"\s+", "", values.get("licence", "")).upper()
-    if licence.upper() not in row_licence:
-        return None
-
-    category = category_from_row(values, lines[row_index], licence)
-    total = first_int(values.get("total"))
-    rank = first_int(values.get("rank")) if "rank" in positions else None
-
-    if not category or total is None or total <= 0:
-        return None
-
+    score = None
     series = []
-    for key in ("p1", "p2"):
-        if key in positions:
-            val = first_int(values.get(key))
-            if val is not None:
-                series.append(val)
 
-    if not series:
-        nums = numbers_after_category(lines[row_index], licence, category)
-        if len(nums) >= 3:
-            candidate_s1, candidate_s2, candidate_total = nums[0], nums[1], nums[2]
-            if candidate_total == total:
-                series = [candidate_s1, candidate_s2]
+    # Cherche d'abord deux séries dont la somme correspond au total.
+    for i in range(len(nums) - 2):
+        s1, s2, total = nums[i:i + 3]
+        if s1 >= 0 and s2 >= 0 and s1 + s2 == total and total > 0:
+            series = [s1, s2]
+            score = total
+            break
+
+    # Pour Nature / 3D / certains TAE, il n'y a pas forcément 2 séries exploitables.
+    if score is None:
+        plausible = [n for n in nums if 1 <= n <= 1000]
+        if plausible:
+            score = max(plausible)
+
+    if not score:
+        return None
+
+    pos = line.upper().find(licence.upper())
+    rank = first_int(line[:pos]) if pos >= 0 else None
 
     return {
         "category": category,
         "series": series,
-        "score": total,
+        "score": score,
         "rank": rank,
-        "header_index": header_index,
+        "header_index": None,
     }
+
+
+def parse_row(lines, row_index, licence):
+    header_index, header_line = find_header_before(lines, row_index)
+
+    if header_line is not None:
+        positions = column_positions(header_line)
+
+        if all(k in positions for k in ("licence", "category", "total")):
+            values = slice_columns(lines[row_index], positions)
+            row_licence = re.sub(r"\s+", "", values.get("licence", "")).upper()
+
+            if licence.upper() in row_licence:
+                category = find_category(
+                    lines[row_index], licence, values.get("category", "")
+                )
+                total = first_int(values.get("total"))
+                rank = first_int(values.get("rank")) if "rank" in positions else None
+
+                if category and total is not None and total > 0:
+                    series = []
+                    for key in ("p1", "p2"):
+                        if key in positions:
+                            val = first_int(values.get(key))
+                            if val is not None:
+                                series.append(val)
+
+                    if not series:
+                        nums = numbers_after_category(
+                            lines[row_index], licence, category
+                        )
+                        for i in range(len(nums) - 2):
+                            if nums[i] + nums[i + 1] == nums[i + 2] == total:
+                                series = [nums[i], nums[i + 1]]
+                                break
+
+                    return {
+                        "category": category,
+                        "series": series,
+                        "score": total,
+                        "rank": rank,
+                        "header_index": header_index,
+                    }
+
+    return fallback_row(lines[row_index], licence)
 
 
 def parse_archer_result(text, pdf_url, archer):
@@ -335,14 +403,12 @@ def parse_archer_result(text, pdf_url, archer):
         if licence not in line.upper():
             continue
 
-        parsed = parse_row_by_header(lines, i, licence)
-
+        parsed = parse_row(lines, i, licence)
         if not parsed:
-            print(f"  ! {licence}: ligne trouvée mais colonnes FFTA non reconnues")
+            print(f"  ! {licence}: ligne trouvée mais non reconnue")
             continue
 
-        dep = 1 + len(out)
-
+        departure = 1 + len(out)
         row = {
             "id": "",
             "licence": licence,
@@ -352,7 +418,7 @@ def parse_archer_result(text, pdf_url, archer):
             "place": header["place"],
             "discipline": header["discipline"],
             "category": parsed["category"],
-            "departure": dep,
+            "departure": departure,
             "series": parsed["series"],
             "score": parsed["score"],
             "rank": parsed["rank"],
@@ -365,7 +431,7 @@ def parse_archer_result(text, pdf_url, archer):
             row["date"] or "",
             row["discipline"],
             str(row["score"]),
-            str(dep),
+            str(departure),
             Path(urlparse(pdf_url).path).name,
         ])
         row["id"] = hashlib.sha256(key.encode()).hexdigest()[:24]
@@ -376,12 +442,10 @@ def parse_archer_result(text, pdf_url, archer):
 
 def merge_results(existing, incoming):
     by = {r.get("id"): r for r in existing if r.get("id")}
-    added = 0
+    before = set(by)
 
-    for r in incoming:
-        if r["id"] not in by:
-            added += 1
-        by[r["id"]] = r
+    for row in incoming:
+        by[row["id"]] = row
 
     merged = list(by.values())
     merged.sort(
@@ -392,7 +456,8 @@ def merge_results(existing, incoming):
         ),
         reverse=True,
     )
-    return merged, added
+
+    return merged, len(set(by) - before)
 
 
 def main():
@@ -406,7 +471,7 @@ def main():
     ap.add_argument(
         "--rebuild",
         action="store_true",
-        help="Reconstruit results.json uniquement avec les PDF retraités pendant ce passage.",
+        help="Reconstruit results.json avec tous les PDF de la période.",
     )
     args = ap.parse_args()
 
@@ -425,8 +490,14 @@ def main():
     start = end - timedelta(days=max(1, args.days_back))
     links = discover_result_links(start, end)
 
+    print(
+        f"[calendrier] {len(links)} PDF résultat(s) découvert(s) "
+        f"du {start} au {end}"
+    )
+
     incoming = []
     newly = []
+    pdf_counts = Counter()
 
     for n, url in enumerate(links, 1):
         if url in processed and not args.force:
@@ -445,18 +516,25 @@ def main():
                 continue
 
             text = pdf_to_text(r.content)
+            header = parse_header(text, r.url)
+            discipline = header["discipline"]
+            pdf_counts[discipline] += 1
+
             hits = 0
             upper = text.upper()
 
-            for a in archers:
-                if a["licence"].upper() not in upper:
+            for archer in archers:
+                if archer["licence"].upper() not in upper:
                     continue
 
-                rows = parse_archer_result(text, r.url, a)
+                rows = parse_archer_result(text, r.url, archer)
                 incoming.extend(rows)
                 hits += len(rows)
 
-            print(f"  -> {hits} résultat(s) Archers Agathois")
+            print(
+                f"  -> {hits} résultat(s) Archers Agathois "
+                f"[{discipline}]"
+            )
             newly.append(url)
 
         except Exception as exc:
@@ -470,10 +548,10 @@ def main():
     save_json(
         RESULTS_FILE,
         {
-            "version": 3,
+            "version": 4,
             "updated_at": now,
             "source": "FFTA official competition result PDFs",
-            "parser": "header-columns-v3",
+            "parser": "multi-discipline-v4",
             "results": merged,
         },
     )
@@ -482,12 +560,34 @@ def main():
     save_json(
         PROCESSED_FILE,
         {
-            "version": 3,
+            "version": 4,
             "updated_at": now,
             "processed_urls": sorted(processed),
         },
     )
 
+    result_counts = Counter(r.get("discipline", "autre") for r in incoming)
+    order = [
+        ("18m", "18 m"),
+        ("taei", "TAEI"),
+        ("taen", "TAEN"),
+        ("tae", "TAE non précisé"),
+        ("nature", "Nature"),
+        ("3d", "3D"),
+        ("campagne", "Campagne"),
+        ("beursault", "Beursault"),
+        ("autre", "Autre"),
+    ]
+
+    print("\n=== BILAN V4 ===")
+    print(
+        "PDF parcourus : "
+        + " | ".join(f"{label}: {pdf_counts[key]}" for key, label in order)
+    )
+    print(
+        "Résultats club : "
+        + " | ".join(f"{label}: {result_counts[key]}" for key, label in order)
+    )
     print(
         f"Terminé: {len(incoming)} trouvé(s), "
         f"{added} nouveau(x), {len(merged)} total."
