@@ -1,0 +1,61 @@
+name: Collecte résultats FFTA
+
+on:
+  workflow_dispatch:
+    inputs:
+      days_back:
+        description: "Nombre de jours à remonter"
+        required: true
+        default: "60"
+
+  schedule:
+    - cron: "17 */6 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ffta-results-collector
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Installer pdftotext
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y poppler-utils
+
+      - name: Installer les dépendances Python
+        run: pip install -r requirements.txt
+
+      - name: Collecter les résultats FFTA
+        env:
+          DAYS_BACK: ${{ github.event.inputs.days_back || '45' }}
+        run: python scripts/collect_ffta.py --days-back "$DAYS_BACK"
+
+      - name: Publier les données si elles ont changé
+        run: |
+          if git diff --quiet -- data/results.json data/processed.json; then
+            echo "Aucune modification."
+            exit 0
+          fi
+
+          git config user.name "archers-agathois-bot"
+          git config user.email "actions@users.noreply.github.com"
+
+          git add data/results.json data/processed.json
+          git commit -m "Mise à jour automatique des résultats FFTA"
+          git push
