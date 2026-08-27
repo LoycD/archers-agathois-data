@@ -1,5 +1,444 @@
 {
   "version": 1,
-  "updated_at": null,
-  "results": []
+  "updated_at": "2026-08-27T08:46:44+00:00",
+  "source": "FFTA official competition result PDFs",
+  "results": [
+    {
+      "id": "ca70f910b2b20412733dea76",
+      "licence": "0969845E",
+      "name": "Eric Benard",
+      "date": "2026-07-26",
+      "competition": "CONCOURS 3D 2 DEPARTS - DIMANCHE - Tir 3D (1 X 24 CIBLES)",
+      "place": "ROBION",
+      "discipline": "3d",
+      "category": "S3HCL",
+      "departure": 1,
+      "series": [
+        351,
+        351
+      ],
+      "score": 5,
+      "rank": 3,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1384129_20260726_75988.pdf"
+    },
+    {
+      "id": "8f60916140d416f8e4580ad3",
+      "licence": "0969843C",
+      "name": "Anne Barbara Benard",
+      "date": "2026-07-26",
+      "competition": "CONCOURS 3D 2 DEPARTS - DIMANCHE - Tir 3D (1 X 24 CIBLES)",
+      "place": "ROBION",
+      "discipline": "3d",
+      "category": "S3FCL",
+      "departure": 1,
+      "series": [
+        353,
+        353
+      ],
+      "score": 6,
+      "rank": 4,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1384129_20260726_75988.pdf"
+    },
+    {
+      "id": "77027992a07a598e31717c81",
+      "licence": "0969845E",
+      "name": "Eric Benard",
+      "date": "2026-07-25",
+      "competition": "CONCOURS 3D 2 DEPARTS - SAMEDI - Tir 3D (1 X 24 CIBLES)",
+      "place": "ROBION",
+      "discipline": "3d",
+      "category": "S3HCL",
+      "departure": 2,
+      "series": [
+        317,
+        317
+      ],
+      "score": 2,
+      "rank": null,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1384129_20260725_75987.pdf"
+    },
+    {
+      "id": "0f65415e589188e67df9accd",
+      "licence": "0969845E",
+      "name": "Eric Benard",
+      "date": "2026-07-25",
+      "competition": "CONCOURS 3D 2 DEPARTS - SAMEDI - Tir 3D (1 X 24 CIBLES)",
+      "place": "ROBION",
+      "discipline": "3d",
+      "category": "S3HCL",
+      "departure": 1,
+      "series": [
+        347,
+        347
+      ],
+      "score": 3,
+      "rank": 2,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1384129_20260725_75987.pdf"
+    },
+    {
+      "id": "98c5f474b390469cabfaf2c9",
+      "licence": "0969843C",
+      "name": "Anne Barbara Benard",
+      "date": "2026-07-25",
+      "competition": "CONCOURS 3D 2 DEPARTS - SAMEDI - Tir 3D (1 X 24 CIBLES)",
+      "place": "ROBION",
+      "discipline": "3d",
+      "category": "S3FCL",
+      "departure": 1,
+      "series": [
+        332,
+        332
+      ],
+      "score": 6,
+      "rank": 1,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1384129_20260725_75987.pdf"
+    },
+    {
+      "id": "ed21f137813d9c43d06f59d7",
+      "licence": "1034590Q",
+      "name": "Francois Pujo",
+      "date": "2026-07-12",
+      "competition": "3D 2 DEPARTS DIMANCHE - Tir 3D (1 X 24 CIBLES)",
+      "place": "PEYROLE",
+      "discipline": "3d",
+      "category": "S3HCL",
+      "departure": 2,
+      "series": [
+        258,
+        258
+      ],
+      "score": 2,
+      "rank": null,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1181205_20260712_75826.pdf"
+    },
+    {
+      "id": "97361a984832a7ff0d4e0239",
+      "licence": "1034590Q",
+      "name": "Francois Pujo",
+      "date": "2026-07-12",
+      "competition": "3D 2 DEPARTS DIMANCHE - Tir 3D (1 X 24 CIBLES)",
+      "place": "PEYROLE",
+      "discipline": "3d",
+      "category": "S3HCL",
+      "departure": 1,
+      "series": [
+        324,
+        324
+      ],
+      "score": 2,
+      "rank": 2,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1181205_20260712_75826.pdf"
+    },
+    {
+      "id": "37e81d58f3034f6f3c288260",
+      "licence": "0972018S",
+      "name": "Bruno Benit",
+      "date": "2026-07-12",
+      "competition": "3D 2 DEPARTS DIMANCHE - Tir 3D (1 X 24 CIBLES)",
+      "place": "PEYROLE",
+      "discipline": "3d",
+      "category": "S3HAD",
+      "departure": 2,
+      "series": [
+        203,
+        203
+      ],
+      "score": 1,
+      "rank": null,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1181205_20260712_75826.pdf"
+    },
+    {
+      "id": "923f0e8b0382214bb17645ed",
+      "licence": "0972018S",
+      "name": "Bruno Benit",
+      "date": "2026-07-12",
+      "competition": "3D 2 DEPARTS DIMANCHE - Tir 3D (1 X 24 CIBLES)",
+      "place": "PEYROLE",
+      "discipline": "3d",
+      "category": "S3HAD",
+      "departure": 1,
+      "series": [
+        230,
+        230
+      ],
+      "score": 4,
+      "rank": 1,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1181205_20260712_75826.pdf"
+    },
+    {
+      "id": "c34c519dac815c35982d0859",
+      "licence": "0969845E",
+      "name": "Eric Benard",
+      "date": "2026-07-12",
+      "competition": "3D 2 DEPARTS DIMANCHE - Tir 3D (1 X 24 CIBLES)",
+      "place": "PEYROLE",
+      "discipline": "3d",
+      "category": "S3HCL",
+      "departure": 1,
+      "series": [
+        309,
+        309
+      ],
+      "score": 4,
+      "rank": 4,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1181205_20260712_75826.pdf"
+    },
+    {
+      "id": "f648431ce68ee4236cc980f2",
+      "licence": "0969843C",
+      "name": "Anne Barbara Benard",
+      "date": "2026-07-12",
+      "competition": "3D 2 DEPARTS DIMANCHE - Tir 3D (1 X 24 CIBLES)",
+      "place": "PEYROLE",
+      "discipline": "3d",
+      "category": "S3FCL",
+      "departure": 1,
+      "series": [
+        360,
+        360
+      ],
+      "score": 3,
+      "rank": 1,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1181205_20260712_75826.pdf"
+    },
+    {
+      "id": "8218dcd68c03f562d686e70c",
+      "licence": "0319272K",
+      "name": "Laurent Zdyb",
+      "date": "2026-07-12",
+      "competition": "3D 2 DEPARTS DIMANCHE - Tir 3D (1 X 24 CIBLES)",
+      "place": "PEYROLE",
+      "discipline": "3d",
+      "category": "S2HTL",
+      "departure": 2,
+      "series": [
+        466,
+        466
+      ],
+      "score": 14,
+      "rank": null,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1181205_20260712_75826.pdf"
+    },
+    {
+      "id": "944a97874f6a7df089c67784",
+      "licence": "0319272K",
+      "name": "Laurent Zdyb",
+      "date": "2026-07-12",
+      "competition": "3D 2 DEPARTS DIMANCHE - Tir 3D (1 X 24 CIBLES)",
+      "place": "PEYROLE",
+      "discipline": "3d",
+      "category": "S2HTL",
+      "departure": 1,
+      "series": [
+        462,
+        462
+      ],
+      "score": 15,
+      "rank": 2,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1181205_20260712_75826.pdf"
+    },
+    {
+      "id": "117e58defb43d4700694af9d",
+      "licence": "0969845E",
+      "name": "Eric Benard",
+      "date": "2026-07-11",
+      "competition": "3D 2 DEPARTS SAMEDI - Tir 3D (1 X 24 CIBLES)",
+      "place": "PEYROLE",
+      "discipline": "3d",
+      "category": "S3HCL",
+      "departure": 2,
+      "series": [
+        268,
+        268
+      ],
+      "score": 3,
+      "rank": null,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1181205_20260711_75825.pdf"
+    },
+    {
+      "id": "d61764fc3f39496216f32f54",
+      "licence": "0969845E",
+      "name": "Eric Benard",
+      "date": "2026-07-11",
+      "competition": "3D 2 DEPARTS SAMEDI - Tir 3D (1 X 24 CIBLES)",
+      "place": "PEYROLE",
+      "discipline": "3d",
+      "category": "S3HCL",
+      "departure": 1,
+      "series": [
+        296,
+        296
+      ],
+      "score": 3,
+      "rank": 3,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1181205_20260711_75825.pdf"
+    },
+    {
+      "id": "602e8e0f2d9249b2d6515d70",
+      "licence": "0969843C",
+      "name": "Anne Barbara Benard",
+      "date": "2026-07-11",
+      "competition": "3D 2 DEPARTS SAMEDI - Tir 3D (1 X 24 CIBLES)",
+      "place": "PEYROLE",
+      "discipline": "3d",
+      "category": "S3FCL",
+      "departure": 1,
+      "series": [
+        322,
+        322
+      ],
+      "score": 2,
+      "rank": 1,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1181205_20260711_75825.pdf"
+    },
+    {
+      "id": "34f9f436633342154c5b0c04",
+      "licence": "1051723P",
+      "name": "Claude Calbet",
+      "date": "2026-06-28",
+      "competition": "TAE NATIONAL REGIONAL - Tir a l'Arc Exterieur (Tir a l'Arc Exterieur)",
+      "place": "FRONTIGNAN",
+      "discipline": "tae",
+      "category": "S3HCO",
+      "departure": 1,
+      "series": [
+        266,
+        298
+      ],
+      "score": 564,
+      "rank": null,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/T_1134126_20260628_74857.pdf"
+    },
+    {
+      "id": "f29ae71cc156975ec59d0940",
+      "licence": "1034590Q",
+      "name": "Francois Pujo",
+      "date": "2026-06-28",
+      "competition": "CONCOURS 3D - Tir 3D (1 X 24 CIBLES)",
+      "place": "SALMIECH",
+      "discipline": "3d",
+      "category": "S3HCL",
+      "departure": 2,
+      "series": [
+        308,
+        308
+      ],
+      "score": 2,
+      "rank": null,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1112022_20260628_74898.pdf"
+    },
+    {
+      "id": "8ea0962a0a00257669812898",
+      "licence": "1034590Q",
+      "name": "Francois Pujo",
+      "date": "2026-06-28",
+      "competition": "CONCOURS 3D - Tir 3D (1 X 24 CIBLES)",
+      "place": "SALMIECH",
+      "discipline": "3d",
+      "category": "S3HCL",
+      "departure": 1,
+      "series": [
+        291,
+        291
+      ],
+      "score": 4,
+      "rank": 3,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1112022_20260628_74898.pdf"
+    },
+    {
+      "id": "311a7e282879fa7227888166",
+      "licence": "0319272K",
+      "name": "Laurent Zdyb",
+      "date": "2026-06-28",
+      "competition": "CONCOURS 3D - Tir 3D (1 X 24 CIBLES)",
+      "place": "SALMIECH",
+      "discipline": "3d",
+      "category": "S2HTL",
+      "departure": 2,
+      "series": [
+        458,
+        458
+      ],
+      "score": 13,
+      "rank": null,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1112022_20260628_74898.pdf"
+    },
+    {
+      "id": "bddd00271452877037982aa5",
+      "licence": "0319272K",
+      "name": "Laurent Zdyb",
+      "date": "2026-06-28",
+      "competition": "CONCOURS 3D - Tir 3D (1 X 24 CIBLES)",
+      "place": "SALMIECH",
+      "discipline": "3d",
+      "category": "S2HTL",
+      "departure": 1,
+      "series": [
+        405,
+        405
+      ],
+      "score": 6,
+      "rank": 2,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1112022_20260628_74898.pdf"
+    },
+    {
+      "id": "e619036a166f460b5e45603d",
+      "licence": "0280322Y",
+      "name": "Thierry Bourrie",
+      "date": "2026-06-28",
+      "competition": "CONCOURS 3D - Tir 3D (1 X 24 CIBLES)",
+      "place": "SALMIECH",
+      "discipline": "3d",
+      "category": "S2HAD",
+      "departure": 2,
+      "series": [
+        259,
+        259
+      ],
+      "score": 5,
+      "rank": null,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1112022_20260628_74898.pdf"
+    },
+    {
+      "id": "dd266073b6867e217393c5b4",
+      "licence": "0280322Y",
+      "name": "Thierry Bourrie",
+      "date": "2026-06-28",
+      "competition": "CONCOURS 3D - Tir 3D (1 X 24 CIBLES)",
+      "place": "SALMIECH",
+      "discipline": "3d",
+      "category": "S2HAD",
+      "departure": 1,
+      "series": [
+        255,
+        255
+      ],
+      "score": 2,
+      "rank": 5,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1112022_20260628_74898.pdf"
+    }
+  ]
 }
