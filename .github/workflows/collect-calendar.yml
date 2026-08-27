@@ -1,0 +1,57 @@
+name: Collecte calendrier FFTA
+
+on:
+  workflow_dispatch:
+    inputs:
+      days_ahead:
+        description: "Nombre de jours à venir"
+        required: true
+        default: "365"
+      days_back:
+        description: "Nombre de jours passés à conserver"
+        required: true
+        default: "30"
+
+  schedule:
+    - cron: "47 */6 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ffta-calendar-collector
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Installer les dépendances Python
+        run: pip install -r requirements.txt
+
+      - name: Collecter le calendrier et les mandats FFTA
+        run: python scripts/collect_calendar.py --days-ahead "${{ github.event.inputs.days_ahead || '365' }}" --days-back "${{ github.event.inputs.days_back || '30' }}"
+
+      - name: Publier les données si elles ont changé
+        run: |
+          if git diff --quiet -- data/calendar.json; then
+            echo "Aucune modification."
+            exit 0
+          fi
+
+          git config user.name "archers-agathois-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/calendar.json
+          git commit -m "Mise à jour automatique du calendrier FFTA"
+          git push
