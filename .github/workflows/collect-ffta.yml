@@ -7,6 +7,11 @@ on:
         description: "Nombre de jours à remonter"
         required: true
         default: "60"
+      rebuild:
+        description: "Reconstruire les résultats avec le nouveau parseur"
+        required: true
+        type: boolean
+        default: false
 
   schedule:
     - cron: "17 */6 * * *"
@@ -44,7 +49,13 @@ jobs:
       - name: Collecter les résultats FFTA
         env:
           DAYS_BACK: ${{ github.event.inputs.days_back || '45' }}
-        run: python scripts/collect_ffta.py --days-back "$DAYS_BACK"
+          REBUILD: ${{ github.event.inputs.rebuild || 'false' }}
+        run: |
+          EXTRA=""
+          if [ "$REBUILD" = "true" ]; then
+            EXTRA="--rebuild"
+          fi
+          python scripts/collect_ffta.py --days-back "$DAYS_BACK" $EXTRA
 
       - name: Publier les données si elles ont changé
         run: |
