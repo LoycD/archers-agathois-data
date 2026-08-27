@@ -1,8 +1,8 @@
 {
   "version": 4,
-  "updated_at": "2026-08-27T15:53:10+00:00",
+  "updated_at": "2026-08-27T17:39:56+00:00",
   "source": "FFTA official competition result PDFs",
-  "parser": "multi-discipline-v4",
+  "parser": "multi-discipline-v4.1-tae-sections",
   "results": [
     {
       "id": "7c6eea88ad1dca6166b5ffe7",
@@ -407,13 +407,13 @@
       "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1181205_20260711_75825.pdf"
     },
     {
-      "id": "5a4150a46a044ee868c862da",
+      "id": "6213361eb2b7cb66fb5fede9",
       "licence": "1051723P",
       "name": "Claude Calbet",
       "date": "2026-06-28",
       "competition": "TAE NATIONAL REGIONAL - Tir a l'Arc Exterieur (Tir a l'Arc Exterieur)",
       "place": "FRONTIGNAN",
-      "discipline": "taei",
+      "discipline": "taen",
       "category": "S3HCO",
       "departure": 1,
       "series": [
@@ -856,13 +856,13 @@
       "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1182214_20260614_75017.pdf"
     },
     {
-      "id": "0cc61563a4411fdbab61b6a8",
+      "id": "20dff77a33d8c28cbb79cde9",
       "licence": "0016116T",
       "name": "Lou Anne Mogenot",
       "date": "2026-06-14",
       "competition": "CONCOURS QUALIFICATIF EXTERIEUR - Tir a l'Arc Exterieur (Tir a l'Arc Exterieur)",
       "place": "LATTES",
-      "discipline": "taei",
+      "discipline": "taen",
       "category": "U18FCL",
       "departure": 1,
       "series": [
@@ -875,13 +875,13 @@
       "source_url": "https://extranet.ffta.fr/pdfresultats/2026/T_1134123_20260614_74888.pdf"
     },
     {
-      "id": "7547ecc753f2ea5883369078",
+      "id": "00a2fcdd5e2c1b63cdc7b39a",
       "licence": "0015250B",
       "name": "Loic Dupuy",
       "date": "2026-06-14",
       "competition": "CONCOURS QUALIFICATIF EXTERIEUR - Tir a l'Arc Exterieur (Tir a l'Arc Exterieur)",
       "place": "LATTES",
-      "discipline": "taei",
+      "discipline": "taen",
       "category": "S2HCL",
       "departure": 1,
       "series": [
@@ -1192,13 +1192,13 @@
       "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1111243_20260606_74852.pdf"
     },
     {
-      "id": "bfcb12aae3c1295ec89c6ad4",
+      "id": "11bb2c74dd3a24cd1af36f35",
       "licence": "0016116T",
       "name": "Lou Anne Mogenot",
       "date": "2026-05-24",
       "competition": "CONCOURS TAEN ET TAEI - Tir a l'Arc Exterieur (Tir a l'Arc Exterieur)",
       "place": "BEZIERS",
-      "discipline": "taei",
+      "discipline": "taen",
       "category": "U18FCL",
       "departure": 1,
       "series": [
@@ -1211,13 +1211,13 @@
       "source_url": "https://extranet.ffta.fr/pdfresultats/2026/T_1134119_20260524_75121.pdf"
     },
     {
-      "id": "242039786389b1161e61c728",
+      "id": "2c222e706e1e11d09f2ea22d",
       "licence": "0015250B",
       "name": "Loic Dupuy",
       "date": "2026-05-24",
       "competition": "CONCOURS TAEN ET TAEI - Tir a l'Arc Exterieur (Tir a l'Arc Exterieur)",
       "place": "BEZIERS",
-      "discipline": "taei",
+      "discipline": "taen",
       "category": "S2HCL",
       "departure": 1,
       "series": [
