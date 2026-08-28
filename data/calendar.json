@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-08-27T19:25:41+00:00",
+  "updated_at": "2026-08-28T02:20:34+00:00",
   "source": "FFTA competitions calendar + detail pages",
   "departments": [
     "34",
@@ -9,8 +9,8 @@
     "66"
   ],
   "range": {
-    "start": "2026-07-28",
-    "end": "2027-08-27"
+    "start": "2026-07-29",
+    "end": "2027-08-28"
   },
   "competitions": [
     {
@@ -23,9 +23,9 @@
       "city": "",
       "club": "COMPAGNIE D'ARC BASTIA",
       "department": "30",
-      "detail_url": "https://www.ffta.fr/epreuve/27716",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27716",
       "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
-      "source_url": "https://www.ffta.fr/epreuve/27716",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27716",
       "status": ""
     },
     {
@@ -38,9 +38,9 @@
       "city": "",
       "club": "LES ARCHERS DE LA LANDE CAS",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/epreuve/24895",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/24895",
       "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
-      "source_url": "https://www.ffta.fr/epreuve/24895",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/24895",
       "status": ""
     },
     {
