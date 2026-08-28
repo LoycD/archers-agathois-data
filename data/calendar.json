@@ -1,7 +1,7 @@
 {
-  "version": 4,
-  "updated_at": "2026-08-28T06:18:03+00:00",
-  "source": "FFTA competitions calendar + detail pages",
+  "version": 5,
+  "updated_at": "2026-08-28T06:25:01+00:00",
+  "source": "FFTA competitions calendar",
   "departments": [
     "11",
     "30",
@@ -22,21 +22,6 @@
   },
   "competitions": [
     {
-      "ffta_id": "27669",
-      "title": "AMICAL NATURE a SOREDE",
-      "discipline": "nature",
-      "discipline_label": "",
-      "start_date": "2026-09-06",
-      "end_date": "2026-09-06",
-      "city": "",
-      "club": "(SOREDE)",
-      "department": "66",
-      "detail_url": "https://www.ffta.fr/epreuve/27669",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
-      "source_url": "https://www.ffta.fr/epreuve/27669",
-      "status": ""
-    },
-    {
       "ffta_id": "24886",
       "title": "CONCOURS NATURE a LANGLADE",
       "discipline": "nature",
@@ -47,7 +32,7 @@
       "club": "(LANGLADE)",
       "department": "30",
       "detail_url": "https://www.ffta.fr/epreuve/24886",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
+      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/110b95c453e6ba.pdf",
       "source_url": "https://www.ffta.fr/epreuve/24886",
       "status": ""
     },
@@ -62,7 +47,7 @@
       "club": "(LANGLADE)",
       "department": "30",
       "detail_url": "https://www.ffta.fr/epreuve/27016",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
+      "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27016",
       "status": ""
     },
@@ -77,7 +62,7 @@
       "club": "(LANGLADE)",
       "department": "30",
       "detail_url": "https://www.ffta.fr/epreuve/27021",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
+      "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27021",
       "status": ""
     },
@@ -92,7 +77,7 @@
       "club": "(AGDE)",
       "department": "34",
       "detail_url": "https://www.ffta.fr/epreuve/27017",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
+      "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27017",
       "status": ""
     },
@@ -107,7 +92,7 @@
       "club": "(ARLES SUR TECH)",
       "department": "66",
       "detail_url": "https://www.ffta.fr/epreuve/27022",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
+      "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27022",
       "status": ""
     },
@@ -122,7 +107,7 @@
       "club": "(PONT ST ESPRIT)",
       "department": "30",
       "detail_url": "https://www.ffta.fr/epreuve/27024",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
+      "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27024",
       "status": ""
     },
@@ -137,23 +122,8 @@
       "club": "(ROCHEFORT DU GARD)",
       "department": "30",
       "detail_url": "https://www.ffta.fr/epreuve/27026",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
+      "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27026",
-      "status": ""
-    },
-    {
-      "ffta_id": "27025",
-      "title": "SELECTIF SALLE TIR A 18 METRES a PERPIGNAN",
-      "discipline": "18m",
-      "discipline_label": "",
-      "start_date": "2026-10-18",
-      "end_date": "2026-10-18",
-      "city": "",
-      "club": "LES ARCHERS CATALANS - PERPIGNAN",
-      "department": "66",
-      "detail_url": "https://www.ffta.fr/epreuve/27025",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
-      "source_url": "https://www.ffta.fr/epreuve/27025",
       "status": ""
     },
     {
@@ -167,7 +137,7 @@
       "club": "(PERPIGNAN)",
       "department": "66",
       "detail_url": "https://www.ffta.fr/epreuve/27029",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
+      "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27029",
       "status": ""
     },
@@ -182,7 +152,7 @@
       "club": "(ANDUZE)",
       "department": "30",
       "detail_url": "https://www.ffta.fr/epreuve/27031",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
+      "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27031",
       "status": ""
     },
@@ -197,23 +167,8 @@
       "club": "(FRONTIGNAN)",
       "department": "34",
       "detail_url": "https://www.ffta.fr/epreuve/27032",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
+      "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27032",
-      "status": ""
-    },
-    {
-      "ffta_id": "27033",
-      "title": "COMPETITION 2X18M SELECTIF FRANCE a FRONTIGNAN",
-      "discipline": "18m",
-      "discipline_label": "",
-      "start_date": "2026-10-24",
-      "end_date": "2026-10-25",
-      "city": "",
-      "club": "LES ARCHERS DU SOLEIL",
-      "department": "34",
-      "detail_url": "https://www.ffta.fr/epreuve/27033",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
-      "source_url": "https://www.ffta.fr/epreuve/27033",
       "status": ""
     },
     {
@@ -227,23 +182,8 @@
       "club": "(ANDUZE)",
       "department": "30",
       "detail_url": "https://www.ffta.fr/epreuve/27038",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
+      "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27038",
-      "status": ""
-    },
-    {
-      "ffta_id": "27042",
-      "title": "CONCOURS SALLE 18M a PRADES",
-      "discipline": "18m",
-      "discipline_label": "",
-      "start_date": "2026-10-25",
-      "end_date": "2026-10-25",
-      "city": "",
-      "club": "LES ARCHERS DE LLUPIA",
-      "department": "66",
-      "detail_url": "https://www.ffta.fr/epreuve/27042",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
-      "source_url": "https://www.ffta.fr/epreuve/27042",
       "status": ""
     },
     {
@@ -257,23 +197,8 @@
       "club": "(PRADES)",
       "department": "66",
       "detail_url": "https://www.ffta.fr/epreuve/27041",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
+      "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27041",
-      "status": ""
-    },
-    {
-      "ffta_id": "27046",
-      "title": "SELECTIF SALLE TIR A 18 METRES a PERPIGNAN",
-      "discipline": "18m",
-      "discipline_label": "",
-      "start_date": "2026-10-31",
-      "end_date": "2026-11-01",
-      "city": "",
-      "club": "LES ARCHERS CATALANS - PERPIGNAN",
-      "department": "66",
-      "detail_url": "https://www.ffta.fr/epreuve/27046",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
-      "source_url": "https://www.ffta.fr/epreuve/27046",
       "status": ""
     },
     {
@@ -287,23 +212,8 @@
       "club": "(PERPIGNAN)",
       "department": "66",
       "detail_url": "https://www.ffta.fr/epreuve/27047",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
+      "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27047",
-      "status": ""
-    },
-    {
-      "ffta_id": "27049",
-      "title": "TIR A 18M - MONTPELLIER a MONTPELLIER",
-      "discipline": "18m",
-      "discipline_label": "TIR A 18M - MONTPELLIER a MONTPELLIER",
-      "start_date": "2026-11-01",
-      "end_date": "2026-11-01",
-      "city": "",
-      "club": "MONTPELLIER ARC CLUB",
-      "department": "34",
-      "detail_url": "https://www.ffta.fr/epreuve/27049",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
-      "source_url": "https://www.ffta.fr/epreuve/27049",
       "status": ""
     },
     {
@@ -317,7 +227,7 @@
       "club": "(MONTPELLIER)",
       "department": "34",
       "detail_url": "https://www.ffta.fr/epreuve/27048",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
+      "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27048",
       "status": ""
     },
@@ -332,7 +242,7 @@
       "club": "(NIMES)",
       "department": "30",
       "detail_url": "https://www.ffta.fr/epreuve/27054",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
+      "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27054",
       "status": ""
     },
@@ -347,7 +257,7 @@
       "club": "(LATTES)",
       "department": "34",
       "detail_url": "https://www.ffta.fr/epreuve/27055",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
+      "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27055",
       "status": ""
     },
@@ -362,23 +272,8 @@
       "club": "(VINCA)",
       "department": "66",
       "detail_url": "https://www.ffta.fr/epreuve/27058",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
+      "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27058",
-      "status": ""
-    },
-    {
-      "ffta_id": "27059",
-      "title": "18M SAINTE MARIE 66 a SAINTE MARIE",
-      "discipline": "18m",
-      "discipline_label": "",
-      "start_date": "2026-11-08",
-      "end_date": "2026-11-08",
-      "city": "",
-      "club": "ARCHERS ST MARINOIS",
-      "department": "66",
-      "detail_url": "https://www.ffta.fr/epreuve/27059",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
-      "source_url": "https://www.ffta.fr/epreuve/27059",
       "status": ""
     },
     {
@@ -392,7 +287,7 @@
       "club": "(BOMPAS)",
       "department": "66",
       "detail_url": "https://www.ffta.fr/epreuve/27063",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
+      "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27063",
       "status": ""
     },
@@ -407,7 +302,7 @@
       "club": "(ALES)",
       "department": "30",
       "detail_url": "https://www.ffta.fr/epreuve/27068",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
+      "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27068",
       "status": ""
     },
@@ -422,7 +317,7 @@
       "club": "(LUNEL)",
       "department": "34",
       "detail_url": "https://www.ffta.fr/epreuve/27066",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
+      "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27066",
       "status": ""
     },
@@ -437,7 +332,7 @@
       "club": "(VIAS)",
       "department": "34",
       "detail_url": "https://www.ffta.fr/epreuve/27072",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
+      "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27072",
       "status": ""
     },
@@ -452,23 +347,8 @@
       "club": "(VIVIEZ)",
       "department": "11",
       "detail_url": "https://www.ffta.fr/epreuve/27080",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
+      "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27080",
-      "status": ""
-    },
-    {
-      "ffta_id": "27076",
-      "title": "TIR EN SALLE 2X18M SELECTIF FRANCE a FRONTIGNAN",
-      "discipline": "18m",
-      "discipline_label": "TIR EN SALLE 2X18M SELECTIF FRANCE a FRONTIGNAN",
-      "start_date": "2026-11-28",
-      "end_date": "2026-11-29",
-      "city": "",
-      "club": "LES ARCHERS DU SOLEIL",
-      "department": "34",
-      "detail_url": "https://www.ffta.fr/epreuve/27076",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
-      "source_url": "https://www.ffta.fr/epreuve/27076",
       "status": ""
     },
     {
@@ -482,23 +362,8 @@
       "club": "(FRONTIGNAN)",
       "department": "34",
       "detail_url": "https://www.ffta.fr/epreuve/27078",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
+      "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27078",
-      "status": ""
-    },
-    {
-      "ffta_id": "27081",
-      "title": "SELECTIF SALLE TIR A 18 METRES a PERPIGNAN",
-      "discipline": "18m",
-      "discipline_label": "",
-      "start_date": "2026-12-05",
-      "end_date": "2026-12-06",
-      "city": "",
-      "club": "LES ARCHERS CATALANS - PERPIGNAN",
-      "department": "66",
-      "detail_url": "https://www.ffta.fr/epreuve/27081",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
-      "source_url": "https://www.ffta.fr/epreuve/27081",
       "status": ""
     },
     {
@@ -512,7 +377,7 @@
       "club": "(PERPIGNAN)",
       "department": "66",
       "detail_url": "https://www.ffta.fr/epreuve/27083",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
+      "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27083",
       "status": ""
     },
@@ -527,23 +392,8 @@
       "club": "(LAUDUN L ARDOISE)",
       "department": "30",
       "detail_url": "https://www.ffta.fr/epreuve/27092",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
+      "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27092",
-      "status": ""
-    },
-    {
-      "ffta_id": "27091",
-      "title": "TIR A 18M - MONTPELLIER a MONTPELLIER",
-      "discipline": "18m",
-      "discipline_label": "TIR A 18M - MONTPELLIER a MONTPELLIER",
-      "start_date": "2026-12-06",
-      "end_date": "2026-12-06",
-      "city": "",
-      "club": "MONTPELLIER ARC CLUB",
-      "department": "34",
-      "detail_url": "https://www.ffta.fr/epreuve/27091",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
-      "source_url": "https://www.ffta.fr/epreuve/27091",
       "status": ""
     },
     {
@@ -557,7 +407,7 @@
       "club": "(MONTPELLIER)",
       "department": "34",
       "detail_url": "https://www.ffta.fr/epreuve/27090",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
+      "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27090",
       "status": ""
     },
@@ -572,7 +422,7 @@
       "club": "(NIMES)",
       "department": "30",
       "detail_url": "https://www.ffta.fr/epreuve/27093",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
+      "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27093",
       "status": ""
     },
@@ -587,23 +437,8 @@
       "club": "(BEZIERS)",
       "department": "34",
       "detail_url": "https://www.ffta.fr/epreuve/27098",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
+      "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27098",
-      "status": ""
-    },
-    {
-      "ffta_id": "27099",
-      "title": "TIR A 18 M a BEZIERS",
-      "discipline": "18m",
-      "discipline_label": "TIR A 18 M a BEZIERS",
-      "start_date": "2026-12-13",
-      "end_date": "2026-12-13",
-      "city": "",
-      "club": "LES ARCHERS BITERROIS",
-      "department": "34",
-      "detail_url": "https://www.ffta.fr/epreuve/27099",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
-      "source_url": "https://www.ffta.fr/epreuve/27099",
       "status": ""
     },
     {
@@ -617,7 +452,7 @@
       "club": "(ST LAURENT D AIGOUZE)",
       "department": "30",
       "detail_url": "https://www.ffta.fr/epreuve/27102",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
+      "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27102",
       "status": ""
     },
@@ -632,7 +467,7 @@
       "club": "(LATTES)",
       "department": "34",
       "detail_url": "https://www.ffta.fr/epreuve/27104",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
+      "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27104",
       "status": ""
     },
@@ -647,7 +482,7 @@
       "club": "(LE MONASTERE)",
       "department": "11",
       "detail_url": "https://www.ffta.fr/epreuve/27626",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
+      "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27626",
       "status": ""
     },
@@ -662,7 +497,7 @@
       "club": "(ST GENIES DE MALGOIRES)",
       "department": "30",
       "detail_url": "https://www.ffta.fr/epreuve/27111",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
+      "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27111",
       "status": ""
     },
@@ -677,38 +512,8 @@
       "club": "(BESSAN)",
       "department": "34",
       "detail_url": "https://www.ffta.fr/epreuve/27108",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
+      "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27108",
-      "status": ""
-    },
-    {
-      "ffta_id": "27109",
-      "title": "CONCOURS SALLE 18M BESSAN a BESSAN",
-      "discipline": "18m",
-      "discipline_label": "",
-      "start_date": "2027-01-09",
-      "end_date": "2027-01-10",
-      "city": "",
-      "club": "LES ARCHERS DE LA TUQUE",
-      "department": "34",
-      "detail_url": "https://www.ffta.fr/epreuve/27109",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
-      "source_url": "https://www.ffta.fr/epreuve/27109",
-      "status": ""
-    },
-    {
-      "ffta_id": "27106",
-      "title": "SELECTIF SALLE TIR A 18 METRES a PERPIGNAN",
-      "discipline": "18m",
-      "discipline_label": "",
-      "start_date": "2027-01-09",
-      "end_date": "2027-01-10",
-      "city": "",
-      "club": "LES ARCHERS CATALANS - PERPIGNAN",
-      "department": "66",
-      "detail_url": "https://www.ffta.fr/epreuve/27106",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
-      "source_url": "https://www.ffta.fr/epreuve/27106",
       "status": ""
     },
     {
@@ -722,7 +527,7 @@
       "club": "(PERPIGNAN)",
       "department": "66",
       "detail_url": "https://www.ffta.fr/epreuve/27105",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
+      "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27105",
       "status": ""
     },
@@ -737,7 +542,7 @@
       "club": "(ST GENIES DE MALGOIRES)",
       "department": "30",
       "detail_url": "https://www.ffta.fr/epreuve/27113",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
+      "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27113",
       "status": ""
     },
@@ -752,7 +557,7 @@
       "club": "(PEROLS)",
       "department": "34",
       "detail_url": "https://www.ffta.fr/epreuve/27115",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
+      "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27115",
       "status": ""
     },
@@ -767,23 +572,8 @@
       "club": "ARC CLUB DE NIMES",
       "department": "30",
       "detail_url": "https://www.ffta.fr/epreuve/27691",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
+      "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27691",
-      "status": ""
-    },
-    {
-      "ffta_id": "27121",
-      "title": "SALLE 18M LLUPIA a LLUPIA",
-      "discipline": "18m",
-      "discipline_label": "",
-      "start_date": "2027-01-17",
-      "end_date": "2027-01-17",
-      "city": "",
-      "club": "LES ARCHERS DE LLUPIA",
-      "department": "66",
-      "detail_url": "https://www.ffta.fr/epreuve/27121",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
-      "source_url": "https://www.ffta.fr/epreuve/27121",
       "status": ""
     },
     {
@@ -797,7 +587,7 @@
       "club": "(PERPIGNAN)",
       "department": "66",
       "detail_url": "https://www.ffta.fr/epreuve/27120",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
+      "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27120",
       "status": ""
     },
@@ -812,7 +602,7 @@
       "club": "(BEAUCAIRE)",
       "department": "30",
       "detail_url": "https://www.ffta.fr/epreuve/27131",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
+      "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27131",
       "status": ""
     },
@@ -827,7 +617,7 @@
       "club": "(LUNEL)",
       "department": "34",
       "detail_url": "https://www.ffta.fr/epreuve/27122",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
+      "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27122",
       "status": ""
     },
@@ -842,7 +632,7 @@
       "club": "(ST CYPRIEN)",
       "department": "66",
       "detail_url": "https://www.ffta.fr/epreuve/27132",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
+      "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27132",
       "status": ""
     },
@@ -857,7 +647,7 @@
       "club": "(PEROLS)",
       "department": "34",
       "detail_url": "https://www.ffta.fr/epreuve/27140",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
+      "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27140",
       "status": ""
     },
@@ -872,7 +662,7 @@
       "club": "(PERPIGNAN)",
       "department": "66",
       "detail_url": "https://www.ffta.fr/epreuve/27142",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
+      "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27142",
       "status": ""
     },
@@ -887,7 +677,7 @@
       "club": "(LATTES)",
       "department": "34",
       "detail_url": "https://www.ffta.fr/epreuve/27143",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
+      "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27143",
       "status": ""
     },
@@ -902,7 +692,7 @@
       "club": "(AUCH)",
       "department": "66",
       "detail_url": "https://www.ffta.fr/epreuve/27144",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
+      "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27144",
       "status": ""
     },
@@ -917,7 +707,7 @@
       "club": "(LUNEL)",
       "department": "34",
       "detail_url": "https://www.ffta.fr/epreuve/27149",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
+      "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27149",
       "status": ""
     },
@@ -932,7 +722,7 @@
       "club": "(ANDUZE)",
       "department": "30",
       "detail_url": "https://www.ffta.fr/epreuve/27152",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
+      "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27152",
       "status": ""
     },
@@ -947,23 +737,8 @@
       "club": "(ANDUZE)",
       "department": "30",
       "detail_url": "https://www.ffta.fr/epreuve/27154",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
+      "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27154",
-      "status": ""
-    },
-    {
-      "ffta_id": "27646",
-      "title": "TAE a MANDUEL",
-      "discipline": "tae",
-      "discipline_label": "",
-      "start_date": "2027-06-06",
-      "end_date": "2027-06-06",
-      "city": "",
-      "club": "(MANDUEL)",
-      "department": "30",
-      "detail_url": "https://www.ffta.fr/epreuve/27646",
-      "mandate_url": "https://www.ffta.fr/vie-sportive/sante-et-tir-larc-en-competition/les-recommandations-medicales",
-      "source_url": "https://www.ffta.fr/epreuve/27646",
       "status": ""
     }
   ]
