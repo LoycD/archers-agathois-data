@@ -1,10 +1,11 @@
 {
   "version": 5,
-  "updated_at": "2026-09-02T05:05:09+00:00",
+  "updated_at": "2026-09-02T06:52:16+00:00",
   "source": "FFTA competitions calendar",
   "departments": [
     "11",
     "30",
+    "31",
     "34",
     "66"
   ],
@@ -31,9 +32,24 @@
       "city": "",
       "club": "(LANGLADE)",
       "department": "30",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/24886",
+      "detail_url": "https://www.ffta.fr/epreuve/24886",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/110b95c453e6ba.pdf",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/24886",
+      "source_url": "https://www.ffta.fr/epreuve/24886",
+      "status": ""
+    },
+    {
+      "ffta_id": "27015",
+      "title": "TIR NATURE DAUX a DAUX",
+      "discipline": "nature",
+      "discipline_label": "TIR NATURE DAUX a DAUX",
+      "start_date": "2026-10-04",
+      "end_date": "2026-10-04",
+      "city": "",
+      "club": "(DAUX)",
+      "department": "31",
+      "detail_url": "https://www.ffta.fr/epreuve/27015",
+      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/110ded34855f09.pdf",
+      "source_url": "https://www.ffta.fr/epreuve/27015",
       "status": ""
     },
     {
@@ -61,9 +77,9 @@
       "city": "",
       "club": "(LANGLADE)",
       "department": "30",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27021",
+      "detail_url": "https://www.ffta.fr/epreuve/27021",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27021",
+      "source_url": "https://www.ffta.fr/epreuve/27021",
       "status": ""
     },
     {
@@ -76,9 +92,9 @@
       "city": "",
       "club": "(AGDE)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/epreuve/27017",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27017",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/epreuve/27017",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27017",
       "status": ""
     },
     {
@@ -91,9 +107,9 @@
       "city": "",
       "club": "(ARLES SUR TECH)",
       "department": "66",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27022",
+      "detail_url": "https://www.ffta.fr/epreuve/27022",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27022",
+      "source_url": "https://www.ffta.fr/epreuve/27022",
       "status": ""
     },
     {
@@ -127,6 +143,21 @@
       "status": ""
     },
     {
+      "ffta_id": "27039",
+      "title": "NATURE MONTGISCARD a MONTGISCARD",
+      "discipline": "nature",
+      "discipline_label": "Tir nature",
+      "start_date": "2026-10-18",
+      "end_date": "2026-10-18",
+      "city": "",
+      "club": "(MONTGISCARD)",
+      "department": "31",
+      "detail_url": "https://www.ffta.fr/epreuve/27039",
+      "mandate_url": "",
+      "source_url": "https://www.ffta.fr/epreuve/27039",
+      "status": ""
+    },
+    {
       "ffta_id": "27029",
       "title": "SELECTIF SALLE TIR A 18 METRES a PERPIGNAN",
       "discipline": "18m",
@@ -136,9 +167,9 @@
       "city": "",
       "club": "(PERPIGNAN)",
       "department": "66",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27029",
+      "detail_url": "https://www.ffta.fr/epreuve/27029",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27029",
+      "source_url": "https://www.ffta.fr/epreuve/27029",
       "status": ""
     },
     {
@@ -247,6 +278,21 @@
       "status": ""
     },
     {
+      "ffta_id": "27052",
+      "title": "2X18 NOVEMBRE a BLAGNAC",
+      "discipline": "18m",
+      "discipline_label": "Tir a 18m",
+      "start_date": "2026-11-07",
+      "end_date": "2026-11-08",
+      "city": "",
+      "club": "(BLAGNAC)",
+      "department": "31",
+      "detail_url": "https://www.ffta.fr/epreuve/27052",
+      "mandate_url": "",
+      "source_url": "https://www.ffta.fr/epreuve/27052",
+      "status": ""
+    },
+    {
       "ffta_id": "27055",
       "title": "CONCOURS EN SALLE ALV3M a LATTES",
       "discipline": "18m",
@@ -274,6 +320,21 @@
       "detail_url": "https://www.ffta.fr/epreuve/27058",
       "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27058",
+      "status": ""
+    },
+    {
+      "ffta_id": "27065",
+      "title": "18M TOULOUSE TAC NOV 2026 a TOULOUSE",
+      "discipline": "18m",
+      "discipline_label": "Tir a 18m",
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-15",
+      "city": "",
+      "club": "(TOULOUSE)",
+      "department": "31",
+      "detail_url": "https://www.ffta.fr/epreuve/27065",
+      "mandate_url": "",
+      "source_url": "https://www.ffta.fr/epreuve/27065",
       "status": ""
     },
     {
@@ -316,9 +377,9 @@
       "city": "",
       "club": "(LUNEL)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27066",
+      "detail_url": "https://www.ffta.fr/epreuve/27066",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27066",
+      "source_url": "https://www.ffta.fr/epreuve/27066",
       "status": ""
     },
     {
@@ -331,9 +392,9 @@
       "city": "",
       "club": "(VIAS)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27072",
+      "detail_url": "https://www.ffta.fr/epreuve/27072",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27072",
+      "source_url": "https://www.ffta.fr/epreuve/27072",
       "status": ""
     },
     {
@@ -352,6 +413,21 @@
       "status": ""
     },
     {
+      "ffta_id": "27077",
+      "title": "CONCOURS SALLE 18M A MURET a MURET",
+      "discipline": "18m",
+      "discipline_label": "Tir a 18m",
+      "start_date": "2026-11-28",
+      "end_date": "2026-11-29",
+      "city": "",
+      "club": "(MURET)",
+      "department": "31",
+      "detail_url": "https://www.ffta.fr/epreuve/27077",
+      "mandate_url": "",
+      "source_url": "https://www.ffta.fr/epreuve/27077",
+      "status": ""
+    },
+    {
       "ffta_id": "27078",
       "title": "TIR EN SALLE 2X18M SELECTIF FRANCE a FRONTIGNAN",
       "discipline": "18m",
@@ -361,9 +437,24 @@
       "city": "",
       "club": "(FRONTIGNAN)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27078",
+      "detail_url": "https://www.ffta.fr/epreuve/27078",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27078",
+      "source_url": "https://www.ffta.fr/epreuve/27078",
+      "status": ""
+    },
+    {
+      "ffta_id": "27086",
+      "title": "18 M BALMA a BALMA",
+      "discipline": "18m",
+      "discipline_label": "Tir a 18m",
+      "start_date": "2026-12-05",
+      "end_date": "2026-12-06",
+      "city": "",
+      "club": "(BALMA)",
+      "department": "31",
+      "detail_url": "https://www.ffta.fr/epreuve/27086",
+      "mandate_url": "",
+      "source_url": "https://www.ffta.fr/epreuve/27086",
       "status": ""
     },
     {
@@ -406,9 +497,9 @@
       "city": "",
       "club": "(MONTPELLIER)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27090",
+      "detail_url": "https://www.ffta.fr/epreuve/27090",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27090",
+      "source_url": "https://www.ffta.fr/epreuve/27090",
       "status": ""
     },
     {
@@ -427,6 +518,21 @@
       "status": ""
     },
     {
+      "ffta_id": "27439",
+      "title": "CONCOURS SALLE 18M SELECTIF a LEGUEVIN",
+      "discipline": "18m",
+      "discipline_label": "Tir a 18m",
+      "start_date": "2026-12-12",
+      "end_date": "2026-12-13",
+      "city": "",
+      "club": "(LEGUEVIN)",
+      "department": "31",
+      "detail_url": "https://www.ffta.fr/epreuve/27439",
+      "mandate_url": "",
+      "source_url": "https://www.ffta.fr/epreuve/27439",
+      "status": ""
+    },
+    {
       "ffta_id": "27098",
       "title": "TIR A 18 M a BEZIERS",
       "discipline": "18m",
@@ -436,9 +542,9 @@
       "city": "",
       "club": "(BEZIERS)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27098",
+      "detail_url": "https://www.ffta.fr/epreuve/27098",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27098",
+      "source_url": "https://www.ffta.fr/epreuve/27098",
       "status": ""
     },
     {
@@ -466,9 +572,9 @@
       "city": "",
       "club": "(LATTES)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27104",
+      "detail_url": "https://www.ffta.fr/epreuve/27104",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27104",
+      "source_url": "https://www.ffta.fr/epreuve/27104",
       "status": ""
     },
     {
@@ -502,6 +608,21 @@
       "status": ""
     },
     {
+      "ffta_id": "27110",
+      "title": "FRONTON 18M a FRONTON",
+      "discipline": "18m",
+      "discipline_label": "Tir a 18m",
+      "start_date": "2027-01-09",
+      "end_date": "2027-01-10",
+      "city": "",
+      "club": "(FRONTON)",
+      "department": "31",
+      "detail_url": "https://www.ffta.fr/epreuve/27110",
+      "mandate_url": "",
+      "source_url": "https://www.ffta.fr/epreuve/27110",
+      "status": ""
+    },
+    {
       "ffta_id": "27108",
       "title": "CONCOURS SALLE 18M BESSAN a BESSAN",
       "discipline": "18m",
@@ -511,9 +632,9 @@
       "city": "",
       "club": "(BESSAN)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27108",
+      "detail_url": "https://www.ffta.fr/epreuve/27108",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27108",
+      "source_url": "https://www.ffta.fr/epreuve/27108",
       "status": ""
     },
     {
@@ -547,6 +668,21 @@
       "status": ""
     },
     {
+      "ffta_id": "27112",
+      "title": "18M TOULOUSE TAC JANV 2027 a TOULOUSE",
+      "discipline": "18m",
+      "discipline_label": "Tir a 18m",
+      "start_date": "2027-01-10",
+      "end_date": "2027-01-10",
+      "city": "",
+      "club": "(TOULOUSE)",
+      "department": "31",
+      "detail_url": "https://www.ffta.fr/epreuve/27112",
+      "mandate_url": "",
+      "source_url": "https://www.ffta.fr/epreuve/27112",
+      "status": ""
+    },
+    {
       "ffta_id": "27115",
       "title": "COMPETITION SALLE a PEROLS",
       "discipline": "18m",
@@ -574,6 +710,21 @@
       "detail_url": "https://www.ffta.fr/epreuve/27691",
       "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27691",
+      "status": ""
+    },
+    {
+      "ffta_id": "27118",
+      "title": "2X18 JANVIER a BLAGNAC",
+      "discipline": "18m",
+      "discipline_label": "Tir a 18m",
+      "start_date": "2027-01-16",
+      "end_date": "2027-01-17",
+      "city": "",
+      "club": "(BLAGNAC)",
+      "department": "31",
+      "detail_url": "https://www.ffta.fr/epreuve/27118",
+      "mandate_url": "",
+      "source_url": "https://www.ffta.fr/epreuve/27118",
       "status": ""
     },
     {
@@ -607,6 +758,21 @@
       "status": ""
     },
     {
+      "ffta_id": "27124",
+      "title": "CHAMPIONNAT DEPARTEMENTAL JEUNE ET ADULTE TIR EN SALLE GRANDE HALLE a L’UNION",
+      "discipline": "18m",
+      "discipline_label": "Tir a 18m",
+      "start_date": "2027-01-23",
+      "end_date": "2027-01-24",
+      "city": "",
+      "club": "(L UNION)",
+      "department": "31",
+      "detail_url": "https://www.ffta.fr/epreuve/27124",
+      "mandate_url": "",
+      "source_url": "https://www.ffta.fr/epreuve/27124",
+      "status": ""
+    },
+    {
       "ffta_id": "27122",
       "title": "CHAMPIONNAT DEPARTEMENTAL a LUNEL",
       "discipline": "18m",
@@ -637,6 +803,21 @@
       "status": ""
     },
     {
+      "ffta_id": "27134",
+      "title": "18 M BALMA a BALMA",
+      "discipline": "18m",
+      "discipline_label": "Tir a 18m",
+      "start_date": "2027-01-30",
+      "end_date": "2027-01-31",
+      "city": "",
+      "club": "(BALMA)",
+      "department": "31",
+      "detail_url": "https://www.ffta.fr/epreuve/27134",
+      "mandate_url": "",
+      "source_url": "https://www.ffta.fr/epreuve/27134",
+      "status": ""
+    },
+    {
       "ffta_id": "27140",
       "title": "COMPETITTION SALLE a PEROLS",
       "discipline": "18m",
@@ -646,9 +827,9 @@
       "city": "",
       "club": "(PEROLS)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27140",
+      "detail_url": "https://www.ffta.fr/epreuve/27140",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27140",
+      "source_url": "https://www.ffta.fr/epreuve/27140",
       "status": ""
     },
     {
@@ -661,9 +842,9 @@
       "city": "",
       "club": "(PERPIGNAN)",
       "department": "66",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27142",
+      "detail_url": "https://www.ffta.fr/epreuve/27142",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27142",
+      "source_url": "https://www.ffta.fr/epreuve/27142",
       "status": ""
     },
     {
@@ -676,9 +857,9 @@
       "city": "",
       "club": "(LATTES)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27143",
+      "detail_url": "https://www.ffta.fr/epreuve/27143",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27143",
+      "source_url": "https://www.ffta.fr/epreuve/27143",
       "status": ""
     },
     {
@@ -736,9 +917,9 @@
       "city": "",
       "club": "(ANDUZE)",
       "department": "30",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27154",
+      "detail_url": "https://www.ffta.fr/epreuve/27154",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27154",
+      "source_url": "https://www.ffta.fr/epreuve/27154",
       "status": ""
     }
   ]
