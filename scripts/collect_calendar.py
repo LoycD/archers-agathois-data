@@ -22,6 +22,7 @@ BASE = "https://www.ffta.fr/competitions"
 DEPARTMENT_FILTERS = {
     "11": "12",  # Aude
     "30": "31",  # Gard
+    "31": "32",  # Haute-Garonne
     "34": "35",  # Hérault
     "66": "67",  # Pyrénées-Orientales
 }
