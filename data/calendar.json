@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updated_at": "2026-09-03T16:46:22+00:00",
+  "updated_at": "2026-09-03T21:20:35+00:00",
   "source": "FFTA competitions calendar",
   "departments": [
     "11",
@@ -827,9 +827,9 @@
       "city": "",
       "club": "(PEROLS)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27140",
+      "detail_url": "https://www.ffta.fr/epreuve/27140",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27140",
+      "source_url": "https://www.ffta.fr/epreuve/27140",
       "status": ""
     },
     {
@@ -842,9 +842,9 @@
       "city": "",
       "club": "(PERPIGNAN)",
       "department": "66",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27142",
+      "detail_url": "https://www.ffta.fr/epreuve/27142",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27142",
+      "source_url": "https://www.ffta.fr/epreuve/27142",
       "status": ""
     },
     {
