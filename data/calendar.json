@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updated_at": "2026-09-05T10:55:38+00:00",
+  "updated_at": "2026-09-05T15:33:33+00:00",
   "source": "FFTA competitions calendar",
   "departments": [
     "11",
@@ -482,9 +482,9 @@
       "city": "",
       "club": "(LAUDUN L ARDOISE)",
       "department": "30",
-      "detail_url": "https://www.ffta.fr/epreuve/27092",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27092",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/epreuve/27092",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27092",
       "status": ""
     },
     {
@@ -497,9 +497,9 @@
       "city": "",
       "club": "(MONTPELLIER)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/epreuve/27090",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27090",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/epreuve/27090",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27090",
       "status": ""
     },
     {
