@@ -12,6 +12,11 @@ on:
         required: true
         type: boolean
         default: false
+      force:
+        description: "Retraiter les PDF déjà vus sans effacer l'historique"
+        required: true
+        type: boolean
+        default: false
 
   schedule:
     - cron: "17 */6 * * *"
@@ -50,10 +55,14 @@ jobs:
         env:
           DAYS_BACK: ${{ github.event.inputs.days_back || '45' }}
           REBUILD: ${{ github.event.inputs.rebuild || 'false' }}
+          FORCE: ${{ github.event.inputs.force || 'false' }}
         run: |
           EXTRA=""
           if [ "$REBUILD" = "true" ]; then
-            EXTRA="--rebuild"
+            EXTRA="$EXTRA --rebuild"
+          fi
+          if [ "$FORCE" = "true" ]; then
+            EXTRA="$EXTRA --force"
           fi
           python scripts/collect_ffta.py --days-back "$DAYS_BACK" $EXTRA
 
