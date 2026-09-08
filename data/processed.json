@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-09-08T11:25:44+00:00",
+  "updated_at": "2026-09-08T14:42:24+00:00",
   "processed_urls": [
     "https://extranet.ffta.fr/pdfresultats/2025/3_0000000_20250929_72260.pdf",
     "https://extranet.ffta.fr/pdfresultats/2025/3_0126072_20251019_74502.pdf",
@@ -1091,6 +1091,7 @@
     "https://extranet.ffta.fr/pdfresultats/2026/3_1181205_20260712_75826.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/3_1182214_20260613_75016.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/3_1182214_20260614_75017.pdf",
+    "https://extranet.ffta.fr/pdfresultats/2026/3_1182214_20260906_77044.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/3_1244010_20260517_77113.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/3_1244046_20260516_74916.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/3_1249066_20260718_75551.pdf",
@@ -1132,6 +1133,7 @@
     "https://extranet.ffta.fr/pdfresultats/2026/B_0445123_20260426_75142.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/B_0445123_20260613_74983.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/B_0610028_20260425_76274.pdf",
+    "https://extranet.ffta.fr/pdfresultats/2026/B_0651039_20260418_75158.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/B_0651039_20260425_75157.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/B_0651051_20260425_74950.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/B_0652055_20260411_75337.pdf",
@@ -2026,6 +2028,7 @@
     "https://extranet.ffta.fr/pdfresultats/2026/T_0000000_20260715_79712.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/T_0000000_20260720_74811.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/T_0000000_20260815_79872.pdf",
+    "https://extranet.ffta.fr/pdfresultats/2026/T_0000000_20260825_74812.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/T_0000000_20260901_79942.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/T_0000001_20260209_76724.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/T_0000001_20260212_76725.pdf",

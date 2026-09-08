@@ -1,9 +1,81 @@
 {
   "version": 4,
-  "updated_at": "2026-09-08T11:25:44+00:00",
+  "updated_at": "2026-09-08T14:42:24+00:00",
   "source": "FFTA official competition result PDFs",
   "parser": "multi-discipline-v4.1-tae-sections",
   "results": [
+    {
+      "id": "c6f2c4b7cf9859c3fc71b1ee",
+      "licence": "0969845E",
+      "name": "Eric Benard",
+      "date": "2026-09-06",
+      "competition": "3D DE RENTREE - Tir 3D (1 X 24 CIBLES)",
+      "place": "POMPIGNAN",
+      "discipline": "3d",
+      "category": "S3HCL",
+      "departure": 2,
+      "series": [
+        269
+      ],
+      "score": 269,
+      "rank": null,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1182214_20260906_77044.pdf"
+    },
+    {
+      "id": "467ba0a8a4605942f46213b8",
+      "licence": "0969845E",
+      "name": "Eric Benard",
+      "date": "2026-09-06",
+      "competition": "3D DE RENTREE - Tir 3D (1 X 24 CIBLES)",
+      "place": "POMPIGNAN",
+      "discipline": "3d",
+      "category": "S3HCL",
+      "departure": 1,
+      "series": [
+        235
+      ],
+      "score": 235,
+      "rank": 8,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1182214_20260906_77044.pdf"
+    },
+    {
+      "id": "7f281df10178e571712de264",
+      "licence": "0969843C",
+      "name": "Anne Barbara Benard",
+      "date": "2026-09-06",
+      "competition": "3D DE RENTREE - Tir 3D (1 X 24 CIBLES)",
+      "place": "POMPIGNAN",
+      "discipline": "3d",
+      "category": "S3FCL",
+      "departure": 2,
+      "series": [
+        359
+      ],
+      "score": 359,
+      "rank": null,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1182214_20260906_77044.pdf"
+    },
+    {
+      "id": "0b6f7f3ae3a0453cf2f03f3f",
+      "licence": "0969843C",
+      "name": "Anne Barbara Benard",
+      "date": "2026-09-06",
+      "competition": "3D DE RENTREE - Tir 3D (1 X 24 CIBLES)",
+      "place": "POMPIGNAN",
+      "discipline": "3d",
+      "category": "S3FCL",
+      "departure": 1,
+      "series": [
+        377
+      ],
+      "score": 377,
+      "rank": 1,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1182214_20260906_77044.pdf"
+    },
     {
       "id": "7c6eea88ad1dca6166b5ffe7",
       "licence": "1034590Q",
