@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-09-08T14:42:24+00:00",
+  "updated_at": "2026-09-08T16:42:20+00:00",
   "processed_urls": [
     "https://extranet.ffta.fr/pdfresultats/2025/3_0000000_20250929_72260.pdf",
     "https://extranet.ffta.fr/pdfresultats/2025/3_0126072_20251019_74502.pdf",
@@ -975,6 +975,7 @@
     "https://extranet.ffta.fr/pdfresultats/2026/3_0174249_20260426_75095.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/3_0174257_20260509_75150.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/3_0174257_20260510_75151.pdf",
+    "https://extranet.ffta.fr/pdfresultats/2026/3_0174259_20260905_75244.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/3_0221008_20260614_75359.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/3_0225023_20260704_79537.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/3_0225031_20260531_76478.pdf",
@@ -1007,6 +1008,8 @@
     "https://extranet.ffta.fr/pdfresultats/2026/3_0437073_20260314_73146.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/3_0437073_20260704_75557.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/3_0437081_20260523_75751.pdf",
+    "https://extranet.ffta.fr/pdfresultats/2026/3_0445121_20260906_76240.pdf",
+    "https://extranet.ffta.fr/pdfresultats/2026/3_0445121_20260906_76241.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/3_0445124_20260426_75457.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/3_0445124_20260426_75458.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/3_0445128_20260531_75901.pdf",
