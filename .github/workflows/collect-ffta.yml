@@ -64,19 +64,7 @@ jobs:
           if [ "$FORCE" = "true" ]; then
             EXTRA="$EXTRA --force"
           fi
-
-          # Collecte générale. Si rebuild=true, c'est uniquement cette passe
-          # qui remet l'historique à zéro.
-          python scripts/collect_ffta.py --days-back "$DAYS_BACK" $EXTRA
-
-          # Passe complémentaire dédiée aux épreuves nationales/internationales.
-          # Elle fusionne ses résultats avec ceux déjà présents et ne reconstruit
-          # jamais le fichier afin de ne rien effacer de la première passe.
-          NATIONAL_EXTRA=""
-          if [ "$FORCE" = "true" ]; then
-            NATIONAL_EXTRA="--force"
-          fi
-          python scripts/collect_ffta_national.py --days-back "$DAYS_BACK" $NATIONAL_EXTRA
+          python scripts/collect_ffta_robust.py --days-back "$DAYS_BACK" $EXTRA
 
       - name: Publier les données si elles ont changé
         run: |
