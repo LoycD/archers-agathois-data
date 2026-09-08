@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updated_at": "2026-09-08T06:41:34+00:00",
+  "updated_at": "2026-09-08T11:45:15+00:00",
   "source": "FFTA competitions calendar",
   "departments": [
     "11",
@@ -47,9 +47,9 @@
       "city": "",
       "club": "(DAUX)",
       "department": "31",
-      "detail_url": "https://www.ffta.fr/epreuve/27015",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27015",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/110ded34855f09.pdf",
-      "source_url": "https://www.ffta.fr/epreuve/27015",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27015",
       "status": ""
     },
     {
@@ -92,9 +92,9 @@
       "city": "",
       "club": "(AGDE)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/epreuve/27017",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27017",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/epreuve/27017",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27017",
       "status": ""
     },
     {
@@ -122,9 +122,9 @@
       "city": "",
       "club": "(PONT ST ESPRIT)",
       "department": "30",
-      "detail_url": "https://www.ffta.fr/epreuve/27024",
-      "mandate_url": "",
-      "source_url": "https://www.ffta.fr/epreuve/27024",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27024",
+      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/110f4ec5e53701.pdf",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27024",
       "status": ""
     },
     {
@@ -137,9 +137,9 @@
       "city": "",
       "club": "(ROCHEFORT DU GARD)",
       "department": "30",
-      "detail_url": "https://www.ffta.fr/epreuve/27026",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27026",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/epreuve/27026",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27026",
       "status": ""
     },
     {
@@ -152,9 +152,9 @@
       "city": "",
       "club": "(MONTGISCARD)",
       "department": "31",
-      "detail_url": "https://www.ffta.fr/epreuve/27039",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27039",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/110f4a0413d281.pdf",
-      "source_url": "https://www.ffta.fr/epreuve/27039",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27039",
       "status": ""
     },
     {
@@ -182,9 +182,9 @@
       "city": "",
       "club": "(ANDUZE)",
       "department": "30",
-      "detail_url": "https://www.ffta.fr/epreuve/27031",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27031",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/110e3f35533a91.pdf",
-      "source_url": "https://www.ffta.fr/epreuve/27031",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27031",
       "status": ""
     },
     {
@@ -212,9 +212,9 @@
       "city": "",
       "club": "(ANDUZE)",
       "department": "30",
-      "detail_url": "https://www.ffta.fr/epreuve/27038",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27038",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/110e3f337ca83c.pdf",
-      "source_url": "https://www.ffta.fr/epreuve/27038",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27038",
       "status": ""
     },
     {
@@ -227,9 +227,9 @@
       "city": "",
       "club": "(PRADES)",
       "department": "66",
-      "detail_url": "https://www.ffta.fr/epreuve/27041",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27041",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/epreuve/27041",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27041",
       "status": ""
     },
     {
