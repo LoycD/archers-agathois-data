@@ -100,7 +100,6 @@ def classify_card(discipline_label: str, title: str, card_text: str) -> str:
     Un concours extérieur n'est conservé que si TAEN et/ou TAEI est explicitement indiqué.
     """
     label = norm(discipline_label).lower()
-    title_n = norm(title).lower()
     full = norm(f"{discipline_label} {title} {card_text}").lower()
 
     if "para" in full:
@@ -126,7 +125,6 @@ def classify_card(discipline_label: str, title: str, card_text: str) -> str:
     has_i = bool(re.search(r"\bTAE\s*I\b|\bTAEI\b|TAE\s*INTERNATIONAL", full, re.I))
     has_n = bool(re.search(r"\bTAE\s*N\b|\bTAEN\b|TAE\s*NATIONAL", full, re.I))
 
-    # Les intitulés FFTA sont parfois "TAEN ET TAEI".
     if has_i and has_n:
         return "tae"
     if has_i:
@@ -134,7 +132,6 @@ def classify_card(discipline_label: str, title: str, card_text: str) -> str:
     if has_n:
         return "taen"
 
-    # Pas de TAEN/TAEI explicite = on ignore. Cela évite les faux TAE.
     return "autre"
 
 
@@ -167,20 +164,80 @@ def page_url(start, end, ffta_dep_id, page):
     return BASE + "?" + urlencode(params)
 
 
-def direct_mandate_from_card(card) -> str:
-    """
-    Ne récupère QUE le vrai bouton/lien Mandat de la carte calendrier.
-    On ne cherche plus un document quelconque dans la fiche Détail.
-    """
-    for a in card.find_all("a", href=True):
+def mandate_links_from_node(node) -> list[str]:
+    """Retourne uniquement les liens explicitement libellés Mandat."""
+    links = []
+    for a in node.find_all("a", href=True):
         label = " ".join([
             norm(a.get_text(" ", strip=True)),
             norm(a.get("aria-label", "")),
             norm(a.get("title", "")),
         ]).lower()
         if re.search(r"\bmandat\b", label, re.I):
-            return urljoin(BASE, a["href"])
+            url = urljoin(BASE, a["href"])
+            if url not in links:
+                links.append(url)
+    return links
+
+
+def valid_mandate_url(url: str, timeout: int = 20) -> bool:
+    """Vérifie qu'un lien de mandat répond réellement avant de le publier."""
+    if not url:
+        return False
+    try:
+        r = requests.get(
+            url,
+            headers=HEADERS,
+            timeout=timeout,
+            allow_redirects=True,
+            stream=True,
+        )
+        try:
+            if r.status_code != 200:
+                return False
+            content_type = (r.headers.get("Content-Type") or "").lower()
+            final_path = urlparse(r.url).path.lower()
+            return "pdf" in content_type or final_path.endswith(".pdf")
+        finally:
+            r.close()
+    except requests.RequestException:
+        return False
+
+
+def mandate_from_detail(detail_url: str) -> str:
+    """
+    Fallback : ouvre uniquement la fiche de CETTE épreuve et cherche un lien
+    explicitement nommé Mandat. Aucun autre document n'est accepté.
+    """
+    try:
+        soup = BeautifulSoup(get(detail_url).text, "html.parser")
+    except requests.RequestException:
+        return ""
+
+    for url in mandate_links_from_node(soup):
+        if valid_mandate_url(url):
+            return url
     return ""
+
+
+def resolve_mandate(card, detail_url: str) -> str:
+    """
+    1. Teste tous les boutons Mandat présents dans la carte calendrier.
+    2. Ignore les liens cassés/périmés.
+    3. Si aucun n'est valide, cherche le Mandat dans la fiche Détail de la
+       même épreuve.
+    """
+    card_links = mandate_links_from_node(card)
+
+    for url in card_links:
+        if valid_mandate_url(url):
+            return url
+        print(f"  [mandat] lien invalide ignoré : {url}")
+
+    fallback = mandate_from_detail(detail_url)
+    if fallback:
+        print(f"  [mandat] lien récupéré depuis la fiche détail : {fallback}")
+    return fallback
 
 
 def nearest_card(detail_link):
@@ -238,7 +295,7 @@ def extract_cards(html, department_code):
         if discipline not in ALLOWED:
             continue
 
-        mandate = direct_mandate_from_card(card)
+        mandate = resolve_mandate(card, detail)
 
         city = ""
         m = re.search(r"\s+à\s+(.+)$", title, re.I)
