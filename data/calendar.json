@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updated_at": "2026-09-07T21:46:38+00:00",
+  "updated_at": "2026-09-08T05:14:42+00:00",
   "source": "FFTA competitions calendar",
   "departments": [
     "11",
@@ -18,8 +18,8 @@
     "taen"
   ],
   "range": {
-    "start": "2026-08-08",
-    "end": "2027-09-07"
+    "start": "2026-08-09",
+    "end": "2027-09-08"
   },
   "competitions": [
     {
@@ -62,9 +62,9 @@
       "city": "",
       "club": "(LANGLADE)",
       "department": "30",
-      "detail_url": "https://www.ffta.fr/epreuve/27016",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27016",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/epreuve/27016",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27016",
       "status": ""
     },
     {
@@ -77,9 +77,9 @@
       "city": "",
       "club": "(LANGLADE)",
       "department": "30",
-      "detail_url": "https://www.ffta.fr/epreuve/27021",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27021",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/epreuve/27021",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27021",
       "status": ""
     },
     {
@@ -317,9 +317,9 @@
       "city": "",
       "club": "(VINCA)",
       "department": "66",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27058",
+      "detail_url": "https://www.ffta.fr/epreuve/27058",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27058",
+      "source_url": "https://www.ffta.fr/epreuve/27058",
       "status": ""
     },
     {
@@ -572,9 +572,9 @@
       "city": "",
       "club": "(LATTES)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27104",
+      "detail_url": "https://www.ffta.fr/epreuve/27104",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27104",
+      "source_url": "https://www.ffta.fr/epreuve/27104",
       "status": ""
     },
     {
@@ -707,9 +707,9 @@
       "city": "",
       "club": "ARC CLUB DE NIMES",
       "department": "30",
-      "detail_url": "https://www.ffta.fr/epreuve/27691",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27691",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/epreuve/27691",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27691",
       "status": ""
     },
     {
