@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-09-08T04:45:31+00:00",
+  "updated_at": "2026-09-08T10:21:41+00:00",
   "source": "FFTA official competition result PDFs",
   "parser": "multi-discipline-v4.1-tae-sections",
   "results": [
@@ -3820,6 +3820,22 @@
       "rank": 2,
       "source": "ffta",
       "source_url": "https://extranet.ffta.fr/pdfresultats/2026/N_0126066_20260314_74736.pdf"
+    },
+    {
+      "id": "29a717b8a4591316609cdc38",
+      "licence": "0969843C",
+      "name": "Anne Barbara Benard",
+      "date": "2026-02-27",
+      "competition": "CHAMPIONNAT DE FRANCE ADULTE - Tir a 18m (2X18M) - HALLE CARPENTIER",
+      "place": "PARIS",
+      "discipline": "18m",
+      "category": "S3FBB",
+      "departure": 1,
+      "series": [],
+      "score": 518,
+      "rank": 1,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/S_0893240_20260227_74763.pdf"
     },
     {
       "id": "01d9093566adc002b58d124b",
