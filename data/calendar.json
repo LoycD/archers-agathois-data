@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updated_at": "2026-09-10T05:18:25+00:00",
+  "updated_at": "2026-09-10T11:50:19+00:00",
   "source": "FFTA competitions calendar",
   "departments": [
     "11",
@@ -197,9 +197,9 @@
       "city": "",
       "club": "(FRONTIGNAN)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27032",
+      "detail_url": "https://www.ffta.fr/epreuve/27032",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27032",
+      "source_url": "https://www.ffta.fr/epreuve/27032",
       "status": ""
     },
     {
@@ -257,9 +257,9 @@
       "city": "",
       "club": "(MONTPELLIER)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27048",
+      "detail_url": "https://www.ffta.fr/epreuve/27048",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27048",
+      "source_url": "https://www.ffta.fr/epreuve/27048",
       "status": ""
     },
     {
@@ -302,9 +302,9 @@
       "city": "",
       "club": "(LATTES)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27055",
+      "detail_url": "https://www.ffta.fr/epreuve/27055",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27055",
+      "source_url": "https://www.ffta.fr/epreuve/27055",
       "status": ""
     },
     {
@@ -842,9 +842,9 @@
       "city": "",
       "club": "(PERPIGNAN)",
       "department": "66",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27142",
+      "detail_url": "https://www.ffta.fr/epreuve/27142",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27142",
+      "source_url": "https://www.ffta.fr/epreuve/27142",
       "status": ""
     },
     {
@@ -872,9 +872,9 @@
       "city": "",
       "club": "(AUCH)",
       "department": "66",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27144",
+      "detail_url": "https://www.ffta.fr/epreuve/27144",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27144",
+      "source_url": "https://www.ffta.fr/epreuve/27144",
       "status": ""
     },
     {
@@ -887,9 +887,9 @@
       "city": "",
       "club": "(LUNEL)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/epreuve/27149",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27149",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/epreuve/27149",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27149",
       "status": ""
     },
     {
