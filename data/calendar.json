@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updated_at": "2026-09-12T11:16:07+00:00",
+  "updated_at": "2026-09-12T15:50:31+00:00",
   "source": "FFTA competitions calendar",
   "departments": [
     "11",
@@ -497,9 +497,9 @@
       "city": "",
       "club": "(MONTPELLIER)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27090",
+      "detail_url": "https://www.ffta.fr/epreuve/27090",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27090",
+      "source_url": "https://www.ffta.fr/epreuve/27090",
       "status": ""
     },
     {
@@ -542,9 +542,9 @@
       "city": "",
       "club": "(BEZIERS)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27098",
+      "detail_url": "https://www.ffta.fr/epreuve/27098",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27098",
+      "source_url": "https://www.ffta.fr/epreuve/27098",
       "status": ""
     },
     {
@@ -572,9 +572,9 @@
       "city": "",
       "club": "(LATTES)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27104",
+      "detail_url": "https://www.ffta.fr/epreuve/27104",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27104",
+      "source_url": "https://www.ffta.fr/epreuve/27104",
       "status": ""
     },
     {
@@ -587,9 +587,9 @@
       "city": "",
       "club": "(LE MONASTERE)",
       "department": "11",
-      "detail_url": "https://www.ffta.fr/epreuve/27626",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27626",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/epreuve/27626",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27626",
       "status": ""
     },
     {
@@ -632,9 +632,9 @@
       "city": "",
       "club": "(BESSAN)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/epreuve/27108",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27108",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/epreuve/27108",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27108",
       "status": ""
     },
     {
@@ -677,9 +677,9 @@
       "city": "",
       "club": "(TOULOUSE)",
       "department": "31",
-      "detail_url": "https://www.ffta.fr/epreuve/27112",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27112",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/epreuve/27112",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27112",
       "status": ""
     },
     {
