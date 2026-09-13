@@ -1,9 +1,117 @@
 {
   "version": 4,
-  "updated_at": "2026-09-13T16:24:37+00:00",
+  "updated_at": "2026-09-13T20:55:12+00:00",
   "source": "FFTA official competition result PDFs",
   "parser": "multi-discipline-v4.1-tae-sections",
   "results": [
+    {
+      "id": "5908cf6ed3150e10a7259b83",
+      "licence": "1022936K",
+      "name": "Severine Fernandez",
+      "date": "2026-09-13",
+      "competition": "CONCOURS TIR NATURE - Tir Nature (21 CIBLES)",
+      "place": "CHIRAC",
+      "discipline": "nature",
+      "category": "S2FCL",
+      "departure": 2,
+      "series": [
+        530
+      ],
+      "score": 530,
+      "rank": null,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/N_1148153_20260913_76486.pdf"
+    },
+    {
+      "id": "806a1ca7b5bd3b81909453ba",
+      "licence": "1022936K",
+      "name": "Severine Fernandez",
+      "date": "2026-09-13",
+      "competition": "CONCOURS TIR NATURE - Tir Nature (21 CIBLES)",
+      "place": "CHIRAC",
+      "discipline": "nature",
+      "category": "S2FCL",
+      "departure": 1,
+      "series": [
+        530
+      ],
+      "score": 530,
+      "rank": 1,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/N_1148153_20260913_76486.pdf"
+    },
+    {
+      "id": "2a4f795fa55d8c35b04dd7f7",
+      "licence": "0671231Z",
+      "name": "Christel Puig",
+      "date": "2026-09-13",
+      "competition": "CONCOURS TIR NATURE - Tir Nature (21 CIBLES)",
+      "place": "CHIRAC",
+      "discipline": "nature",
+      "category": "S3HCL",
+      "departure": 2,
+      "series": [
+        580
+      ],
+      "score": 580,
+      "rank": null,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/N_1148153_20260913_76486.pdf"
+    },
+    {
+      "id": "6c846f09f66a090f5f3812cd",
+      "licence": "0671231Z",
+      "name": "Christel Puig",
+      "date": "2026-09-13",
+      "competition": "CONCOURS TIR NATURE - Tir Nature (21 CIBLES)",
+      "place": "CHIRAC",
+      "discipline": "nature",
+      "category": "S3HCL",
+      "departure": 1,
+      "series": [
+        580
+      ],
+      "score": 580,
+      "rank": 2,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/N_1148153_20260913_76486.pdf"
+    },
+    {
+      "id": "5257ad58236573ada93fee37",
+      "licence": "0280322Y",
+      "name": "Thierry Bourrie",
+      "date": "2026-09-13",
+      "competition": "CONCOURS TIR NATURE - Tir Nature (21 CIBLES)",
+      "place": "CHIRAC",
+      "discipline": "nature",
+      "category": "S2HAD",
+      "departure": 2,
+      "series": [
+        525
+      ],
+      "score": 525,
+      "rank": null,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/N_1148153_20260913_76486.pdf"
+    },
+    {
+      "id": "a6872179c81e2364a70e52f0",
+      "licence": "0280322Y",
+      "name": "Thierry Bourrie",
+      "date": "2026-09-13",
+      "competition": "CONCOURS TIR NATURE - Tir Nature (21 CIBLES)",
+      "place": "CHIRAC",
+      "discipline": "nature",
+      "category": "S2HAD",
+      "departure": 1,
+      "series": [
+        390
+      ],
+      "score": 390,
+      "rank": 4,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/N_1148153_20260913_76486.pdf"
+    },
     {
       "id": "c6f2c4b7cf9859c3fc71b1ee",
       "licence": "0969845E",
