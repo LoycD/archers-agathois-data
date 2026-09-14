@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updated_at": "2026-09-14T05:27:50+00:00",
+  "updated_at": "2026-09-14T13:22:13+00:00",
   "source": "FFTA competitions calendar",
   "departments": [
     "11",
@@ -77,9 +77,9 @@
       "city": "",
       "club": "(LANGLADE)",
       "department": "30",
-      "detail_url": "https://www.ffta.fr/epreuve/27021",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27021",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/111065455aff15.pdf",
-      "source_url": "https://www.ffta.fr/epreuve/27021",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27021",
       "status": ""
     },
     {
@@ -92,9 +92,9 @@
       "city": "",
       "club": "(AGDE)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27017",
+      "detail_url": "https://www.ffta.fr/epreuve/27017",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/110fc8933ff5ed.pdf",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27017",
+      "source_url": "https://www.ffta.fr/epreuve/27017",
       "status": ""
     },
     {
@@ -197,9 +197,9 @@
       "city": "",
       "club": "(FRONTIGNAN)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27032",
+      "detail_url": "https://www.ffta.fr/epreuve/27032",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27032",
+      "source_url": "https://www.ffta.fr/epreuve/27032",
       "status": ""
     },
     {
@@ -302,9 +302,9 @@
       "city": "",
       "club": "(LATTES)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27055",
+      "detail_url": "https://www.ffta.fr/epreuve/27055",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27055",
+      "source_url": "https://www.ffta.fr/epreuve/27055",
       "status": ""
     },
     {
@@ -362,9 +362,9 @@
       "city": "",
       "club": "(ALES)",
       "department": "30",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27068",
+      "detail_url": "https://www.ffta.fr/epreuve/27068",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27068",
+      "source_url": "https://www.ffta.fr/epreuve/27068",
       "status": ""
     },
     {
@@ -407,9 +407,9 @@
       "city": "",
       "club": "(VIVIEZ)",
       "department": "11",
-      "detail_url": "https://www.ffta.fr/epreuve/27080",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27080",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/epreuve/27080",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27080",
       "status": ""
     },
     {
@@ -422,9 +422,9 @@
       "city": "",
       "club": "(MURET)",
       "department": "31",
-      "detail_url": "https://www.ffta.fr/epreuve/27077",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27077",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/epreuve/27077",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27077",
       "status": ""
     },
     {
@@ -512,9 +512,9 @@
       "city": "",
       "club": "(NIMES)",
       "department": "30",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27093",
+      "detail_url": "https://www.ffta.fr/epreuve/27093",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27093",
+      "source_url": "https://www.ffta.fr/epreuve/27093",
       "status": ""
     },
     {
@@ -557,9 +557,9 @@
       "city": "",
       "club": "(ST LAURENT D AIGOUZE)",
       "department": "30",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27102",
+      "detail_url": "https://www.ffta.fr/epreuve/27102",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27102",
+      "source_url": "https://www.ffta.fr/epreuve/27102",
       "status": ""
     },
     {
@@ -707,9 +707,9 @@
       "city": "",
       "club": "ARC CLUB DE NIMES",
       "department": "30",
-      "detail_url": "https://www.ffta.fr/epreuve/27691",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27691",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/epreuve/27691",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27691",
       "status": ""
     },
     {
