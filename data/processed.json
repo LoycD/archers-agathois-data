@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-09-14T12:57:33+00:00",
+  "updated_at": "2026-09-14T21:53:52+00:00",
   "processed_urls": [
     "https://extranet.ffta.fr/pdfresultats/2025/3_0000000_20250929_72260.pdf",
     "https://extranet.ffta.fr/pdfresultats/2025/3_0126072_20251019_74502.pdf",
@@ -1085,6 +1085,7 @@
     "https://extranet.ffta.fr/pdfresultats/2026/3_1086193_20260321_73846.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/3_1086193_20260620_75386.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/3_1087205_20260705_76137.pdf",
+    "https://extranet.ffta.fr/pdfresultats/2026/3_1087205_20260913_76138.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/3_1111243_20260606_74852.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/3_1112022_20260628_74898.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/3_1131090_20260726_74884.pdf",
@@ -1201,6 +1202,7 @@
     "https://extranet.ffta.fr/pdfresultats/2026/B_0961077_20260411_75148.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/B_0961081_20260411_76893.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/B_1016007_20260418_76190.pdf",
+    "https://extranet.ffta.fr/pdfresultats/2026/B_1016007_20260911_76193.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/B_1017026_20260405_74979.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/B_1017028_20260906_75790.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/B_1023050_20260523_75584.pdf",
@@ -1638,6 +1640,7 @@
     "https://extranet.ffta.fr/pdfresultats/2026/N_1285130_20260531_76074.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/N_1304014_20260501_74889.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/N_1313071_20260322_74071.pdf",
+    "https://extranet.ffta.fr/pdfresultats/2026/N_1383101_20260913_74846.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/N_1383110_20260301_74775.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/N_1383110_20260405_74996.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/N_1384129_20260425_74947.pdf",
