@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-09-15T04:59:58+00:00",
+  "updated_at": "2026-09-15T11:52:19+00:00",
   "processed_urls": [
     "https://extranet.ffta.fr/pdfresultats/2025/3_0000000_20250929_72260.pdf",
     "https://extranet.ffta.fr/pdfresultats/2025/3_0126072_20251019_74502.pdf",
@@ -1101,6 +1101,7 @@
     "https://extranet.ffta.fr/pdfresultats/2026/3_1182214_20260614_75017.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/3_1182214_20260906_77044.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/3_1244010_20260517_77113.pdf",
+    "https://extranet.ffta.fr/pdfresultats/2026/3_1244031_20260913_75082.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/3_1244046_20260516_74916.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/3_1249066_20260718_75551.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/3_1249066_20260719_75552.pdf",
@@ -1225,6 +1226,7 @@
     "https://extranet.ffta.fr/pdfresultats/2026/C_0000000_20260419_77140.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/C_0000000_20260523_77110.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/C_0000000_20260711_77111.pdf",
+    "https://extranet.ffta.fr/pdfresultats/2026/C_0000000_20260829_77112.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/C_0103031_20260418_75395.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/C_0103031_20260704_75396.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/C_0103033_20260530_75085.pdf",
@@ -2053,6 +2055,7 @@
     "https://extranet.ffta.fr/pdfresultats/2026/T_0000000_20260715_79712.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/T_0000000_20260720_74811.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/T_0000000_20260815_79872.pdf",
+    "https://extranet.ffta.fr/pdfresultats/2026/T_0000000_20260823_79999.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/T_0000000_20260825_74812.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/T_0000000_20260901_79942.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/T_0000000_20260902_79986.pdf",
