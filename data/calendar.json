@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updated_at": "2026-09-15T17:17:20+00:00",
+  "updated_at": "2026-09-15T21:46:20+00:00",
   "source": "FFTA competitions calendar",
   "departments": [
     "11",
@@ -197,9 +197,9 @@
       "city": "",
       "club": "(FRONTIGNAN)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27032",
+      "detail_url": "https://www.ffta.fr/epreuve/27032",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27032",
+      "source_url": "https://www.ffta.fr/epreuve/27032",
       "status": ""
     },
     {
@@ -302,9 +302,9 @@
       "city": "",
       "club": "(LATTES)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/epreuve/27055",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27055",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/epreuve/27055",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27055",
       "status": ""
     },
     {
@@ -512,9 +512,9 @@
       "city": "",
       "club": "(NIMES)",
       "department": "30",
-      "detail_url": "https://www.ffta.fr/epreuve/27093",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27093",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/epreuve/27093",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27093",
       "status": ""
     },
     {
@@ -527,9 +527,9 @@
       "city": "",
       "club": "(LEGUEVIN)",
       "department": "31",
-      "detail_url": "https://www.ffta.fr/epreuve/27439",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27439",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/epreuve/27439",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27439",
       "status": ""
     },
     {
@@ -692,9 +692,9 @@
       "city": "",
       "club": "(PEROLS)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27115",
+      "detail_url": "https://www.ffta.fr/epreuve/27115",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27115",
+      "source_url": "https://www.ffta.fr/epreuve/27115",
       "status": ""
     },
     {
@@ -707,9 +707,9 @@
       "city": "",
       "club": "ARC CLUB DE NIMES",
       "department": "30",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27691",
+      "detail_url": "https://www.ffta.fr/epreuve/27691",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27691",
+      "source_url": "https://www.ffta.fr/epreuve/27691",
       "status": ""
     },
     {
@@ -857,9 +857,9 @@
       "city": "",
       "club": "(LATTES)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/epreuve/27143",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27143",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/epreuve/27143",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27143",
       "status": ""
     },
     {
