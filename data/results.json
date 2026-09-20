@@ -1,9 +1,223 @@
 {
   "version": 4,
-  "updated_at": "2026-09-20T16:13:05+00:00",
+  "updated_at": "2026-09-20T20:54:15+00:00",
   "source": "FFTA official competition result PDFs",
   "parser": "multi-discipline-v4.1-tae-sections",
   "results": [
+    {
+      "id": "f221b56887a167c9068d5c61",
+      "licence": "1034590Q",
+      "name": "Francois Pujo",
+      "date": "2026-09-20",
+      "competition": "CONCOURS NATURE - Tir Nature (21 CIBLES)",
+      "place": "LANGLADE",
+      "discipline": "nature",
+      "category": "S3HCL",
+      "departure": 2,
+      "series": [
+        465
+      ],
+      "score": 465,
+      "rank": null,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/N_1130040_20260920_75583.pdf"
+    },
+    {
+      "id": "a7a274f22136b9cc644f5eaa",
+      "licence": "1034590Q",
+      "name": "Francois Pujo",
+      "date": "2026-09-20",
+      "competition": "CONCOURS NATURE - Tir Nature (21 CIBLES)",
+      "place": "LANGLADE",
+      "discipline": "nature",
+      "category": "S3HCL",
+      "departure": 1,
+      "series": [
+        565
+      ],
+      "score": 565,
+      "rank": 3,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/N_1130040_20260920_75583.pdf"
+    },
+    {
+      "id": "9c77cae26cf9a0328055b100",
+      "licence": "1022936K",
+      "name": "Severine Fernandez",
+      "date": "2026-09-20",
+      "competition": "CONCOURS NATURE - Tir Nature (21 CIBLES)",
+      "place": "LANGLADE",
+      "discipline": "nature",
+      "category": "S2FCL",
+      "departure": 1,
+      "series": [
+        510
+      ],
+      "score": 510,
+      "rank": 1,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/N_1130040_20260920_75583.pdf"
+    },
+    {
+      "id": "105e59b8a7f0439eb69f12ab",
+      "licence": "0972018S",
+      "name": "Bruno Benit",
+      "date": "2026-09-20",
+      "competition": "CONCOURS NATURE - Tir Nature (21 CIBLES)",
+      "place": "LANGLADE",
+      "discipline": "nature",
+      "category": "S3HAD",
+      "departure": 2,
+      "series": [
+        440
+      ],
+      "score": 440,
+      "rank": null,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/N_1130040_20260920_75583.pdf"
+    },
+    {
+      "id": "f6085eab8f121f9a239805d3",
+      "licence": "0972018S",
+      "name": "Bruno Benit",
+      "date": "2026-09-20",
+      "competition": "CONCOURS NATURE - Tir Nature (21 CIBLES)",
+      "place": "LANGLADE",
+      "discipline": "nature",
+      "category": "S3HAD",
+      "departure": 1,
+      "series": [
+        475
+      ],
+      "score": 475,
+      "rank": 6,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/N_1130040_20260920_75583.pdf"
+    },
+    {
+      "id": "101ebde70f30c65a4590ee37",
+      "licence": "0969845E",
+      "name": "Eric Benard",
+      "date": "2026-09-20",
+      "competition": "CONCOURS NATURE - Tir Nature (21 CIBLES)",
+      "place": "LANGLADE",
+      "discipline": "nature",
+      "category": "S3HAD",
+      "departure": 2,
+      "series": [
+        450
+      ],
+      "score": 450,
+      "rank": null,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/N_1130040_20260920_75583.pdf"
+    },
+    {
+      "id": "c0e13a19ed6834be80266c2e",
+      "licence": "0969845E",
+      "name": "Eric Benard",
+      "date": "2026-09-20",
+      "competition": "CONCOURS NATURE - Tir Nature (21 CIBLES)",
+      "place": "LANGLADE",
+      "discipline": "nature",
+      "category": "S3HAD",
+      "departure": 1,
+      "series": [
+        280
+      ],
+      "score": 280,
+      "rank": 22,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/N_1130040_20260920_75583.pdf"
+    },
+    {
+      "id": "274bc3341aef465ced77d970",
+      "licence": "0934613J",
+      "name": "Jerome Domergue",
+      "date": "2026-09-20",
+      "competition": "CONCOURS NATURE - Tir Nature (21 CIBLES)",
+      "place": "LANGLADE",
+      "discipline": "nature",
+      "category": "S3HAC",
+      "departure": 2,
+      "series": [
+        465
+      ],
+      "score": 465,
+      "rank": null,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/N_1130040_20260920_75583.pdf"
+    },
+    {
+      "id": "7696d64d91b92a49ff5db600",
+      "licence": "0934613J",
+      "name": "Jerome Domergue",
+      "date": "2026-09-20",
+      "competition": "CONCOURS NATURE - Tir Nature (21 CIBLES)",
+      "place": "LANGLADE",
+      "discipline": "nature",
+      "category": "S3HAC",
+      "departure": 1,
+      "series": [
+        425
+      ],
+      "score": 425,
+      "rank": 9,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/N_1130040_20260920_75583.pdf"
+    },
+    {
+      "id": "b929e8af3eb7d164ce8aaa3e",
+      "licence": "0671231Z",
+      "name": "Christel Puig",
+      "date": "2026-09-20",
+      "competition": "CONCOURS NATURE - Tir Nature (21 CIBLES)",
+      "place": "LANGLADE",
+      "discipline": "nature",
+      "category": "S3HCL",
+      "departure": 1,
+      "series": [
+        620
+      ],
+      "score": 620,
+      "rank": 1,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/N_1130040_20260920_75583.pdf"
+    },
+    {
+      "id": "e4bf5164160a616119950f83",
+      "licence": "0280322Y",
+      "name": "Thierry Bourrie",
+      "date": "2026-09-20",
+      "competition": "CONCOURS NATURE - Tir Nature (21 CIBLES)",
+      "place": "LANGLADE",
+      "discipline": "nature",
+      "category": "S2HAD",
+      "departure": 2,
+      "series": [],
+      "score": 500,
+      "rank": 2,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/N_1130040_20260920_75583.pdf"
+    },
+    {
+      "id": "a6f1fe8afba0f0f77f708bb1",
+      "licence": "0280322Y",
+      "name": "Thierry Bourrie",
+      "date": "2026-09-20",
+      "competition": "CONCOURS NATURE - Tir Nature (21 CIBLES)",
+      "place": "LANGLADE",
+      "discipline": "nature",
+      "category": "S2HAD",
+      "departure": 1,
+      "series": [
+        515
+      ],
+      "score": 515,
+      "rank": 5,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/N_1130040_20260920_75583.pdf"
+    },
     {
       "id": "5908cf6ed3150e10a7259b83",
       "licence": "1022936K",
