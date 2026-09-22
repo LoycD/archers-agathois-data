@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updated_at": "2026-09-22T17:18:17+00:00",
+  "updated_at": "2026-09-22T21:40:04+00:00",
   "source": "FFTA competitions calendar",
   "departments": [
     "11",
@@ -92,9 +92,9 @@
       "city": "",
       "club": "(AGDE)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/epreuve/27017",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27017",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/110fc8933ff5ed.pdf",
-      "source_url": "https://www.ffta.fr/epreuve/27017",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27017",
       "status": ""
     },
     {
@@ -932,9 +932,9 @@
       "city": "",
       "club": "(ANDUZE)",
       "department": "30",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27152",
+      "detail_url": "https://www.ffta.fr/epreuve/27152",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27152",
+      "source_url": "https://www.ffta.fr/epreuve/27152",
       "status": ""
     },
     {
@@ -947,9 +947,9 @@
       "city": "",
       "club": "(ANDUZE)",
       "department": "30",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27154",
+      "detail_url": "https://www.ffta.fr/epreuve/27154",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27154",
+      "source_url": "https://www.ffta.fr/epreuve/27154",
       "status": ""
     }
   ]
