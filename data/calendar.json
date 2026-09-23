@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updated_at": "2026-09-22T21:40:04+00:00",
+  "updated_at": "2026-09-23T05:11:42+00:00",
   "source": "FFTA competitions calendar",
   "departments": [
     "11",
@@ -18,8 +18,8 @@
     "taen"
   ],
   "range": {
-    "start": "2026-08-23",
-    "end": "2027-09-22"
+    "start": "2026-08-24",
+    "end": "2027-09-23"
   },
   "competitions": [
     {
@@ -92,9 +92,9 @@
       "city": "",
       "club": "(AGDE)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27017",
+      "detail_url": "https://www.ffta.fr/epreuve/27017",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/110fc8933ff5ed.pdf",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27017",
+      "source_url": "https://www.ffta.fr/epreuve/27017",
       "status": ""
     },
     {
@@ -212,9 +212,9 @@
       "city": "",
       "club": "(FRONTIGNAN)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27032",
+      "detail_url": "https://www.ffta.fr/epreuve/27032",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/1111ea3117f26c.pdf",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27032",
+      "source_url": "https://www.ffta.fr/epreuve/27032",
       "status": ""
     },
     {
@@ -677,9 +677,9 @@
       "city": "",
       "club": "(PERPIGNAN)",
       "department": "66",
-      "detail_url": "https://www.ffta.fr/epreuve/27105",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27105",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/epreuve/27105",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27105",
       "status": ""
     },
     {
@@ -902,9 +902,9 @@
       "city": "",
       "club": "(AUCH)",
       "department": "66",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27144",
+      "detail_url": "https://www.ffta.fr/epreuve/27144",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27144",
+      "source_url": "https://www.ffta.fr/epreuve/27144",
       "status": ""
     },
     {
