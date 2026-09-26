@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updated_at": "2026-09-25T21:50:32+00:00",
+  "updated_at": "2026-09-26T05:30:08+00:00",
   "source": "FFTA competitions calendar",
   "departments": [
     "11",
@@ -18,8 +18,8 @@
     "taen"
   ],
   "range": {
-    "start": "2026-08-26",
-    "end": "2027-09-25"
+    "start": "2026-08-27",
+    "end": "2027-09-26"
   },
   "competitions": [
     {
@@ -107,9 +107,9 @@
       "city": "",
       "club": "(ARLES SUR TECH)",
       "department": "66",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27022",
+      "detail_url": "https://www.ffta.fr/epreuve/27022",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27022",
+      "source_url": "https://www.ffta.fr/epreuve/27022",
       "status": ""
     },
     {
@@ -122,9 +122,9 @@
       "city": "",
       "club": "(PONT ST ESPRIT)",
       "department": "30",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27024",
+      "detail_url": "https://www.ffta.fr/epreuve/27024",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/110f4ec5e53701.pdf",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27024",
+      "source_url": "https://www.ffta.fr/epreuve/27024",
       "status": ""
     },
     {
