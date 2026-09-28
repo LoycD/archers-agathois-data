@@ -1,9 +1,79 @@
 {
   "version": 4,
-  "updated_at": "2026-09-27T21:25:32+00:00",
+  "updated_at": "2026-09-28T05:31:39+00:00",
   "source": "FFTA official competition result PDFs",
   "parser": "multi-discipline-v4.1-tae-sections",
   "results": [
+    {
+      "id": "1bd52cb734cbc1c5e5740f7a",
+      "licence": "1022936K",
+      "name": "Severine Fernandez",
+      "date": "2026-09-27",
+      "competition": "TIR 3D DES ARCHERS DU VERDLAI - Tir 3D (1 X 24 CIBLES)",
+      "place": "GARDANNE",
+      "discipline": "3d",
+      "category": "S2FCL",
+      "departure": 2,
+      "series": [
+        306
+      ],
+      "score": 306,
+      "rank": null,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1313071_20260927_75020.pdf"
+    },
+    {
+      "id": "b5fac70cfc220d9a460ebc2e",
+      "licence": "1022936K",
+      "name": "Severine Fernandez",
+      "date": "2026-09-27",
+      "competition": "TIR 3D DES ARCHERS DU VERDLAI - Tir 3D (1 X 24 CIBLES)",
+      "place": "GARDANNE",
+      "discipline": "3d",
+      "category": "S2FCL",
+      "departure": 1,
+      "series": [],
+      "score": 249,
+      "rank": 4,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1313071_20260927_75020.pdf"
+    },
+    {
+      "id": "437c25f133c55059e90303c7",
+      "licence": "0671231Z",
+      "name": "Christel Puig",
+      "date": "2026-09-27",
+      "competition": "TIR 3D DES ARCHERS DU VERDLAI - Tir 3D (1 X 24 CIBLES)",
+      "place": "GARDANNE",
+      "discipline": "3d",
+      "category": "S3HCL",
+      "departure": 2,
+      "series": [
+        391
+      ],
+      "score": 391,
+      "rank": null,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1313071_20260927_75020.pdf"
+    },
+    {
+      "id": "f669a17795cb6a6175a77c6a",
+      "licence": "0671231Z",
+      "name": "Christel Puig",
+      "date": "2026-09-27",
+      "competition": "TIR 3D DES ARCHERS DU VERDLAI - Tir 3D (1 X 24 CIBLES)",
+      "place": "GARDANNE",
+      "discipline": "3d",
+      "category": "S3HCL",
+      "departure": 1,
+      "series": [
+        387
+      ],
+      "score": 387,
+      "rank": 1,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/3_1313071_20260927_75020.pdf"
+    },
     {
       "id": "f221b56887a167c9068d5c61",
       "licence": "1034590Q",
