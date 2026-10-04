@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updated_at": "2026-10-04T06:22:07+00:00",
+  "updated_at": "2026-10-04T12:52:04+00:00",
   "source": "FFTA competitions calendar",
   "departments": [
     "11",
@@ -182,9 +182,9 @@
       "city": "",
       "club": "(ANDUZE)",
       "department": "30",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27031",
+      "detail_url": "https://www.ffta.fr/epreuve/27031",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/110e3f35533a91.pdf",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27031",
+      "source_url": "https://www.ffta.fr/epreuve/27031",
       "status": ""
     },
     {
@@ -212,9 +212,9 @@
       "city": "",
       "club": "(FRONTIGNAN)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27032",
+      "detail_url": "https://www.ffta.fr/epreuve/27032",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/1111ea3117f26c.pdf",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27032",
+      "source_url": "https://www.ffta.fr/epreuve/27032",
       "status": ""
     },
     {
@@ -318,7 +318,7 @@
       "club": "(LATTES)",
       "department": "34",
       "detail_url": "https://www.ffta.fr/epreuve/27055",
-      "mandate_url": "",
+      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/1114cfd1c80f30.pdf",
       "source_url": "https://www.ffta.fr/epreuve/27055",
       "status": ""
     },
