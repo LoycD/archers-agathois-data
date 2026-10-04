@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updated_at": "2026-10-03T21:46:30+00:00",
+  "updated_at": "2026-10-04T06:22:07+00:00",
   "source": "FFTA competitions calendar",
   "departments": [
     "11",
@@ -18,8 +18,8 @@
     "taen"
   ],
   "range": {
-    "start": "2026-09-03",
-    "end": "2027-10-03"
+    "start": "2026-09-04",
+    "end": "2027-10-04"
   },
   "competitions": [
     {
@@ -182,9 +182,9 @@
       "city": "",
       "club": "(ANDUZE)",
       "department": "30",
-      "detail_url": "https://www.ffta.fr/epreuve/27031",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27031",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/110e3f35533a91.pdf",
-      "source_url": "https://www.ffta.fr/epreuve/27031",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27031",
       "status": ""
     },
     {
@@ -212,9 +212,9 @@
       "city": "",
       "club": "(FRONTIGNAN)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/epreuve/27032",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27032",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/1111ea3117f26c.pdf",
-      "source_url": "https://www.ffta.fr/epreuve/27032",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27032",
       "status": ""
     },
     {
@@ -347,9 +347,9 @@
       "city": "",
       "club": "(TOULOUSE)",
       "department": "31",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27065",
+      "detail_url": "https://www.ffta.fr/epreuve/27065",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27065",
+      "source_url": "https://www.ffta.fr/epreuve/27065",
       "status": ""
     },
     {
@@ -557,9 +557,9 @@
       "city": "",
       "club": "(LEGUEVIN)",
       "department": "31",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27439",
+      "detail_url": "https://www.ffta.fr/epreuve/27439",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27439",
+      "source_url": "https://www.ffta.fr/epreuve/27439",
       "status": ""
     },
     {
