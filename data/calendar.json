@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updated_at": "2026-10-07T06:29:28+00:00",
+  "updated_at": "2026-10-07T13:56:58+00:00",
   "source": "FFTA competitions calendar",
   "departments": [
     "11",
@@ -122,9 +122,9 @@
       "city": "",
       "club": "(PONT ST ESPRIT)",
       "department": "30",
-      "detail_url": "https://www.ffta.fr/epreuve/27024",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27024",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/110f4ec5e53701.pdf",
-      "source_url": "https://www.ffta.fr/epreuve/27024",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27024",
       "status": ""
     },
     {
@@ -245,6 +245,21 @@
       "detail_url": "https://www.ffta.fr/epreuve/27041",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/11140744ce50c9.pdf",
       "source_url": "https://www.ffta.fr/epreuve/27041",
+      "status": ""
+    },
+    {
+      "ffta_id": "27904",
+      "title": "TAE I a NIMES",
+      "discipline": "taei",
+      "discipline_label": "Tir a l'arc exterieur",
+      "start_date": "2026-10-27",
+      "end_date": "2026-10-27",
+      "city": "",
+      "club": "(NIMES)",
+      "department": "30",
+      "detail_url": "https://www.ffta.fr/epreuve/27904",
+      "mandate_url": "",
+      "source_url": "https://www.ffta.fr/epreuve/27904",
       "status": ""
     },
     {
@@ -392,9 +407,9 @@
       "city": "",
       "club": "(LUNEL)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27066",
+      "detail_url": "https://www.ffta.fr/epreuve/27066",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27066",
+      "source_url": "https://www.ffta.fr/epreuve/27066",
       "status": ""
     },
     {
@@ -662,9 +677,9 @@
       "city": "",
       "club": "(BESSAN)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27108",
+      "detail_url": "https://www.ffta.fr/epreuve/27108",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27108",
+      "source_url": "https://www.ffta.fr/epreuve/27108",
       "status": ""
     },
     {
