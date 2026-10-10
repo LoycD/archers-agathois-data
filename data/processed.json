@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-10-10T12:40:13+00:00",
+  "updated_at": "2026-10-10T21:49:57+00:00",
   "processed_urls": [
     "https://extranet.ffta.fr/pdfresultats/2025/3_0000000_20250929_72260.pdf",
     "https://extranet.ffta.fr/pdfresultats/2025/3_0126072_20251019_74502.pdf",
@@ -959,6 +959,7 @@
     "https://extranet.ffta.fr/pdfresultats/2026/3_0138000_20260516_76571.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/3_0138000_20260517_76572.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/3_0138082_20261003_78035.pdf",
+    "https://extranet.ffta.fr/pdfresultats/2026/3_0138090_20261010_78502.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/3_0138095_20260418_74876.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/3_0138112_20260404_74839.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/3_0138112_20260405_74841.pdf",
@@ -1602,6 +1603,7 @@
     "https://extranet.ffta.fr/pdfresultats/2026/N_0878108_20260329_72971.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/N_0878120_20260502_74960.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/N_0878120_20260503_74961.pdf",
+    "https://extranet.ffta.fr/pdfresultats/2026/N_0878120_20261010_77317.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/N_0891175_20260307_72657.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/N_0891175_20260308_72658.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/N_0891176_20260412_76543.pdf",
@@ -1813,6 +1815,7 @@
     "https://extranet.ffta.fr/pdfresultats/2026/S_0335084_20260204_73931.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/S_0356000_20260117_72688.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/S_0356000_20260124_72686.pdf",
+    "https://extranet.ffta.fr/pdfresultats/2026/S_0356098_20261009_78291.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/S_0356115_20260110_72637.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/S_0356118_20260103_72924.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/S_0356120_20261003_78322.pdf",
