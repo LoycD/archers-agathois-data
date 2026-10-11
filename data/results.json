@@ -1,9 +1,47 @@
 {
   "version": 4,
-  "updated_at": "2026-10-11T13:00:05+00:00",
+  "updated_at": "2026-10-11T22:04:51+00:00",
   "source": "FFTA official competition result PDFs",
   "parser": "multi-discipline-v4.1-tae-sections",
   "results": [
+    {
+      "id": "e2e77d98adf93fa2a84d56f2",
+      "licence": "0969845E",
+      "name": "Eric Benard",
+      "date": "2026-10-10",
+      "competition": "COUCOURS SALLE 18M - Tir a 18m (2X18M)",
+      "place": "OCCITANIE",
+      "discipline": "18m",
+      "category": "S3HBB",
+      "departure": 1,
+      "series": [
+        209,
+        226
+      ],
+      "score": 435,
+      "rank": 4,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/S_1130040_20261010_77825.pdf"
+    },
+    {
+      "id": "5e53ff1541a5d3c13d4f3bb7",
+      "licence": "0969843C",
+      "name": "Anne Barbara Benard",
+      "date": "2026-10-10",
+      "competition": "COUCOURS SALLE 18M - Tir a 18m (2X18M)",
+      "place": "OCCITANIE",
+      "discipline": "18m",
+      "category": "S3FBB",
+      "departure": 1,
+      "series": [
+        244,
+        240
+      ],
+      "score": 484,
+      "rank": 1,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/S_1130040_20261010_77825.pdf"
+    },
     {
       "id": "1bd52cb734cbc1c5e5740f7a",
       "licence": "1022936K",
