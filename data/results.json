@@ -1,9 +1,41 @@
 {
   "version": 4,
-  "updated_at": "2026-10-13T00:47:55+00:00",
+  "updated_at": "2026-10-13T14:19:57+00:00",
   "source": "FFTA official competition result PDFs",
   "parser": "multi-discipline-v4.1-tae-sections",
   "results": [
+    {
+      "id": "90cf7f4e01ac80f3edab121d",
+      "licence": "1039541B",
+      "name": "Louane Peyre",
+      "date": "2026-10-11",
+      "competition": "TIR NATURE - Tir Nature (21 CIBLES)",
+      "place": "AGDE",
+      "discipline": "nature",
+      "category": "U15FTL",
+      "departure": 1,
+      "series": [],
+      "score": 590,
+      "rank": 1,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/N_1134140_20261011_78543.pdf"
+    },
+    {
+      "id": "a0d06be775ae03626f7c4265",
+      "licence": "1039535V",
+      "name": "Elodie Peyre",
+      "date": "2026-10-11",
+      "competition": "TIR NATURE - Tir Nature (21 CIBLES)",
+      "place": "AGDE",
+      "discipline": "nature",
+      "category": "S2FTL",
+      "departure": 1,
+      "series": [],
+      "score": 575,
+      "rank": 2,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/N_1134140_20261011_78543.pdf"
+    },
     {
       "id": "52e8dede9223b874eb49f161",
       "licence": "1034590Q",
@@ -32,7 +64,7 @@
       "departure": 1,
       "series": [],
       "score": 235,
-      "rank": 15,
+      "rank": 16,
       "source": "ffta",
       "source_url": "https://extranet.ffta.fr/pdfresultats/2026/N_1134140_20261011_78543.pdf"
     },
@@ -64,7 +96,7 @@
       "departure": 1,
       "series": [],
       "score": 530,
-      "rank": 3,
+      "rank": 2,
       "source": "ffta",
       "source_url": "https://extranet.ffta.fr/pdfresultats/2026/N_1134140_20261011_78543.pdf"
     },
@@ -96,7 +128,7 @@
       "departure": 1,
       "series": [],
       "score": 570,
-      "rank": 2,
+      "rank": 1,
       "source": "ffta",
       "source_url": "https://extranet.ffta.fr/pdfresultats/2026/N_1134140_20261011_78543.pdf"
     },
@@ -128,7 +160,7 @@
       "departure": 1,
       "series": [],
       "score": 235,
-      "rank": 16,
+      "rank": 15,
       "source": "ffta",
       "source_url": "https://extranet.ffta.fr/pdfresultats/2026/N_1134140_20261011_78543.pdf"
     },
