@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updated_at": "2026-10-15T12:08:27+00:00",
+  "updated_at": "2026-10-15T17:22:10+00:00",
   "source": "FFTA competitions calendar",
   "departments": [
     "11",
@@ -58,7 +58,7 @@
       "discipline": "18m",
       "discipline_label": "Tir a 18m",
       "start_date": "2026-10-10",
-      "end_date": "2026-10-10",
+      "end_date": "2026-10-11",
       "city": "",
       "club": "(LANGLADE)",
       "department": "30",
@@ -212,9 +212,9 @@
       "city": "",
       "club": "(FRONTIGNAN)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27032",
+      "detail_url": "https://www.ffta.fr/epreuve/27032",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/1111ea3117f26c.pdf",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27032",
+      "source_url": "https://www.ffta.fr/epreuve/27032",
       "status": ""
     },
     {
@@ -318,7 +318,7 @@
       "club": "(BLAGNAC)",
       "department": "31",
       "detail_url": "https://www.ffta.fr/epreuve/27052",
-      "mandate_url": "",
+      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/11172f5166f55c.pdf",
       "source_url": "https://www.ffta.fr/epreuve/27052",
       "status": ""
     },
@@ -347,9 +347,9 @@
       "city": "",
       "club": "(VINCA)",
       "department": "66",
-      "detail_url": "https://www.ffta.fr/epreuve/27058",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27058",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/epreuve/27058",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27058",
       "status": ""
     },
     {
@@ -752,9 +752,9 @@
       "city": "",
       "club": "ARC CLUB DE NIMES",
       "department": "30",
-      "detail_url": "https://www.ffta.fr/epreuve/27691",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27691",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/epreuve/27691",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27691",
       "status": ""
     },
     {
