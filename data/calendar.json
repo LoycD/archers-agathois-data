@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updated_at": "2026-10-16T05:00:07+00:00",
+  "updated_at": "2026-10-16T11:55:20+00:00",
   "source": "FFTA competitions calendar",
   "departments": [
     "11",
@@ -272,9 +272,9 @@
       "city": "",
       "club": "(MONTPELLIER)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/epreuve/27048",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27048",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/11155ef29cc03b.pdf",
-      "source_url": "https://www.ffta.fr/epreuve/27048",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27048",
       "status": ""
     },
     {
@@ -752,9 +752,9 @@
       "city": "",
       "club": "ARC CLUB DE NIMES",
       "department": "30",
-      "detail_url": "https://www.ffta.fr/epreuve/27691",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27691",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/epreuve/27691",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27691",
       "status": ""
     },
     {
@@ -917,9 +917,9 @@
       "city": "",
       "club": "(AUCH)",
       "department": "66",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27144",
+      "detail_url": "https://www.ffta.fr/epreuve/27144",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27144",
+      "source_url": "https://www.ffta.fr/epreuve/27144",
       "status": ""
     },
     {
