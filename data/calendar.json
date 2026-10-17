@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updated_at": "2026-10-17T05:00:37+00:00",
+  "updated_at": "2026-10-17T11:11:17+00:00",
   "source": "FFTA competitions calendar",
   "departments": [
     "11",
@@ -677,9 +677,9 @@
       "city": "",
       "club": "(BESSAN)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/epreuve/27108",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27108",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/epreuve/27108",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27108",
       "status": ""
     },
     {
@@ -827,9 +827,9 @@
       "city": "",
       "club": "(LUNEL)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/epreuve/27122",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27122",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/epreuve/27122",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27122",
       "status": ""
     },
     {
