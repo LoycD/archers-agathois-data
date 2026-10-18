@@ -1,9 +1,142 @@
 {
   "version": 4,
-  "updated_at": "2026-10-18T15:57:08+00:00",
+  "updated_at": "2026-10-18T20:52:27+00:00",
   "source": "FFTA official competition result PDFs",
   "parser": "multi-discipline-v4.1-tae-sections",
   "results": [
+    {
+      "id": "9aa4d6f5e97db1c4a29607a7",
+      "licence": "1039535V",
+      "name": "Elodie Peyre",
+      "date": "2026-10-18",
+      "competition": "SELECTIF SALLE TIR A 18 METRES - Tir a 18m (2X18M)",
+      "place": "PERPIGNAN",
+      "discipline": "18m",
+      "category": "S2FCO",
+      "departure": 1,
+      "series": [
+        263,
+        235
+      ],
+      "score": 498,
+      "rank": 2,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/S_1166191_20261018_77145.pdf"
+    },
+    {
+      "id": "1d19bad4c2d898a099a643aa",
+      "licence": "1022936K",
+      "name": "Severine Fernandez",
+      "date": "2026-10-18",
+      "competition": "SELECTIF SALLE TIR A 18 METRES - Tir a 18m (2X18M)",
+      "place": "PERPIGNAN",
+      "discipline": "18m",
+      "category": "S2FBB",
+      "departure": 2,
+      "series": [
+        216,
+        195
+      ],
+      "score": 411,
+      "rank": null,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/S_1166191_20261018_77145.pdf"
+    },
+    {
+      "id": "05949f0d975b25531671f803",
+      "licence": "1022936K",
+      "name": "Severine Fernandez",
+      "date": "2026-10-18",
+      "competition": "SELECTIF SALLE TIR A 18 METRES - Tir a 18m (2X18M)",
+      "place": "PERPIGNAN",
+      "discipline": "18m",
+      "category": "S2FBB",
+      "departure": 1,
+      "series": [
+        170,
+        218
+      ],
+      "score": 388,
+      "rank": 3,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/S_1166191_20261018_77145.pdf"
+    },
+    {
+      "id": "e92fbfe097b02ad92f7377a3",
+      "licence": "0969845E",
+      "name": "Eric Benard",
+      "date": "2026-10-18",
+      "competition": "SELECTIF SALLE TIR A 18 METRES - Tir a 18m (2X18M)",
+      "place": "PERPIGNAN",
+      "discipline": "18m",
+      "category": "S3HBB",
+      "departure": 1,
+      "series": [
+        193,
+        204
+      ],
+      "score": 397,
+      "rank": 5,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/S_1166191_20261018_77145.pdf"
+    },
+    {
+      "id": "67b149c0814179bc9bbe3beb",
+      "licence": "0969843C",
+      "name": "Anne Barbara Benard",
+      "date": "2026-10-18",
+      "competition": "SELECTIF SALLE TIR A 18 METRES - Tir a 18m (2X18M)",
+      "place": "PERPIGNAN",
+      "discipline": "18m",
+      "category": "S3FBB",
+      "departure": 1,
+      "series": [
+        232,
+        258
+      ],
+      "score": 490,
+      "rank": 1,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/S_1166191_20261018_77145.pdf"
+    },
+    {
+      "id": "b001c7edddc67f9409600ade",
+      "licence": "0671231Z",
+      "name": "Christel Puig",
+      "date": "2026-10-18",
+      "competition": "SELECTIF SALLE TIR A 18 METRES - Tir a 18m (2X18M)",
+      "place": "PERPIGNAN",
+      "discipline": "18m",
+      "category": "S3HBB",
+      "departure": 2,
+      "series": [
+        251,
+        257
+      ],
+      "score": 508,
+      "rank": null,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/S_1166191_20261018_77145.pdf"
+    },
+    {
+      "id": "fb2e7e00c2c4890bed99b7a6",
+      "licence": "0671231Z",
+      "name": "Christel Puig",
+      "date": "2026-10-18",
+      "competition": "SELECTIF SALLE TIR A 18 METRES - Tir a 18m (2X18M)",
+      "place": "PERPIGNAN",
+      "discipline": "18m",
+      "category": "S3HBB",
+      "departure": 1,
+      "series": [
+        253,
+        258
+      ],
+      "score": 511,
+      "rank": 1,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/S_1166191_20261018_77145.pdf"
+    },
     {
       "id": "90cf7f4e01ac80f3edab121d",
       "licence": "1039541B",
