@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updated_at": "2026-10-20T05:19:05+00:00",
+  "updated_at": "2026-10-20T12:13:16+00:00",
   "source": "FFTA competitions calendar",
   "departments": [
     "11",
@@ -347,9 +347,9 @@
       "city": "",
       "club": "(TOULOUSE)",
       "department": "31",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27065",
+      "detail_url": "https://www.ffta.fr/epreuve/27065",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/1116e7a34f9e7c.pdf",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27065",
+      "source_url": "https://www.ffta.fr/epreuve/27065",
       "status": ""
     },
     {
@@ -362,9 +362,9 @@
       "city": "",
       "club": "(BOMPAS)",
       "department": "66",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27063",
+      "detail_url": "https://www.ffta.fr/epreuve/27063",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27063",
+      "source_url": "https://www.ffta.fr/epreuve/27063",
       "status": ""
     },
     {
@@ -407,9 +407,9 @@
       "city": "",
       "club": "(VIAS)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27072",
+      "detail_url": "https://www.ffta.fr/epreuve/27072",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/11173a11ad3da2.pdf",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27072",
+      "source_url": "https://www.ffta.fr/epreuve/27072",
       "status": ""
     },
     {
@@ -452,9 +452,9 @@
       "city": "",
       "club": "(MURET)",
       "department": "31",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27077",
+      "detail_url": "https://www.ffta.fr/epreuve/27077",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27077",
+      "source_url": "https://www.ffta.fr/epreuve/27077",
       "status": ""
     },
     {
@@ -468,7 +468,7 @@
       "club": "(FRONTIGNAN)",
       "department": "34",
       "detail_url": "https://www.ffta.fr/epreuve/27078",
-      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/111802c4ee555a.pdf",
+      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/111835213c7908.pdf",
       "source_url": "https://www.ffta.fr/epreuve/27078",
       "status": ""
     },
