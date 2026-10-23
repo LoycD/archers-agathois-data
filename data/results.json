@@ -1,9 +1,28 @@
 {
   "version": 4,
-  "updated_at": "2026-10-23T04:59:36+00:00",
+  "updated_at": "2026-10-23T11:46:47+00:00",
   "source": "FFTA official competition result PDFs",
   "parser": "multi-discipline-v4.1-tae-sections",
   "results": [
+    {
+      "id": "58740ffc627d3516f5b18f5a",
+      "licence": "1040387P",
+      "name": "Pascal Germain",
+      "date": "2026-10-18",
+      "competition": "SELECTIF SALLE TIR A 18 METRES - Tir a 18m (2X18M)",
+      "place": "PERPIGNAN",
+      "discipline": "18m",
+      "category": "S2HCO",
+      "departure": 1,
+      "series": [
+        260,
+        255
+      ],
+      "score": 515,
+      "rank": 2,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/S_1166191_20261018_77145.pdf"
+    },
     {
       "id": "9aa4d6f5e97db1c4a29607a7",
       "licence": "1039535V",
