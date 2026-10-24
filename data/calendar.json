@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updated_at": "2026-10-24T11:38:59+00:00",
+  "updated_at": "2026-10-24T16:15:07+00:00",
   "source": "FFTA competitions calendar",
   "departments": [
     "11",
@@ -617,9 +617,9 @@
       "city": "",
       "club": "(ST GENIES DE MALGOIRES)",
       "department": "30",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27111",
+      "detail_url": "https://www.ffta.fr/epreuve/27111",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27111",
+      "source_url": "https://www.ffta.fr/epreuve/27111",
       "status": ""
     },
     {
@@ -632,9 +632,9 @@
       "city": "",
       "club": "(FRONTON)",
       "department": "31",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27110",
+      "detail_url": "https://www.ffta.fr/epreuve/27110",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27110",
+      "source_url": "https://www.ffta.fr/epreuve/27110",
       "status": ""
     },
     {
@@ -647,9 +647,9 @@
       "city": "",
       "club": "(BESSAN)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27108",
+      "detail_url": "https://www.ffta.fr/epreuve/27108",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27108",
+      "source_url": "https://www.ffta.fr/epreuve/27108",
       "status": ""
     },
     {
