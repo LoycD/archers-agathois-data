@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updated_at": "2026-10-25T16:49:42+00:00",
+  "updated_at": "2026-10-25T21:14:55+00:00",
   "source": "FFTA competitions calendar",
   "departments": [
     "11",
@@ -197,9 +197,9 @@
       "city": "",
       "club": "(ANDUZE)",
       "department": "30",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27038",
+      "detail_url": "https://www.ffta.fr/epreuve/27038",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/110e3f337ca83c.pdf",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27038",
+      "source_url": "https://www.ffta.fr/epreuve/27038",
       "status": ""
     },
     {
@@ -212,9 +212,9 @@
       "city": "",
       "club": "(PRADES)",
       "department": "66",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27041",
+      "detail_url": "https://www.ffta.fr/epreuve/27041",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/11140744ce50c9.pdf",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27041",
+      "source_url": "https://www.ffta.fr/epreuve/27041",
       "status": ""
     },
     {
@@ -227,9 +227,9 @@
       "city": "",
       "club": "(NIMES)",
       "department": "30",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27904",
+      "detail_url": "https://www.ffta.fr/epreuve/27904",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27904",
+      "source_url": "https://www.ffta.fr/epreuve/27904",
       "status": ""
     },
     {
