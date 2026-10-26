@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updated_at": "2026-10-25T21:14:55+00:00",
+  "updated_at": "2026-10-26T05:18:16+00:00",
   "source": "FFTA competitions calendar",
   "departments": [
     "11",
@@ -18,8 +18,8 @@
     "taen"
   ],
   "range": {
-    "start": "2026-09-25",
-    "end": "2027-10-25"
+    "start": "2026-09-26",
+    "end": "2027-10-26"
   },
   "competitions": [
     {
@@ -167,9 +167,9 @@
       "city": "",
       "club": "(ST CHRISTOL LES ALES)",
       "department": "30",
-      "detail_url": "https://www.ffta.fr/epreuve/27832",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27832",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/1114fd449835cc.pdf",
-      "source_url": "https://www.ffta.fr/epreuve/27832",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27832",
       "status": ""
     },
     {
@@ -182,9 +182,9 @@
       "city": "",
       "club": "(FRONTIGNAN)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/epreuve/27032",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27032",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/1111ea3117f26c.pdf",
-      "source_url": "https://www.ffta.fr/epreuve/27032",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27032",
       "status": ""
     },
     {
@@ -242,9 +242,9 @@
       "city": "",
       "club": "(MONTPELLIER)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/epreuve/27048",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27048",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/11155ef29cc03b.pdf",
-      "source_url": "https://www.ffta.fr/epreuve/27048",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27048",
       "status": ""
     },
     {
@@ -257,9 +257,9 @@
       "city": "",
       "club": "(PERPIGNAN)",
       "department": "66",
-      "detail_url": "https://www.ffta.fr/epreuve/27047",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27047",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/1113fb82a5c88f.pdf",
-      "source_url": "https://www.ffta.fr/epreuve/27047",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27047",
       "status": ""
     },
     {
@@ -287,9 +287,9 @@
       "city": "",
       "club": "(BLAGNAC)",
       "department": "31",
-      "detail_url": "https://www.ffta.fr/epreuve/27052",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27052",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/1117414b09b20.pdf",
-      "source_url": "https://www.ffta.fr/epreuve/27052",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27052",
       "status": ""
     },
     {
@@ -302,9 +302,9 @@
       "city": "",
       "club": "(LATTES)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/epreuve/27055",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27055",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/1114cfd1c80f30.pdf",
-      "source_url": "https://www.ffta.fr/epreuve/27055",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27055",
       "status": ""
     },
     {
@@ -317,9 +317,9 @@
       "city": "",
       "club": "(VINCA)",
       "department": "66",
-      "detail_url": "https://www.ffta.fr/epreuve/27058",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27058",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/11176eb4b5fc42.pdf",
-      "source_url": "https://www.ffta.fr/epreuve/27058",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27058",
       "status": ""
     },
     {
@@ -347,9 +347,9 @@
       "city": "",
       "club": "(BOMPAS)",
       "department": "66",
-      "detail_url": "https://www.ffta.fr/epreuve/27063",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27063",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/epreuve/27063",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27063",
       "status": ""
     },
     {
@@ -392,9 +392,9 @@
       "city": "",
       "club": "(VIAS)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/epreuve/27072",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27072",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/11173a11ad3da2.pdf",
-      "source_url": "https://www.ffta.fr/epreuve/27072",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27072",
       "status": ""
     },
     {
