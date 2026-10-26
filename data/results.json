@@ -1,9 +1,142 @@
 {
   "version": 4,
-  "updated_at": "2026-10-26T04:56:00+00:00",
+  "updated_at": "2026-10-26T13:16:11+00:00",
   "source": "FFTA official competition result PDFs",
   "parser": "multi-discipline-v4.1-tae-sections",
   "results": [
+    {
+      "id": "5d4fbb9d700dc24bfe990b07",
+      "licence": "1051723P",
+      "name": "Claude Calbet",
+      "date": "2026-10-24",
+      "competition": "COMPETITION 2X18M SELECTIF FRANCE - Tir a 18m (2X18M)",
+      "place": "FRONTIGNAN",
+      "discipline": "18m",
+      "category": "S3HCO",
+      "departure": 1,
+      "series": [
+        193,
+        203
+      ],
+      "score": 396,
+      "rank": 6,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/S_1134126_20261024_77218.pdf"
+    },
+    {
+      "id": "95e8253d6b46c9a41c4155ed",
+      "licence": "0969845E",
+      "name": "Eric Benard",
+      "date": "2026-10-24",
+      "competition": "COMPETITION 2X18M SELECTIF FRANCE - Tir a 18m (2X18M)",
+      "place": "FRONTIGNAN",
+      "discipline": "18m",
+      "category": "S3HBB",
+      "departure": 2,
+      "series": [
+        204,
+        198
+      ],
+      "score": 402,
+      "rank": 2,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/S_1134126_20261024_77218.pdf"
+    },
+    {
+      "id": "4e57cb771e9abb6d92f040c4",
+      "licence": "0969845E",
+      "name": "Eric Benard",
+      "date": "2026-10-24",
+      "competition": "COMPETITION 2X18M SELECTIF FRANCE - Tir a 18m (2X18M)",
+      "place": "FRONTIGNAN",
+      "discipline": "18m",
+      "category": "S3HBB",
+      "departure": 1,
+      "series": [
+        210,
+        195
+      ],
+      "score": 405,
+      "rank": 3,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/S_1134126_20261024_77218.pdf"
+    },
+    {
+      "id": "74ea79e27a24461e346bfa4a",
+      "licence": "0969843C",
+      "name": "Anne Barbara Benard",
+      "date": "2026-10-24",
+      "competition": "COMPETITION 2X18M SELECTIF FRANCE - Tir a 18m (2X18M)",
+      "place": "FRONTIGNAN",
+      "discipline": "18m",
+      "category": "S3FBB",
+      "departure": 2,
+      "series": [
+        239,
+        240
+      ],
+      "score": 479,
+      "rank": 2,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/S_1134126_20261024_77218.pdf"
+    },
+    {
+      "id": "778bca2f92f6f38d93576389",
+      "licence": "0969843C",
+      "name": "Anne Barbara Benard",
+      "date": "2026-10-24",
+      "competition": "COMPETITION 2X18M SELECTIF FRANCE - Tir a 18m (2X18M)",
+      "place": "FRONTIGNAN",
+      "discipline": "18m",
+      "category": "S3FBB",
+      "departure": 1,
+      "series": [
+        248,
+        223
+      ],
+      "score": 471,
+      "rank": 1,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/S_1134126_20261024_77218.pdf"
+    },
+    {
+      "id": "b36f921624b2ad7c56d7b113",
+      "licence": "0016116T",
+      "name": "Lou Anne Mogenot",
+      "date": "2026-10-24",
+      "competition": "COMPETITION 2X18M SELECTIF FRANCE - Tir a 18m (2X18M)",
+      "place": "FRONTIGNAN",
+      "discipline": "18m",
+      "category": "U18FCL",
+      "departure": 1,
+      "series": [
+        224,
+        246
+      ],
+      "score": 470,
+      "rank": 3,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/S_1134126_20261024_77218.pdf"
+    },
+    {
+      "id": "16a64bed99def8a4dce58e70",
+      "licence": "0015250B",
+      "name": "Loic Dupuy",
+      "date": "2026-10-24",
+      "competition": "COMPETITION 2X18M SELECTIF FRANCE - Tir a 18m (2X18M)",
+      "place": "FRONTIGNAN",
+      "discipline": "18m",
+      "category": "S2HCL",
+      "departure": 1,
+      "series": [
+        239,
+        251
+      ],
+      "score": 490,
+      "rank": 8,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/S_1134126_20261024_77218.pdf"
+    },
     {
       "id": "58740ffc627d3516f5b18f5a",
       "licence": "1040387P",
