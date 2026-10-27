@@ -1,9 +1,117 @@
 {
   "version": 4,
-  "updated_at": "2026-10-27T05:13:28+00:00",
+  "updated_at": "2026-10-27T12:21:57+00:00",
   "source": "FFTA official competition result PDFs",
   "parser": "multi-discipline-v4.1-tae-sections",
   "results": [
+    {
+      "id": "89f9bdf8da3475caadaee9ff",
+      "licence": "1022936K",
+      "name": "Severine Fernandez",
+      "date": "2026-10-25",
+      "competition": "CONCOURS AUTOMNE 2 - Tir Nature (21 CIBLES)",
+      "place": "ANDUZE",
+      "discipline": "nature",
+      "category": "S2FCL",
+      "departure": 2,
+      "series": [
+        520
+      ],
+      "score": 520,
+      "rank": null,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/N_1130061_20261025_78840.pdf"
+    },
+    {
+      "id": "888e7d858d00e5b903adba55",
+      "licence": "1022936K",
+      "name": "Severine Fernandez",
+      "date": "2026-10-25",
+      "competition": "CONCOURS AUTOMNE 2 - Tir Nature (21 CIBLES)",
+      "place": "ANDUZE",
+      "discipline": "nature",
+      "category": "S2FCL",
+      "departure": 1,
+      "series": [
+        525
+      ],
+      "score": 525,
+      "rank": 2,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/N_1130061_20261025_78840.pdf"
+    },
+    {
+      "id": "90025f3a8afbc68560cef48f",
+      "licence": "0972018S",
+      "name": "Bruno Benit",
+      "date": "2026-10-25",
+      "competition": "CONCOURS AUTOMNE 2 - Tir Nature (21 CIBLES)",
+      "place": "ANDUZE",
+      "discipline": "nature",
+      "category": "S3HAD",
+      "departure": 2,
+      "series": [
+        440
+      ],
+      "score": 440,
+      "rank": null,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/N_1130061_20261025_78840.pdf"
+    },
+    {
+      "id": "0b0cf843d4394040869c16fc",
+      "licence": "0972018S",
+      "name": "Bruno Benit",
+      "date": "2026-10-25",
+      "competition": "CONCOURS AUTOMNE 2 - Tir Nature (21 CIBLES)",
+      "place": "ANDUZE",
+      "discipline": "nature",
+      "category": "S3HAD",
+      "departure": 1,
+      "series": [
+        365
+      ],
+      "score": 365,
+      "rank": 16,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/N_1130061_20261025_78840.pdf"
+    },
+    {
+      "id": "885b6a8929d17f8eec96d96a",
+      "licence": "0280322Y",
+      "name": "Thierry Bourrie",
+      "date": "2026-10-25",
+      "competition": "CONCOURS AUTOMNE 2 - Tir Nature (21 CIBLES)",
+      "place": "ANDUZE",
+      "discipline": "nature",
+      "category": "S2HAD",
+      "departure": 2,
+      "series": [
+        440
+      ],
+      "score": 440,
+      "rank": null,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/N_1130061_20261025_78840.pdf"
+    },
+    {
+      "id": "c50767705109a81d8640736a",
+      "licence": "0280322Y",
+      "name": "Thierry Bourrie",
+      "date": "2026-10-25",
+      "competition": "CONCOURS AUTOMNE 2 - Tir Nature (21 CIBLES)",
+      "place": "ANDUZE",
+      "discipline": "nature",
+      "category": "S2HAD",
+      "departure": 1,
+      "series": [
+        410
+      ],
+      "score": 410,
+      "rank": 7,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/N_1130061_20261025_78840.pdf"
+    },
     {
       "id": "5d4fbb9d700dc24bfe990b07",
       "licence": "1051723P",
@@ -22,6 +130,42 @@
       "rank": 6,
       "source": "ffta",
       "source_url": "https://extranet.ffta.fr/pdfresultats/2026/S_1134126_20261024_77218.pdf"
+    },
+    {
+      "id": "0f2eb5547ce7f2e093a18efd",
+      "licence": "1022936K",
+      "name": "Severine Fernandez",
+      "date": "2026-10-24",
+      "competition": "CONCOURS AUTOMNE - Tir Nature (21 CIBLES)",
+      "place": "ANDUZE",
+      "discipline": "nature",
+      "category": "S2FCL",
+      "departure": 1,
+      "series": [
+        500
+      ],
+      "score": 500,
+      "rank": 3,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/N_1130061_20261024_78839.pdf"
+    },
+    {
+      "id": "345bd8b7c1f12d0c70cd769e",
+      "licence": "0972018S",
+      "name": "Bruno Benit",
+      "date": "2026-10-24",
+      "competition": "CONCOURS AUTOMNE - Tir Nature (21 CIBLES)",
+      "place": "ANDUZE",
+      "discipline": "nature",
+      "category": "S3HAD",
+      "departure": 1,
+      "series": [
+        435
+      ],
+      "score": 435,
+      "rank": 9,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/N_1130061_20261024_78839.pdf"
     },
     {
       "id": "95e8253d6b46c9a41c4155ed",
@@ -98,6 +242,24 @@
       "rank": 1,
       "source": "ffta",
       "source_url": "https://extranet.ffta.fr/pdfresultats/2026/S_1134126_20261024_77218.pdf"
+    },
+    {
+      "id": "4fd0ab2a562d76dfe01b2bcb",
+      "licence": "0280322Y",
+      "name": "Thierry Bourrie",
+      "date": "2026-10-24",
+      "competition": "CONCOURS AUTOMNE - Tir Nature (21 CIBLES)",
+      "place": "ANDUZE",
+      "discipline": "nature",
+      "category": "S2HAD",
+      "departure": 1,
+      "series": [
+        505
+      ],
+      "score": 505,
+      "rank": 3,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/N_1130061_20261024_78839.pdf"
     },
     {
       "id": "b36f921624b2ad7c56d7b113",
