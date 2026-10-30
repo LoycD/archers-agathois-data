@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updated_at": "2026-10-30T06:27:48+00:00",
+  "updated_at": "2026-10-30T13:35:25+00:00",
   "source": "FFTA competitions calendar",
   "departments": [
     "11",
@@ -272,9 +272,9 @@
       "city": "",
       "club": "(NIMES)",
       "department": "30",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27054",
+      "detail_url": "https://www.ffta.fr/epreuve/27054",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27054",
+      "source_url": "https://www.ffta.fr/epreuve/27054",
       "status": ""
     },
     {
@@ -287,9 +287,9 @@
       "city": "",
       "club": "(BLAGNAC)",
       "department": "31",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27052",
+      "detail_url": "https://www.ffta.fr/epreuve/27052",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/1117414b09b20.pdf",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27052",
+      "source_url": "https://www.ffta.fr/epreuve/27052",
       "status": ""
     },
     {
@@ -302,9 +302,9 @@
       "city": "",
       "club": "(LATTES)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27055",
+      "detail_url": "https://www.ffta.fr/epreuve/27055",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/1114cfd1c80f30.pdf",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27055",
+      "source_url": "https://www.ffta.fr/epreuve/27055",
       "status": ""
     },
     {
