@@ -1,6 +1,14 @@
 name: Collecte calendrier FFTA
 
 on:
+  # Recollecter immédiatement lors d'une correction du collecteur.
+  push:
+    branches:
+      - main
+    paths:
+      - 'scripts/collect_calendar.py'
+      - '.github/workflows/collect-calendar.yml'
+
   workflow_dispatch:
     inputs:
       days_ahead:
