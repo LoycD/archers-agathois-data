@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updated_at": "2026-10-30T13:35:25+00:00",
+  "updated_at": "2026-10-30T14:54:30+00:00",
   "source": "FFTA competitions calendar",
   "departments": [
     "11",
@@ -188,6 +188,21 @@
       "status": ""
     },
     {
+      "ffta_id": "27040",
+      "title": "CONCOURS SALLE 2 X 18 M a CARCASSONNE",
+      "discipline": "18m",
+      "discipline_label": "Tir a 18m",
+      "start_date": "2026-10-25",
+      "end_date": "2026-10-25",
+      "city": "",
+      "club": "(CARCASSONNE)",
+      "department": "11",
+      "detail_url": "https://www.ffta.fr/epreuve/27040",
+      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/1117a9b46c03c5.pdf",
+      "source_url": "https://www.ffta.fr/epreuve/27040",
+      "status": ""
+    },
+    {
       "ffta_id": "27038",
       "title": "CONCOURS AUTOMNE 2 a ANDUZE",
       "discipline": "nature",
@@ -308,6 +323,36 @@
       "status": ""
     },
     {
+      "ffta_id": "27056",
+      "title": "ACM-NATURE a MONTFERRAND",
+      "discipline": "nature",
+      "discipline_label": "Tir nature",
+      "start_date": "2026-11-08",
+      "end_date": "2026-11-08",
+      "city": "",
+      "club": "(MONTFERRAND)",
+      "department": "11",
+      "detail_url": "https://www.ffta.fr/epreuve/27056",
+      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/11178c6514a8e6.pdf",
+      "source_url": "https://www.ffta.fr/epreuve/27056",
+      "status": ""
+    },
+    {
+      "ffta_id": "27057",
+      "title": "CONCOURS SALLE 2 X 18 M a CARCASSONNE",
+      "discipline": "18m",
+      "discipline_label": "Tir a 18m",
+      "start_date": "2026-11-08",
+      "end_date": "2026-11-08",
+      "city": "",
+      "club": "(CARCASSONNE)",
+      "department": "11",
+      "detail_url": "https://www.ffta.fr/epreuve/27057",
+      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/11173f118647fa.pdf",
+      "source_url": "https://www.ffta.fr/epreuve/27057",
+      "status": ""
+    },
+    {
       "ffta_id": "27058",
       "title": "18M SAINTE MARIE 66 a SAINTE MARIE",
       "discipline": "18m",
@@ -383,6 +428,21 @@
       "status": ""
     },
     {
+      "ffta_id": "27074",
+      "title": "CONCOURS SALLE 2 X 18 M a CARCASSONNE",
+      "discipline": "18m",
+      "discipline_label": "Tir a 18m",
+      "start_date": "2026-11-22",
+      "end_date": "2026-11-22",
+      "city": "",
+      "club": "(CARCASSONNE)",
+      "department": "11",
+      "detail_url": "https://www.ffta.fr/epreuve/27074",
+      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/11173f155b54a1.pdf",
+      "source_url": "https://www.ffta.fr/epreuve/27074",
+      "status": ""
+    },
+    {
       "ffta_id": "27072",
       "title": "CONCOURS DOMINICAL a VIAS",
       "discipline": "18m",
@@ -395,21 +455,6 @@
       "detail_url": "https://www.ffta.fr/epreuve/27072",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/11173a11ad3da2.pdf",
       "source_url": "https://www.ffta.fr/epreuve/27072",
-      "status": ""
-    },
-    {
-      "ffta_id": "27080",
-      "title": "CONCOURS SALLE VIVIEZ a VIVIEZ",
-      "discipline": "18m",
-      "discipline_label": "Tir a 18m",
-      "start_date": "2026-11-28",
-      "end_date": "2026-11-29",
-      "city": "",
-      "club": "(VIVIEZ)",
-      "department": "11",
-      "detail_url": "https://www.ffta.fr/epreuve/27080",
-      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/111655d368e5e7.pdf",
-      "source_url": "https://www.ffta.fr/epreuve/27080",
       "status": ""
     },
     {
@@ -485,6 +530,21 @@
       "detail_url": "https://www.ffta.fr/epreuve/27083",
       "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27083",
+      "status": ""
+    },
+    {
+      "ffta_id": "27088",
+      "title": "CONCOURS SALLE 2 X 18 M a CARCASSONNE",
+      "discipline": "18m",
+      "discipline_label": "Tir a 18m",
+      "start_date": "2026-12-06",
+      "end_date": "2026-12-06",
+      "city": "",
+      "club": "(CARCASSONNE)",
+      "department": "11",
+      "detail_url": "https://www.ffta.fr/epreuve/27088",
+      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/11173f23b00ec7.pdf",
+      "source_url": "https://www.ffta.fr/epreuve/27088",
       "status": ""
     },
     {
@@ -593,21 +653,6 @@
       "status": ""
     },
     {
-      "ffta_id": "27626",
-      "title": "CHAMPIONNAT DEPARTEMENTAL SALLE 2X18M a LE MONASTERE",
-      "discipline": "18m",
-      "discipline_label": "Tir a 18m",
-      "start_date": "2027-01-09",
-      "end_date": "2027-01-10",
-      "city": "",
-      "club": "(LE MONASTERE)",
-      "department": "11",
-      "detail_url": "https://www.ffta.fr/epreuve/27626",
-      "mandate_url": "",
-      "source_url": "https://www.ffta.fr/epreuve/27626",
-      "status": ""
-    },
-    {
       "ffta_id": "27111",
       "title": "CHALLENGE EN SALLE ST GENIES a SAINT GENIES DE MALGOIRES",
       "discipline": "18m",
@@ -665,6 +710,21 @@
       "detail_url": "https://www.ffta.fr/epreuve/27105",
       "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27105",
+      "status": ""
+    },
+    {
+      "ffta_id": "27117",
+      "title": "CONCOURS SALLE 2 X 18 M a CARCASSONNE",
+      "discipline": "18m",
+      "discipline_label": "Tir a 18m",
+      "start_date": "2027-01-10",
+      "end_date": "2027-01-10",
+      "city": "",
+      "club": "(CARCASSONNE)",
+      "department": "11",
+      "detail_url": "https://www.ffta.fr/epreuve/27117",
+      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/11173f320f9987.pdf",
+      "source_url": "https://www.ffta.fr/epreuve/27117",
       "status": ""
     },
     {
@@ -830,6 +890,21 @@
       "detail_url": "https://www.ffta.fr/epreuve/27134",
       "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27134",
+      "status": ""
+    },
+    {
+      "ffta_id": "27137",
+      "title": "CHAMP SALLE DEPARTEMENTAL CD11 a CASTELNAUDARY",
+      "discipline": "18m",
+      "discipline_label": "Tir a 18m",
+      "start_date": "2027-01-31",
+      "end_date": "2027-01-31",
+      "city": "",
+      "club": "(CASTELNAUDARY)",
+      "department": "11",
+      "detail_url": "https://www.ffta.fr/epreuve/27137",
+      "mandate_url": "",
+      "source_url": "https://www.ffta.fr/epreuve/27137",
       "status": ""
     },
     {
