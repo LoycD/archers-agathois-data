@@ -20,7 +20,7 @@ BASE = "https://www.ffta.fr/competitions"
 
 # Le filtre dep[] de la FFTA utilise un identifiant interne.
 DEPARTMENT_FILTERS = {
-    "11": "12",  # Aude
+    "11": "11",  # Aude : identifiant FFTA 11 (12 correspond à l’Aveyron)
     "30": "31",  # Gard
     "31": "32",  # Haute-Garonne
     "34": "35",  # Hérault
@@ -354,17 +354,30 @@ def collect(start, end):
         for page in range(100):
             url = page_url(start, end, ffta_dep_id, page)
             print(f"[calendrier] page {page}")
-            rows = extract_cards(get(url).text, department_code)
-            print(f"  -> {len(rows)} compétition(s) retenue(s)")
+            html = get(url).text
+            # La pagination doit être contrôlée sur TOUTES les fiches FFTA,
+            # et non sur les seules disciplines conservées. Une page sans
+            # compétition éligible peut être suivie de concours Nature ou 3D.
+            all_cards_on_page = sum(
+                1
+                for a in BeautifulSoup(html, "html.parser").find_all("a", href=True)
+                if norm(a.get_text(" ", strip=True)).lower() in ("detail", "détail")
+            )
+            rows = extract_cards(html, department_code)
+            print(
+                f"  -> {len(rows)} compétition(s) retenue(s) "
+                f"sur {all_cards_on_page} fiche(s) FFTA"
+            )
 
-            if not rows:
+            if all_cards_on_page == 0:
                 empty += 1
                 if empty >= 2:
                     break
             else:
                 empty = 0
-                for row in rows:
-                    all_rows[row["ffta_id"]] = row
+
+            for row in rows:
+                all_rows[row["ffta_id"]] = row
 
             time.sleep(REQUEST_DELAY)
 
