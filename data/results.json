@@ -1,9 +1,45 @@
 {
   "version": 4,
-  "updated_at": "2026-10-31T12:42:51+00:00",
+  "updated_at": "2026-10-31T21:41:33+00:00",
   "source": "FFTA official competition result PDFs",
   "parser": "multi-discipline-v4.1-tae-sections",
   "results": [
+    {
+      "id": "6c174e71ee59693ce8cd7489",
+      "licence": "0319272K",
+      "name": "Laurent Zdyb",
+      "date": "2026-10-31",
+      "competition": "NATURE YELLOH VILLAGE - Tir Nature (21 CIBLES)",
+      "place": "VEDENE",
+      "discipline": "nature",
+      "category": "S2HTL",
+      "departure": 2,
+      "series": [
+        700
+      ],
+      "score": 700,
+      "rank": null,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/N_1384131_20261031_77869.pdf"
+    },
+    {
+      "id": "43468b03f4a9cf1e2ed2d44c",
+      "licence": "0319272K",
+      "name": "Laurent Zdyb",
+      "date": "2026-10-31",
+      "competition": "NATURE YELLOH VILLAGE - Tir Nature (21 CIBLES)",
+      "place": "VEDENE",
+      "discipline": "nature",
+      "category": "S2HTL",
+      "departure": 1,
+      "series": [
+        690
+      ],
+      "score": 690,
+      "rank": 3,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/N_1384131_20261031_77869.pdf"
+    },
     {
       "id": "89f9bdf8da3475caadaee9ff",
       "licence": "1022936K",
