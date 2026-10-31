@@ -1,13 +1,17 @@
 {
   "version": 5,
-  "updated_at": "2026-10-31T06:18:25+00:00",
+  "updated_at": "2026-10-31T08:07:53+00:00",
   "source": "FFTA competitions calendar",
   "departments": [
     "11",
+    "12",
+    "13",
     "30",
     "31",
+    "32",
     "34",
-    "66"
+    "66",
+    "84"
   ],
   "disciplines": [
     "18m",
@@ -53,6 +57,21 @@
       "status": ""
     },
     {
+      "ffta_id": "26645",
+      "title": "CONCOURS NATURE ARCHERS TROIS LUCS A GARDANNE a GARDANNE",
+      "discipline": "nature",
+      "discipline_label": "Tir nature",
+      "start_date": "2026-10-11",
+      "end_date": "2026-10-11",
+      "city": "",
+      "club": "(GARDANNE)",
+      "department": "13",
+      "detail_url": "https://www.ffta.fr/epreuve/26645",
+      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/11127d9572105c.pdf",
+      "source_url": "https://www.ffta.fr/epreuve/26645",
+      "status": ""
+    },
+    {
       "ffta_id": "27017",
       "title": "TIR NATURE a AGDE",
       "discipline": "nature",
@@ -65,6 +84,21 @@
       "detail_url": "https://www.ffta.fr/epreuve/27017",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/110fc8933ff5ed.pdf",
       "source_url": "https://www.ffta.fr/epreuve/27017",
+      "status": ""
+    },
+    {
+      "ffta_id": "26646",
+      "title": "NATURE OCT 2026 a MORNAS",
+      "discipline": "nature",
+      "discipline_label": "Tir nature",
+      "start_date": "2026-10-11",
+      "end_date": "2026-10-11",
+      "city": "",
+      "club": "(MORNAS)",
+      "department": "84",
+      "detail_url": "https://www.ffta.fr/epreuve/26646",
+      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/110e7df27f5236.pdf",
+      "source_url": "https://www.ffta.fr/epreuve/26646",
       "status": ""
     },
     {
@@ -98,6 +132,51 @@
       "status": ""
     },
     {
+      "ffta_id": "27023",
+      "title": "CONCOURS COMBINE ARC'MAGNAC EN SALLE A BOURROUILLAN a BOURROUILLAN",
+      "discipline": "18m",
+      "discipline_label": "Tir a 18m",
+      "start_date": "2026-10-17",
+      "end_date": "2026-10-17",
+      "city": "",
+      "club": "(BOURROUILLAN)",
+      "department": "32",
+      "detail_url": "https://www.ffta.fr/epreuve/27023",
+      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/111171e5bb11eb.pdf",
+      "source_url": "https://www.ffta.fr/epreuve/27023",
+      "status": ""
+    },
+    {
+      "ffta_id": "26647",
+      "title": "TIR 2X18M OCTOBRE a VEDENE",
+      "discipline": "18m",
+      "discipline_label": "TIR 2X18M OCTOBRE a VEDENE",
+      "start_date": "2026-10-17",
+      "end_date": "2026-10-18",
+      "city": "",
+      "club": "(VEDENE)",
+      "department": "84",
+      "detail_url": "https://www.ffta.fr/epreuve/26647",
+      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/1112beb315e548.pdf",
+      "source_url": "https://www.ffta.fr/epreuve/26647",
+      "status": ""
+    },
+    {
+      "ffta_id": "26651",
+      "title": "TIR NATURE a GEMENOS",
+      "discipline": "nature",
+      "discipline_label": "TIR NATURE a GEMENOS",
+      "start_date": "2026-10-18",
+      "end_date": "2026-10-18",
+      "city": "",
+      "club": "(GEMENOS)",
+      "department": "13",
+      "detail_url": "https://www.ffta.fr/epreuve/26651",
+      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/1110a4015525b2.pdf",
+      "source_url": "https://www.ffta.fr/epreuve/26651",
+      "status": ""
+    },
+    {
       "ffta_id": "27026",
       "title": "CONCOURS AUTOMNE 2026 a ROCHEFORT DU GARD",
       "discipline": "nature",
@@ -128,6 +207,21 @@
       "status": ""
     },
     {
+      "ffta_id": "27028",
+      "title": "CONCOURS 18M ARC'MAGNAC A BOURROUILLAN a BOURROUILLAN",
+      "discipline": "18m",
+      "discipline_label": "Tir a 18m",
+      "start_date": "2026-10-18",
+      "end_date": "2026-10-18",
+      "city": "",
+      "club": "(BOURROUILLAN)",
+      "department": "32",
+      "detail_url": "https://www.ffta.fr/epreuve/27028",
+      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/1111bd1487690.pdf",
+      "source_url": "https://www.ffta.fr/epreuve/27028",
+      "status": ""
+    },
+    {
       "ffta_id": "27029",
       "title": "SELECTIF SALLE TIR A 18 METRES a PERPIGNAN",
       "discipline": "18m",
@@ -140,6 +234,21 @@
       "detail_url": "https://www.ffta.fr/epreuve/27029",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/1112c755661f1e.pdf",
       "source_url": "https://www.ffta.fr/epreuve/27029",
+      "status": ""
+    },
+    {
+      "ffta_id": "27897",
+      "title": "TIR 18M a FOS SUR MER",
+      "discipline": "18m",
+      "discipline_label": "TIR 18M a FOS SUR MER",
+      "start_date": "2026-10-24",
+      "end_date": "2026-10-25",
+      "city": "",
+      "club": "(FOS SUR MER)",
+      "department": "13",
+      "detail_url": "https://www.ffta.fr/epreuve/27897",
+      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/1115db018a9fa4.pdf",
+      "source_url": "https://www.ffta.fr/epreuve/27897",
       "status": ""
     },
     {
@@ -218,6 +327,21 @@
       "status": ""
     },
     {
+      "ffta_id": "27037",
+      "title": "TIR EN SALLE PLAISANCE DU GERS a PLAISANCE DU GERS",
+      "discipline": "18m",
+      "discipline_label": "TIR EN SALLE PLAISANCE DU GERS a PLAISANCE DU GERS",
+      "start_date": "2026-10-25",
+      "end_date": "2026-10-25",
+      "city": "",
+      "club": "(PLAISANCE)",
+      "department": "32",
+      "detail_url": "https://www.ffta.fr/epreuve/27037",
+      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/110fc994808659.pdf",
+      "source_url": "https://www.ffta.fr/epreuve/27037",
+      "status": ""
+    },
+    {
       "ffta_id": "27041",
       "title": "CONCOURS SALLE 18M a PRADES",
       "discipline": "18m",
@@ -248,6 +372,51 @@
       "status": ""
     },
     {
+      "ffta_id": "27043",
+      "title": "CONCOURS 100% FEMININ a AUCH",
+      "discipline": "18m",
+      "discipline_label": "Tir a 18m",
+      "start_date": "2026-10-31",
+      "end_date": "2026-10-31",
+      "city": "",
+      "club": "(AUCH)",
+      "department": "32",
+      "detail_url": "https://www.ffta.fr/epreuve/27043",
+      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/111410344b25dc.pdf",
+      "source_url": "https://www.ffta.fr/epreuve/27043",
+      "status": ""
+    },
+    {
+      "ffta_id": "26730",
+      "title": "CONCOURS DE LA SAINT SIFFREIN a CARPENTRAS",
+      "discipline": "18m",
+      "discipline_label": "Tir a 18m",
+      "start_date": "2026-10-31",
+      "end_date": "2026-11-01",
+      "city": "",
+      "club": "(CARPENTRAS)",
+      "department": "84",
+      "detail_url": "https://www.ffta.fr/epreuve/26730",
+      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/1114984f0583f.pdf",
+      "source_url": "https://www.ffta.fr/epreuve/26730",
+      "status": ""
+    },
+    {
+      "ffta_id": "26654",
+      "title": "NATURE YELLOH VILLAGE a VEDENE",
+      "discipline": "nature",
+      "discipline_label": "Tir nature",
+      "start_date": "2026-10-31",
+      "end_date": "2026-10-31",
+      "city": "",
+      "club": "(VEDENE)",
+      "department": "84",
+      "detail_url": "https://www.ffta.fr/epreuve/26654",
+      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/110fdc512aee1a.pdf",
+      "source_url": "https://www.ffta.fr/epreuve/26654",
+      "status": ""
+    },
+    {
       "ffta_id": "27048",
       "title": "TIR A 18M - MONTPELLIER a MONTPELLIER",
       "discipline": "18m",
@@ -275,6 +444,36 @@
       "detail_url": "https://www.ffta.fr/epreuve/27047",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/1113fb82a5c88f.pdf",
       "source_url": "https://www.ffta.fr/epreuve/27047",
+      "status": ""
+    },
+    {
+      "ffta_id": "26655",
+      "title": "NATURE YELLOH VILLAGE a VEDENE",
+      "discipline": "nature",
+      "discipline_label": "Tir nature",
+      "start_date": "2026-11-01",
+      "end_date": "2026-11-01",
+      "city": "",
+      "club": "(VEDENE)",
+      "department": "84",
+      "detail_url": "https://www.ffta.fr/epreuve/26655",
+      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/110fdc45dd82ca.pdf",
+      "source_url": "https://www.ffta.fr/epreuve/26655",
+      "status": ""
+    },
+    {
+      "ffta_id": "26658",
+      "title": "TIR 18M a CHATEAURENARD",
+      "discipline": "18m",
+      "discipline_label": "TIR 18M a CHATEAURENARD",
+      "start_date": "2026-11-07",
+      "end_date": "2026-11-08",
+      "city": "",
+      "club": "(CHATEAURENARD)",
+      "department": "13",
+      "detail_url": "https://www.ffta.fr/epreuve/26658",
+      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/111469c38d1ce5.pdf",
+      "source_url": "https://www.ffta.fr/epreuve/26658",
       "status": ""
     },
     {
@@ -368,6 +567,36 @@
       "status": ""
     },
     {
+      "ffta_id": "27060",
+      "title": "2X18 M CONDOM a CONDOM",
+      "discipline": "18m",
+      "discipline_label": "Tir a 18m",
+      "start_date": "2026-11-11",
+      "end_date": "2026-11-11",
+      "city": "",
+      "club": "(CONDOM)",
+      "department": "32",
+      "detail_url": "https://www.ffta.fr/epreuve/27060",
+      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/11184aa51628b8.pdf",
+      "source_url": "https://www.ffta.fr/epreuve/27060",
+      "status": ""
+    },
+    {
+      "ffta_id": "26659",
+      "title": "CONCOURS SALLE 18M a MIRAMAS",
+      "discipline": "18m",
+      "discipline_label": "Tir a 18m",
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-15",
+      "city": "",
+      "club": "(MIRAMAS)",
+      "department": "13",
+      "detail_url": "https://www.ffta.fr/epreuve/26659",
+      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/111934d568c1b.pdf",
+      "source_url": "https://www.ffta.fr/epreuve/26659",
+      "status": ""
+    },
+    {
       "ffta_id": "27065",
       "title": "18M TOULOUSE TAC NOV 2026 a TOULOUSE",
       "discipline": "18m",
@@ -383,6 +612,21 @@
       "status": ""
     },
     {
+      "ffta_id": "27064",
+      "title": "CONCOURS 100% MASCULIN a AUCH",
+      "discipline": "18m",
+      "discipline_label": "Tir a 18m",
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-14",
+      "city": "",
+      "club": "(AUCH)",
+      "department": "32",
+      "detail_url": "https://www.ffta.fr/epreuve/27064",
+      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/1118800159aea6.pdf",
+      "source_url": "https://www.ffta.fr/epreuve/27064",
+      "status": ""
+    },
+    {
       "ffta_id": "27063",
       "title": "CONCOURS FRANCOIS NAVAJAS a BOMPAS",
       "discipline": "18m",
@@ -395,6 +639,21 @@
       "detail_url": "https://www.ffta.fr/epreuve/27063",
       "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27063",
+      "status": ""
+    },
+    {
+      "ffta_id": "26664",
+      "title": "TIR EN SALLE 2X 18M a BOLLENE",
+      "discipline": "18m",
+      "discipline_label": "TIR EN SALLE 2X 18M a BOLLENE",
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-15",
+      "city": "",
+      "club": "(BOLLENE)",
+      "department": "84",
+      "detail_url": "https://www.ffta.fr/epreuve/26664",
+      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/1110cf324bf57d.pdf",
+      "source_url": "https://www.ffta.fr/epreuve/26664",
       "status": ""
     },
     {
@@ -428,6 +687,21 @@
       "status": ""
     },
     {
+      "ffta_id": "26665",
+      "title": "SELECTIF 2 X 18M a MARIGNANE",
+      "discipline": "18m",
+      "discipline_label": "Tir a 18m",
+      "start_date": "2026-11-21",
+      "end_date": "2026-11-22",
+      "city": "",
+      "club": "(MARIGNANE)",
+      "department": "13",
+      "detail_url": "https://www.ffta.fr/epreuve/26665",
+      "mandate_url": "",
+      "source_url": "https://www.ffta.fr/epreuve/26665",
+      "status": ""
+    },
+    {
       "ffta_id": "27074",
       "title": "CONCOURS SALLE 2 X 18 M a CARCASSONNE",
       "discipline": "18m",
@@ -455,6 +729,21 @@
       "detail_url": "https://www.ffta.fr/epreuve/27072",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/11173a11ad3da2.pdf",
       "source_url": "https://www.ffta.fr/epreuve/27072",
+      "status": ""
+    },
+    {
+      "ffta_id": "27080",
+      "title": "CONCOURS SALLE VIVIEZ a VIVIEZ",
+      "discipline": "18m",
+      "discipline_label": "Tir a 18m",
+      "start_date": "2026-11-28",
+      "end_date": "2026-11-29",
+      "city": "",
+      "club": "(VIVIEZ)",
+      "department": "12",
+      "detail_url": "https://www.ffta.fr/epreuve/27080",
+      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/111655d368e5e7.pdf",
+      "source_url": "https://www.ffta.fr/epreuve/27080",
       "status": ""
     },
     {
@@ -503,6 +792,21 @@
       "status": ""
     },
     {
+      "ffta_id": "26681",
+      "title": "CONCOURS SALLE a GEMENOS",
+      "discipline": "18m",
+      "discipline_label": "Tir a 18m",
+      "start_date": "2026-12-05",
+      "end_date": "2026-12-06",
+      "city": "",
+      "club": "(GEMENOS)",
+      "department": "13",
+      "detail_url": "https://www.ffta.fr/epreuve/26681",
+      "mandate_url": "",
+      "source_url": "https://www.ffta.fr/epreuve/26681",
+      "status": ""
+    },
+    {
       "ffta_id": "27086",
       "title": "18 M BALMA a BALMA",
       "discipline": "18m",
@@ -518,6 +822,21 @@
       "status": ""
     },
     {
+      "ffta_id": "27085",
+      "title": "CONCOURS SALLE A 18 M a LOMBEZ",
+      "discipline": "18m",
+      "discipline_label": "Tir a 18m",
+      "start_date": "2026-12-05",
+      "end_date": "2026-12-06",
+      "city": "",
+      "club": "(LOMBEZ)",
+      "department": "32",
+      "detail_url": "https://www.ffta.fr/epreuve/27085",
+      "mandate_url": "",
+      "source_url": "https://www.ffta.fr/epreuve/27085",
+      "status": ""
+    },
+    {
       "ffta_id": "27083",
       "title": "SELECTIF SALLE TIR A 18 METRES a PERPIGNAN",
       "discipline": "18m",
@@ -530,6 +849,21 @@
       "detail_url": "https://www.ffta.fr/epreuve/27083",
       "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27083",
+      "status": ""
+    },
+    {
+      "ffta_id": "26680",
+      "title": "CONCOURS SELECTIF 18M AVIGNON a AVIGNON",
+      "discipline": "18m",
+      "discipline_label": "Tir a 18m",
+      "start_date": "2026-12-05",
+      "end_date": "2026-12-06",
+      "city": "",
+      "club": "(AVIGNON)",
+      "department": "84",
+      "detail_url": "https://www.ffta.fr/epreuve/26680",
+      "mandate_url": "",
+      "source_url": "https://www.ffta.fr/epreuve/26680",
       "status": ""
     },
     {
@@ -578,6 +912,21 @@
       "status": ""
     },
     {
+      "ffta_id": "26683",
+      "title": "COMPETITION CHOCOLAT a SAINT MARTIN DE CRAU",
+      "discipline": "18m",
+      "discipline_label": "Tir a 18m",
+      "start_date": "2026-12-12",
+      "end_date": "2026-12-13",
+      "city": "",
+      "club": "(ST MARTIN DE CRAU)",
+      "department": "13",
+      "detail_url": "https://www.ffta.fr/epreuve/26683",
+      "mandate_url": "",
+      "source_url": "https://www.ffta.fr/epreuve/26683",
+      "status": ""
+    },
+    {
       "ffta_id": "27093",
       "title": "2X18M a NIMES",
       "discipline": "18m",
@@ -623,6 +972,21 @@
       "status": ""
     },
     {
+      "ffta_id": "26689",
+      "title": "CONCOURS SELECTIF 2X18M a MORIERES-LES-AVIGNON",
+      "discipline": "18m",
+      "discipline_label": "Tir a 18m",
+      "start_date": "2026-12-13",
+      "end_date": "2026-12-13",
+      "city": "",
+      "club": "(MORIERES LES AVIGNON)",
+      "department": "84",
+      "detail_url": "https://www.ffta.fr/epreuve/26689",
+      "mandate_url": "",
+      "source_url": "https://www.ffta.fr/epreuve/26689",
+      "status": ""
+    },
+    {
       "ffta_id": "27102",
       "title": "CONCOURS EN SALLE DECEMBRE 2026 a SAINT LAURENT D'AIGOUZE",
       "discipline": "18m",
@@ -638,6 +1002,21 @@
       "status": ""
     },
     {
+      "ffta_id": "27101",
+      "title": "CONCOURS SALLE 2X18 M a AUCH",
+      "discipline": "18m",
+      "discipline_label": "Tir a 18m",
+      "start_date": "2026-12-19",
+      "end_date": "2026-12-20",
+      "city": "",
+      "club": "(AUCH)",
+      "department": "32",
+      "detail_url": "https://www.ffta.fr/epreuve/27101",
+      "mandate_url": "",
+      "source_url": "https://www.ffta.fr/epreuve/27101",
+      "status": ""
+    },
+    {
       "ffta_id": "27104",
       "title": "CONCOURS EN SALLE ALV3M a LATTES",
       "discipline": "18m",
@@ -650,6 +1029,51 @@
       "detail_url": "https://www.ffta.fr/epreuve/27104",
       "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27104",
+      "status": ""
+    },
+    {
+      "ffta_id": "26690",
+      "title": "SALLE JANVIER VEDENE a VEDENE",
+      "discipline": "18m",
+      "discipline_label": "Tir a 18m",
+      "start_date": "2027-01-02",
+      "end_date": "2027-01-03",
+      "city": "",
+      "club": "(VEDENE)",
+      "department": "84",
+      "detail_url": "https://www.ffta.fr/epreuve/26690",
+      "mandate_url": "",
+      "source_url": "https://www.ffta.fr/epreuve/26690",
+      "status": ""
+    },
+    {
+      "ffta_id": "27626",
+      "title": "CHAMPIONNAT DEPARTEMENTAL SALLE 2X18M a LE MONASTERE",
+      "discipline": "18m",
+      "discipline_label": "Tir a 18m",
+      "start_date": "2027-01-09",
+      "end_date": "2027-01-10",
+      "city": "",
+      "club": "(LE MONASTERE)",
+      "department": "12",
+      "detail_url": "https://www.ffta.fr/epreuve/27626",
+      "mandate_url": "",
+      "source_url": "https://www.ffta.fr/epreuve/27626",
+      "status": ""
+    },
+    {
+      "ffta_id": "26695",
+      "title": "CONCOURS SALLE 18M a MIRAMAS",
+      "discipline": "18m",
+      "discipline_label": "Tir a 18m",
+      "start_date": "2027-01-09",
+      "end_date": "2027-01-10",
+      "city": "",
+      "club": "(MIRAMAS)",
+      "department": "13",
+      "detail_url": "https://www.ffta.fr/epreuve/26695",
+      "mandate_url": "",
+      "source_url": "https://www.ffta.fr/epreuve/26695",
       "status": ""
     },
     {
@@ -713,6 +1137,21 @@
       "status": ""
     },
     {
+      "ffta_id": "26692",
+      "title": "CONCOURS SALLE - CAVAILLON a CAVAILLON",
+      "discipline": "18m",
+      "discipline_label": "Tir a 18m",
+      "start_date": "2027-01-09",
+      "end_date": "2027-01-10",
+      "city": "",
+      "club": "(CAVAILLON)",
+      "department": "84",
+      "detail_url": "https://www.ffta.fr/epreuve/26692",
+      "mandate_url": "",
+      "source_url": "https://www.ffta.fr/epreuve/26692",
+      "status": ""
+    },
+    {
       "ffta_id": "27117",
       "title": "CONCOURS SALLE 2 X 18 M a CARCASSONNE",
       "discipline": "18m",
@@ -755,6 +1194,21 @@
       "detail_url": "https://www.ffta.fr/epreuve/27112",
       "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27112",
+      "status": ""
+    },
+    {
+      "ffta_id": "27114",
+      "title": "CHAMPIONNAT DEPARTEMENTAL DU GERS a AUCH",
+      "discipline": "18m",
+      "discipline_label": "Tir a 18m",
+      "start_date": "2027-01-10",
+      "end_date": "2027-01-10",
+      "city": "",
+      "club": "(AUCH)",
+      "department": "32",
+      "detail_url": "https://www.ffta.fr/epreuve/27114",
+      "mandate_url": "",
+      "source_url": "https://www.ffta.fr/epreuve/27114",
       "status": ""
     },
     {
@@ -803,6 +1257,21 @@
       "status": ""
     },
     {
+      "ffta_id": "27119",
+      "title": "CONCOURS SALLE 2X18M a L'ISLE-JOURDAIN",
+      "discipline": "18m",
+      "discipline_label": "Tir a 18m",
+      "start_date": "2027-01-17",
+      "end_date": "2027-01-17",
+      "city": "",
+      "club": "(L ISLE JOURDAIN)",
+      "department": "32",
+      "detail_url": "https://www.ffta.fr/epreuve/27119",
+      "mandate_url": "",
+      "source_url": "https://www.ffta.fr/epreuve/27119",
+      "status": ""
+    },
+    {
       "ffta_id": "27120",
       "title": "SALLE 18M LLUPIA a LLUPIA",
       "discipline": "18m",
@@ -815,6 +1284,21 @@
       "detail_url": "https://www.ffta.fr/epreuve/27120",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/11142dc5ebb807.pdf",
       "source_url": "https://www.ffta.fr/epreuve/27120",
+      "status": ""
+    },
+    {
+      "ffta_id": "26704",
+      "title": "2 X 18M - ISTRES a ISTRES",
+      "discipline": "18m",
+      "discipline_label": "Tir a 18m",
+      "start_date": "2027-01-23",
+      "end_date": "2027-01-24",
+      "city": "",
+      "club": "(ISTRES)",
+      "department": "13",
+      "detail_url": "https://www.ffta.fr/epreuve/26704",
+      "mandate_url": "",
+      "source_url": "https://www.ffta.fr/epreuve/26704",
       "status": ""
     },
     {
@@ -875,6 +1359,21 @@
       "detail_url": "https://www.ffta.fr/epreuve/27132",
       "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27132",
+      "status": ""
+    },
+    {
+      "ffta_id": "26711",
+      "title": "CHAMPIONNAT DEPARTEMENTAL 13 a SAINT MARTIN DE CRAU",
+      "discipline": "18m",
+      "discipline_label": "Tir a 18m",
+      "start_date": "2027-01-30",
+      "end_date": "2027-01-31",
+      "city": "",
+      "club": "(ST MARTIN DE CRAU)",
+      "department": "13",
+      "detail_url": "https://www.ffta.fr/epreuve/26711",
+      "mandate_url": "",
+      "source_url": "https://www.ffta.fr/epreuve/26711",
       "status": ""
     },
     {
@@ -953,6 +1452,36 @@
       "status": ""
     },
     {
+      "ffta_id": "26713",
+      "title": "CONCOURS MON'ARC CLUB a MONTEUX",
+      "discipline": "18m",
+      "discipline_label": "Tir a 18m",
+      "start_date": "2027-02-06",
+      "end_date": "2027-02-06",
+      "city": "",
+      "club": "(MONTEUX)",
+      "department": "84",
+      "detail_url": "https://www.ffta.fr/epreuve/26713",
+      "mandate_url": "",
+      "source_url": "https://www.ffta.fr/epreuve/26713",
+      "status": ""
+    },
+    {
+      "ffta_id": "26714",
+      "title": "VEGAS MON'ARC a MONTEUX",
+      "discipline": "18m",
+      "discipline_label": "Tir a 18m",
+      "start_date": "2027-02-07",
+      "end_date": "2027-02-07",
+      "city": "",
+      "club": "(MONTEUX)",
+      "department": "84",
+      "detail_url": "https://www.ffta.fr/epreuve/26714",
+      "mandate_url": "",
+      "source_url": "https://www.ffta.fr/epreuve/26714",
+      "status": ""
+    },
+    {
       "ffta_id": "27144",
       "title": "CHAMPIONNAT REGIONAL EN SALLE ADULTES a A DEFINIR",
       "discipline": "18m",
@@ -968,6 +1497,36 @@
       "status": ""
     },
     {
+      "ffta_id": "26715",
+      "title": "CHAMPIONNAT REGIONAL SALLE JEUNES a INCONNU",
+      "discipline": "18m",
+      "discipline_label": "Tir a 18m",
+      "start_date": "2027-02-13",
+      "end_date": "2027-02-13",
+      "city": "",
+      "club": "(DRAGUIGNAN)",
+      "department": "84",
+      "detail_url": "https://www.ffta.fr/epreuve/26715",
+      "mandate_url": "",
+      "source_url": "https://www.ffta.fr/epreuve/26715",
+      "status": ""
+    },
+    {
+      "ffta_id": "26716",
+      "title": "CHAMPIONNAT REGIONAL ADULTES SALLE a INCONNU",
+      "discipline": "18m",
+      "discipline_label": "Tir a 18m",
+      "start_date": "2027-02-14",
+      "end_date": "2027-02-14",
+      "city": "",
+      "club": "(DRAGUIGNAN)",
+      "department": "84",
+      "detail_url": "https://www.ffta.fr/epreuve/26716",
+      "mandate_url": "",
+      "source_url": "https://www.ffta.fr/epreuve/26716",
+      "status": ""
+    },
+    {
       "ffta_id": "27948",
       "title": "TIR NATURE A PUJAUT a PUJAUT",
       "discipline": "nature",
@@ -980,6 +1539,21 @@
       "detail_url": "https://www.ffta.fr/epreuve/27948",
       "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27948",
+      "status": ""
+    },
+    {
+      "ffta_id": "26718",
+      "title": "NATURE 2027 a MORNAS",
+      "discipline": "nature",
+      "discipline_label": "Tir nature",
+      "start_date": "2027-03-13",
+      "end_date": "2027-03-14",
+      "city": "",
+      "club": "(MORNAS)",
+      "department": "84",
+      "detail_url": "https://www.ffta.fr/epreuve/26718",
+      "mandate_url": "",
+      "source_url": "https://www.ffta.fr/epreuve/26718",
       "status": ""
     },
     {
