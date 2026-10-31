@@ -20,11 +20,15 @@ BASE = "https://www.ffta.fr/competitions"
 
 # Le filtre dep[] de la FFTA utilise un identifiant interne.
 DEPARTMENT_FILTERS = {
-    "11": "11",  # Aude : identifiant FFTA 11 (12 correspond à l’Aveyron)
+    "11": "11",  # Aude
+    "12": "12",  # Aveyron
+    "13": "13",  # Bouches-du-Rhône
     "30": "31",  # Gard
     "31": "32",  # Haute-Garonne
+    "32": "33",  # Gers
     "34": "35",  # Hérault
     "66": "67",  # Pyrénées-Orientales
+    "84": "85",  # Vaucluse
 }
 
 # Périmètre utile au club.
