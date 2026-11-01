@@ -1,9 +1,197 @@
 {
   "version": 4,
-  "updated_at": "2026-11-01T13:38:28+00:00",
+  "updated_at": "2026-11-01T22:08:58+00:00",
   "source": "FFTA official competition result PDFs",
   "parser": "multi-discipline-v4.1-tae-sections",
   "results": [
+    {
+      "id": "f73230e11f2033e2fc9083fc",
+      "licence": "1040387P",
+      "name": "Pascal Germain",
+      "date": "2026-11-01",
+      "competition": "SELECTIF SALLE TIR A 18 METRES - Tir a 18m (2X18M)",
+      "place": "PERPIGNAN",
+      "discipline": "18m",
+      "category": "S2HCO",
+      "departure": 1,
+      "series": [
+        265,
+        267
+      ],
+      "score": 532,
+      "rank": 4,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/S_1166191_20261101_77147.pdf"
+    },
+    {
+      "id": "8934c4a206c34100b6200b38",
+      "licence": "1039535V",
+      "name": "Elodie Peyre",
+      "date": "2026-11-01",
+      "competition": "SELECTIF SALLE TIR A 18 METRES - Tir a 18m (2X18M)",
+      "place": "PERPIGNAN",
+      "discipline": "18m",
+      "category": "S2FCO",
+      "departure": 1,
+      "series": [
+        263,
+        263
+      ],
+      "score": 526,
+      "rank": 1,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/S_1166191_20261101_77147.pdf"
+    },
+    {
+      "id": "02cba51cb9109f0917e891a2",
+      "licence": "1034590Q",
+      "name": "Francois Pujo",
+      "date": "2026-11-01",
+      "competition": "TIR A 18M - MONTPELLIER - Tir a 18m (2X18M)",
+      "place": "MONTPELLIER",
+      "discipline": "18m",
+      "category": "S3HBB",
+      "departure": 2,
+      "series": [
+        168,
+        202
+      ],
+      "score": 370,
+      "rank": null,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/S_1134139_20261101_78589.pdf"
+    },
+    {
+      "id": "5902149d1105f3255995e96c",
+      "licence": "1034590Q",
+      "name": "Francois Pujo",
+      "date": "2026-11-01",
+      "competition": "TIR A 18M - MONTPELLIER - Tir a 18m (2X18M)",
+      "place": "MONTPELLIER",
+      "discipline": "18m",
+      "category": "S3HBB",
+      "departure": 1,
+      "series": [
+        186,
+        181
+      ],
+      "score": 367,
+      "rank": 4,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/S_1134139_20261101_78589.pdf"
+    },
+    {
+      "id": "7f1135f3d2afacccceb00c36",
+      "licence": "1022936K",
+      "name": "Severine Fernandez",
+      "date": "2026-11-01",
+      "competition": "TIR A 18M - MONTPELLIER - Tir a 18m (2X18M)",
+      "place": "MONTPELLIER",
+      "discipline": "18m",
+      "category": "S2FBB",
+      "departure": 2,
+      "series": [
+        206,
+        188
+      ],
+      "score": 394,
+      "rank": null,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/S_1134139_20261101_78589.pdf"
+    },
+    {
+      "id": "36b86336ca94652aa6911e92",
+      "licence": "1022936K",
+      "name": "Severine Fernandez",
+      "date": "2026-11-01",
+      "competition": "TIR A 18M - MONTPELLIER - Tir a 18m (2X18M)",
+      "place": "MONTPELLIER",
+      "discipline": "18m",
+      "category": "S2FBB",
+      "departure": 1,
+      "series": [
+        223,
+        221
+      ],
+      "score": 444,
+      "rank": 2,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/S_1134139_20261101_78589.pdf"
+    },
+    {
+      "id": "79b2884f099ea2b94fa70727",
+      "licence": "0969845E",
+      "name": "Eric Benard",
+      "date": "2026-11-01",
+      "competition": "TIR A 18M - MONTPELLIER - Tir a 18m (2X18M)",
+      "place": "MONTPELLIER",
+      "discipline": "18m",
+      "category": "S3HBB",
+      "departure": 1,
+      "series": [
+        188,
+        226
+      ],
+      "score": 414,
+      "rank": 2,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/S_1134139_20261101_78589.pdf"
+    },
+    {
+      "id": "ec84fc5dbba39ccbd786f9ec",
+      "licence": "0969843C",
+      "name": "Anne Barbara Benard",
+      "date": "2026-11-01",
+      "competition": "TIR A 18M - MONTPELLIER - Tir a 18m (2X18M)",
+      "place": "MONTPELLIER",
+      "discipline": "18m",
+      "category": "S3FBB",
+      "departure": 1,
+      "series": [
+        247,
+        244
+      ],
+      "score": 491,
+      "rank": 1,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/S_1134139_20261101_78589.pdf"
+    },
+    {
+      "id": "b860d4b896fa65cf38782012",
+      "licence": "0319272K",
+      "name": "Laurent Zdyb",
+      "date": "2026-11-01",
+      "competition": "NATURE YELLOH VILLAGE - Tir Nature (21 CIBLES)",
+      "place": "VEDENE",
+      "discipline": "nature",
+      "category": "S2HTL",
+      "departure": 2,
+      "series": [
+        715
+      ],
+      "score": 715,
+      "rank": null,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/N_1384131_20261101_77870.pdf"
+    },
+    {
+      "id": "9fed5891b98bbb928a081891",
+      "licence": "0319272K",
+      "name": "Laurent Zdyb",
+      "date": "2026-11-01",
+      "competition": "NATURE YELLOH VILLAGE - Tir Nature (21 CIBLES)",
+      "place": "VEDENE",
+      "discipline": "nature",
+      "category": "S2HTL",
+      "departure": 1,
+      "series": [
+        700
+      ],
+      "score": 700,
+      "rank": 2,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/N_1384131_20261101_77870.pdf"
+    },
     {
       "id": "6c174e71ee59693ce8cd7489",
       "licence": "0319272K",
