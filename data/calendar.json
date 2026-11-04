@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updated_at": "2026-11-03T19:50:06+00:00",
+  "updated_at": "2026-11-04T06:59:13+00:00",
   "source": "FFTA competitions calendar",
   "departments": [
     "11",
@@ -22,25 +22,10 @@
     "taen"
   ],
   "range": {
-    "start": "2026-10-04",
-    "end": "2027-11-03"
+    "start": "2026-10-05",
+    "end": "2027-11-04"
   },
   "competitions": [
-    {
-      "ffta_id": "27015",
-      "title": "TIR NATURE DAUX a DAUX",
-      "discipline": "nature",
-      "discipline_label": "TIR NATURE DAUX a DAUX",
-      "start_date": "2026-10-04",
-      "end_date": "2026-10-04",
-      "city": "",
-      "club": "(DAUX)",
-      "department": "31",
-      "detail_url": "https://www.ffta.fr/epreuve/27015",
-      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/110ded34855f09.pdf",
-      "source_url": "https://www.ffta.fr/epreuve/27015",
-      "status": ""
-    },
     {
       "ffta_id": "27016",
       "title": "COUCOURS SALLE 18M a OCCITANIE",
@@ -66,9 +51,9 @@
       "city": "",
       "club": "(GARDANNE)",
       "department": "13",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/26645",
+      "detail_url": "https://www.ffta.fr/epreuve/26645",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/11127d9572105c.pdf",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/26645",
+      "source_url": "https://www.ffta.fr/epreuve/26645",
       "status": ""
     },
     {
@@ -96,9 +81,9 @@
       "city": "",
       "club": "(MORNAS)",
       "department": "84",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/26646",
+      "detail_url": "https://www.ffta.fr/epreuve/26646",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/110e7df27f5236.pdf",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/26646",
+      "source_url": "https://www.ffta.fr/epreuve/26646",
       "status": ""
     },
     {
@@ -156,9 +141,9 @@
       "city": "",
       "club": "(VEDENE)",
       "department": "84",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/26647",
+      "detail_url": "https://www.ffta.fr/epreuve/26647",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/1112beb315e548.pdf",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/26647",
+      "source_url": "https://www.ffta.fr/epreuve/26647",
       "status": ""
     },
     {
@@ -171,9 +156,9 @@
       "city": "",
       "club": "(GEMENOS)",
       "department": "13",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/26651",
+      "detail_url": "https://www.ffta.fr/epreuve/26651",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/1110a4015525b2.pdf",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/26651",
+      "source_url": "https://www.ffta.fr/epreuve/26651",
       "status": ""
     },
     {
@@ -246,9 +231,9 @@
       "city": "",
       "club": "(FOS SUR MER)",
       "department": "13",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27897",
+      "detail_url": "https://www.ffta.fr/epreuve/27897",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/1115db018a9fa4.pdf",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27897",
+      "source_url": "https://www.ffta.fr/epreuve/27897",
       "status": ""
     },
     {
@@ -411,9 +396,9 @@
       "city": "",
       "club": "(VEDENE)",
       "department": "84",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/26654",
+      "detail_url": "https://www.ffta.fr/epreuve/26654",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/110fdc512aee1a.pdf",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/26654",
+      "source_url": "https://www.ffta.fr/epreuve/26654",
       "status": ""
     },
     {
@@ -456,9 +441,9 @@
       "city": "",
       "club": "(VEDENE)",
       "department": "84",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/26655",
+      "detail_url": "https://www.ffta.fr/epreuve/26655",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/110fdc45dd82ca.pdf",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/26655",
+      "source_url": "https://www.ffta.fr/epreuve/26655",
       "status": ""
     },
     {
@@ -501,9 +486,9 @@
       "city": "",
       "club": "(BLAGNAC)",
       "department": "31",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27052",
+      "detail_url": "https://www.ffta.fr/epreuve/27052",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/1117414b09b20.pdf",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27052",
+      "source_url": "https://www.ffta.fr/epreuve/27052",
       "status": ""
     },
     {
@@ -516,9 +501,9 @@
       "city": "",
       "club": "(LATTES)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27055",
+      "detail_url": "https://www.ffta.fr/epreuve/27055",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/1114cfd1c80f30.pdf",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27055",
+      "source_url": "https://www.ffta.fr/epreuve/27055",
       "status": ""
     },
     {
@@ -531,9 +516,9 @@
       "city": "",
       "club": "(MONTFERRAND)",
       "department": "11",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27056",
+      "detail_url": "https://www.ffta.fr/epreuve/27056",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/11178c6514a8e6.pdf",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27056",
+      "source_url": "https://www.ffta.fr/epreuve/27056",
       "status": ""
     },
     {
@@ -726,9 +711,9 @@
       "city": "",
       "club": "(VIAS)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27072",
+      "detail_url": "https://www.ffta.fr/epreuve/27072",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/11173a11ad3da2.pdf",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27072",
+      "source_url": "https://www.ffta.fr/epreuve/27072",
       "status": ""
     },
     {
@@ -816,9 +801,9 @@
       "city": "",
       "club": "(BALMA)",
       "department": "31",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27086",
+      "detail_url": "https://www.ffta.fr/epreuve/27086",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27086",
+      "source_url": "https://www.ffta.fr/epreuve/27086",
       "status": ""
     },
     {
@@ -831,9 +816,9 @@
       "city": "",
       "club": "(LOMBEZ)",
       "department": "32",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27085",
+      "detail_url": "https://www.ffta.fr/epreuve/27085",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/111a92637cce13.pdf",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27085",
+      "source_url": "https://www.ffta.fr/epreuve/27085",
       "status": ""
     },
     {
@@ -846,9 +831,9 @@
       "city": "",
       "club": "(PERPIGNAN)",
       "department": "66",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27083",
+      "detail_url": "https://www.ffta.fr/epreuve/27083",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27083",
+      "source_url": "https://www.ffta.fr/epreuve/27083",
       "status": ""
     },
     {
@@ -1416,9 +1401,9 @@
       "city": "",
       "club": "(PEROLS)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27140",
+      "detail_url": "https://www.ffta.fr/epreuve/27140",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27140",
+      "source_url": "https://www.ffta.fr/epreuve/27140",
       "status": ""
     },
     {
@@ -1446,9 +1431,9 @@
       "city": "",
       "club": "(LATTES)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27143",
+      "detail_url": "https://www.ffta.fr/epreuve/27143",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27143",
+      "source_url": "https://www.ffta.fr/epreuve/27143",
       "status": ""
     },
     {
@@ -1536,9 +1521,9 @@
       "city": "",
       "club": "(PUJAUT)",
       "department": "30",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27948",
+      "detail_url": "https://www.ffta.fr/epreuve/27948",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27948",
+      "source_url": "https://www.ffta.fr/epreuve/27948",
       "status": ""
     },
     {
