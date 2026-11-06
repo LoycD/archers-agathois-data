@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updated_at": "2026-11-05T20:17:11+00:00",
+  "updated_at": "2026-11-06T07:24:51+00:00",
   "source": "FFTA competitions calendar",
   "departments": [
     "11",
@@ -22,8 +22,8 @@
     "taen"
   ],
   "range": {
-    "start": "2026-10-06",
-    "end": "2027-11-05"
+    "start": "2026-10-07",
+    "end": "2027-11-06"
   },
   "competitions": [
     {
@@ -877,7 +877,7 @@
       "club": "(LAUDUN L ARDOISE)",
       "department": "30",
       "detail_url": "https://www.ffta.fr/epreuve/27092",
-      "mandate_url": "",
+      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/111ba924243fd.pdf",
       "source_url": "https://www.ffta.fr/epreuve/27092",
       "status": ""
     },
