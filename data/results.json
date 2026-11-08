@@ -1,9 +1,432 @@
 {
   "version": 4,
-  "updated_at": "2026-11-08T13:35:30+00:00",
+  "updated_at": "2026-11-08T22:14:39+00:00",
   "source": "FFTA official competition result PDFs",
   "parser": "multi-discipline-v4.1-tae-sections",
   "results": [
+    {
+      "id": "8faa0d962e6b3b3e69824857",
+      "licence": "1034590Q",
+      "name": "Francois Pujo",
+      "date": "2026-11-08",
+      "competition": "ACM-NATURE - Tir Nature (21 CIBLES)",
+      "place": "MONTFERRAND",
+      "discipline": "nature",
+      "category": "S3HCL",
+      "departure": 2,
+      "series": [],
+      "score": 530,
+      "rank": 2,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/N_1111243_20261108_77213.pdf"
+    },
+    {
+      "id": "ef2631f43a484da1795ca390",
+      "licence": "1034590Q",
+      "name": "Francois Pujo",
+      "date": "2026-11-08",
+      "competition": "ACM-NATURE - Tir Nature (21 CIBLES)",
+      "place": "MONTFERRAND",
+      "discipline": "nature",
+      "category": "S3HCL",
+      "departure": 1,
+      "series": [],
+      "score": 515,
+      "rank": 6,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/N_1111243_20261108_77213.pdf"
+    },
+    {
+      "id": "856d81b88a4dd071ef7d1176",
+      "licence": "1026243P",
+      "name": "Caroline Prian",
+      "date": "2026-11-08",
+      "competition": "ACM-NATURE - Tir Nature (21 CIBLES)",
+      "place": "MONTFERRAND",
+      "discipline": "nature",
+      "category": "S2FTL",
+      "departure": 2,
+      "series": [
+        455
+      ],
+      "score": 455,
+      "rank": null,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/N_1111243_20261108_77213.pdf"
+    },
+    {
+      "id": "ab7ec6c7806bd7131fe3a120",
+      "licence": "1026243P",
+      "name": "Caroline Prian",
+      "date": "2026-11-08",
+      "competition": "ACM-NATURE - Tir Nature (21 CIBLES)",
+      "place": "MONTFERRAND",
+      "discipline": "nature",
+      "category": "S2FTL",
+      "departure": 1,
+      "series": [
+        460
+      ],
+      "score": 460,
+      "rank": 1,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/N_1111243_20261108_77213.pdf"
+    },
+    {
+      "id": "bff66866b47ed524b8acca9f",
+      "licence": "1022936K",
+      "name": "Severine Fernandez",
+      "date": "2026-11-08",
+      "competition": "CONCOURS SALLE 2 X 18 M - Tir a 18m (2X18M)",
+      "place": "CARCASSONNE",
+      "discipline": "18m",
+      "category": "S2FBB",
+      "departure": 2,
+      "series": [
+        225,
+        230
+      ],
+      "score": 455,
+      "rank": null,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/S_1111008_20261108_77388.pdf"
+    },
+    {
+      "id": "2c54f7ca7eb88e3d31a38b01",
+      "licence": "1022936K",
+      "name": "Severine Fernandez",
+      "date": "2026-11-08",
+      "competition": "CONCOURS SALLE 2 X 18 M - Tir a 18m (2X18M)",
+      "place": "CARCASSONNE",
+      "discipline": "18m",
+      "category": "S2FBB",
+      "departure": 1,
+      "series": [
+        196,
+        214
+      ],
+      "score": 410,
+      "rank": 3,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/S_1111008_20261108_77388.pdf"
+    },
+    {
+      "id": "57063476d1f73887a2e4ad53",
+      "licence": "0972018S",
+      "name": "Bruno Benit",
+      "date": "2026-11-08",
+      "competition": "ACM-NATURE - Tir Nature (21 CIBLES)",
+      "place": "MONTFERRAND",
+      "discipline": "nature",
+      "category": "S3HAD",
+      "departure": 2,
+      "series": [
+        410
+      ],
+      "score": 410,
+      "rank": null,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/N_1111243_20261108_77213.pdf"
+    },
+    {
+      "id": "3ebf2d8e684d714048f1a0e0",
+      "licence": "0972018S",
+      "name": "Bruno Benit",
+      "date": "2026-11-08",
+      "competition": "ACM-NATURE - Tir Nature (21 CIBLES)",
+      "place": "MONTFERRAND",
+      "discipline": "nature",
+      "category": "S3HAD",
+      "departure": 1,
+      "series": [
+        410
+      ],
+      "score": 410,
+      "rank": 3,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/N_1111243_20261108_77213.pdf"
+    },
+    {
+      "id": "981f7a45654b1c82fc855440",
+      "licence": "0671231Z",
+      "name": "Christel Puig",
+      "date": "2026-11-08",
+      "competition": "CONCOURS SALLE 2 X 18 M - Tir a 18m (2X18M)",
+      "place": "CARCASSONNE",
+      "discipline": "18m",
+      "category": "S3HBB",
+      "departure": 2,
+      "series": [
+        258,
+        256
+      ],
+      "score": 514,
+      "rank": null,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/S_1111008_20261108_77388.pdf"
+    },
+    {
+      "id": "fe1d228c6fff5f0a541e33c5",
+      "licence": "0671231Z",
+      "name": "Christel Puig",
+      "date": "2026-11-08",
+      "competition": "CONCOURS SALLE 2 X 18 M - Tir a 18m (2X18M)",
+      "place": "CARCASSONNE",
+      "discipline": "18m",
+      "category": "S3HBB",
+      "departure": 1,
+      "series": [
+        249,
+        249
+      ],
+      "score": 498,
+      "rank": 2,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/S_1111008_20261108_77388.pdf"
+    },
+    {
+      "id": "34ca718adece4897509b6d81",
+      "licence": "0319272K",
+      "name": "Laurent Zdyb",
+      "date": "2026-11-08",
+      "competition": "ACM-NATURE - Tir Nature (21 CIBLES)",
+      "place": "MONTFERRAND",
+      "discipline": "nature",
+      "category": "S2HTL",
+      "departure": 2,
+      "series": [
+        720
+      ],
+      "score": 720,
+      "rank": null,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/N_1111243_20261108_77213.pdf"
+    },
+    {
+      "id": "0564359d482f4c7eb2df7854",
+      "licence": "0319272K",
+      "name": "Laurent Zdyb",
+      "date": "2026-11-08",
+      "competition": "ACM-NATURE - Tir Nature (21 CIBLES)",
+      "place": "MONTFERRAND",
+      "discipline": "nature",
+      "category": "S2HTL",
+      "departure": 1,
+      "series": [
+        725
+      ],
+      "score": 725,
+      "rank": 2,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/N_1111243_20261108_77213.pdf"
+    },
+    {
+      "id": "89bfc9ac79c8713d2dc9bcb0",
+      "licence": "0280322Y",
+      "name": "Thierry Bourrie",
+      "date": "2026-11-08",
+      "competition": "ACM-NATURE - Tir Nature (21 CIBLES)",
+      "place": "MONTFERRAND",
+      "discipline": "nature",
+      "category": "S2HAD",
+      "departure": 2,
+      "series": [
+        495
+      ],
+      "score": 495,
+      "rank": null,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/N_1111243_20261108_77213.pdf"
+    },
+    {
+      "id": "d2376d2bc2418bdb590d5add",
+      "licence": "0280322Y",
+      "name": "Thierry Bourrie",
+      "date": "2026-11-08",
+      "competition": "ACM-NATURE - Tir Nature (21 CIBLES)",
+      "place": "MONTFERRAND",
+      "discipline": "nature",
+      "category": "S2HAD",
+      "departure": 1,
+      "series": [
+        465
+      ],
+      "score": 465,
+      "rank": 3,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/N_1111243_20261108_77213.pdf"
+    },
+    {
+      "id": "d26b3935a2732256c3da455c",
+      "licence": "1022936K",
+      "name": "Severine Fernandez",
+      "date": "2026-11-07",
+      "competition": "CONCOURS EN SALLE ALV3M - Tir a 18m (2X18M)",
+      "place": "LATTES",
+      "discipline": "18m",
+      "category": "S2FBB",
+      "departure": 1,
+      "series": [
+        226,
+        215
+      ],
+      "score": 441,
+      "rank": 2,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/S_1134123_20261107_77441.pdf"
+    },
+    {
+      "id": "7d980cb99febc2dc9bb422f9",
+      "licence": "0969845E",
+      "name": "Eric Benard",
+      "date": "2026-11-07",
+      "competition": "CONCOURS EN SALLE ALV3M - Tir a 18m (2X18M)",
+      "place": "LATTES",
+      "discipline": "18m",
+      "category": "S3HBB",
+      "departure": 2,
+      "series": [
+        229,
+        238
+      ],
+      "score": 467,
+      "rank": null,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/S_1134123_20261107_77441.pdf"
+    },
+    {
+      "id": "7443f8f557133ea4f73112ad",
+      "licence": "0969845E",
+      "name": "Eric Benard",
+      "date": "2026-11-07",
+      "competition": "CONCOURS EN SALLE ALV3M - Tir a 18m (2X18M)",
+      "place": "LATTES",
+      "discipline": "18m",
+      "category": "S3HBB",
+      "departure": 1,
+      "series": [
+        226,
+        213
+      ],
+      "score": 439,
+      "rank": 3,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/S_1134123_20261107_77441.pdf"
+    },
+    {
+      "id": "661ab5c0afee169eb50e2160",
+      "licence": "0969843C",
+      "name": "Anne Barbara Benard",
+      "date": "2026-11-07",
+      "competition": "CONCOURS EN SALLE ALV3M - Tir a 18m (2X18M)",
+      "place": "LATTES",
+      "discipline": "18m",
+      "category": "S3FBB",
+      "departure": 2,
+      "series": [
+        240,
+        255
+      ],
+      "score": 495,
+      "rank": null,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/S_1134123_20261107_77441.pdf"
+    },
+    {
+      "id": "925a98201d1b89afc7b45eba",
+      "licence": "0969843C",
+      "name": "Anne Barbara Benard",
+      "date": "2026-11-07",
+      "competition": "CONCOURS EN SALLE ALV3M - Tir a 18m (2X18M)",
+      "place": "LATTES",
+      "discipline": "18m",
+      "category": "S3FBB",
+      "departure": 1,
+      "series": [
+        238,
+        248
+      ],
+      "score": 486,
+      "rank": 1,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/S_1134123_20261107_77441.pdf"
+    },
+    {
+      "id": "e7195bb58502ca9cc7c62d08",
+      "licence": "0671231Z",
+      "name": "Christel Puig",
+      "date": "2026-11-07",
+      "competition": "CONCOURS EN SALLE ALV3M - Tir a 18m (2X18M)",
+      "place": "LATTES",
+      "discipline": "18m",
+      "category": "S3HBB",
+      "departure": 1,
+      "series": [
+        254,
+        254
+      ],
+      "score": 508,
+      "rank": 1,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/S_1134123_20261107_77441.pdf"
+    },
+    {
+      "id": "d62f2cafbad562fe9217264f",
+      "licence": "0016116T",
+      "name": "Lou Anne Mogenot",
+      "date": "2026-11-07",
+      "competition": "CONCOURS EN SALLE ALV3M - Tir a 18m (2X18M)",
+      "place": "LATTES",
+      "discipline": "18m",
+      "category": "U18FCL",
+      "departure": 1,
+      "series": [
+        248,
+        251
+      ],
+      "score": 499,
+      "rank": 3,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/S_1134123_20261107_77441.pdf"
+    },
+    {
+      "id": "bd617891f32475f05d1a774a",
+      "licence": "0015250B",
+      "name": "Loic Dupuy",
+      "date": "2026-11-07",
+      "competition": "CONCOURS EN SALLE ALV3M - Tir a 18m (2X18M)",
+      "place": "LATTES",
+      "discipline": "18m",
+      "category": "S2HCL",
+      "departure": 2,
+      "series": [
+        220,
+        248
+      ],
+      "score": 468,
+      "rank": null,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/S_1134123_20261107_77441.pdf"
+    },
+    {
+      "id": "aa4563411ec26c01f9c87615",
+      "licence": "0015250B",
+      "name": "Loic Dupuy",
+      "date": "2026-11-07",
+      "competition": "CONCOURS EN SALLE ALV3M - Tir a 18m (2X18M)",
+      "place": "LATTES",
+      "discipline": "18m",
+      "category": "S2HCL",
+      "departure": 1,
+      "series": [
+        239,
+        256
+      ],
+      "score": 495,
+      "rank": 8,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/S_1134123_20261107_77441.pdf"
+    },
     {
       "id": "f73230e11f2033e2fc9083fc",
       "licence": "1040387P",
