@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updated_at": "2026-11-08T06:43:20+00:00",
+  "updated_at": "2026-11-08T13:53:00+00:00",
   "source": "FFTA competitions calendar",
   "departments": [
     "11",
@@ -787,7 +787,7 @@
       "club": "(GEMENOS)",
       "department": "13",
       "detail_url": "https://www.ffta.fr/epreuve/26681",
-      "mandate_url": "",
+      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/111c33c19eb580.pdf",
       "source_url": "https://www.ffta.fr/epreuve/26681",
       "status": ""
     },
@@ -951,9 +951,9 @@
       "city": "",
       "club": "(BEZIERS)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/epreuve/27098",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27098",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/epreuve/27098",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27098",
       "status": ""
     },
     {
@@ -966,9 +966,9 @@
       "city": "",
       "club": "(MORIERES LES AVIGNON)",
       "department": "84",
-      "detail_url": "https://www.ffta.fr/epreuve/26689",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/26689",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/epreuve/26689",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/26689",
       "status": ""
     },
     {
@@ -1551,9 +1551,9 @@
       "city": "",
       "club": "(LUNEL)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/epreuve/27149",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27149",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/epreuve/27149",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27149",
       "status": ""
     },
     {
