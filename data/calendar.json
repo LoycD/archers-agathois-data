@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updated_at": "2026-11-10T07:45:38+00:00",
+  "updated_at": "2026-11-10T20:00:59+00:00",
   "source": "FFTA competitions calendar",
   "departments": [
     "11",
@@ -636,9 +636,9 @@
       "city": "",
       "club": "(ALES)",
       "department": "30",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27068",
+      "detail_url": "https://www.ffta.fr/epreuve/27068",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/1115589864459.pdf",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27068",
+      "source_url": "https://www.ffta.fr/epreuve/27068",
       "status": ""
     },
     {
@@ -771,9 +771,9 @@
       "city": "",
       "club": "(GEMENOS)",
       "department": "13",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/26681",
+      "detail_url": "https://www.ffta.fr/epreuve/26681",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/111c33c19eb580.pdf",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/26681",
+      "source_url": "https://www.ffta.fr/epreuve/26681",
       "status": ""
     },
     {
@@ -831,9 +831,9 @@
       "city": "",
       "club": "(AVIGNON)",
       "department": "84",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/26680",
+      "detail_url": "https://www.ffta.fr/epreuve/26680",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/26680",
+      "source_url": "https://www.ffta.fr/epreuve/26680",
       "status": ""
     },
     {
@@ -922,7 +922,7 @@
       "club": "(LEGUEVIN)",
       "department": "31",
       "detail_url": "https://www.ffta.fr/epreuve/27439",
-      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/111be1916ded90.pdf",
+      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/111ca6e11049dc.pdf",
       "source_url": "https://www.ffta.fr/epreuve/27439",
       "status": ""
     },
@@ -1521,9 +1521,9 @@
       "city": "",
       "club": "(MORNAS)",
       "department": "84",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/26718",
+      "detail_url": "https://www.ffta.fr/epreuve/26718",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/26718",
+      "source_url": "https://www.ffta.fr/epreuve/26718",
       "status": ""
     },
     {
