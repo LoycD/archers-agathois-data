@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-11-10T07:27:21+00:00",
+  "updated_at": "2026-11-10T19:49:53+00:00",
   "processed_urls": [
     "https://extranet.ffta.fr/pdfresultats/2025/3_0000000_20250929_72260.pdf",
     "https://extranet.ffta.fr/pdfresultats/2025/3_0126072_20251019_74502.pdf",
@@ -1566,6 +1566,7 @@
     "https://extranet.ffta.fr/pdfresultats/2026/I_1033097_20260117_73459.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/I_1033102_20260110_76902.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/I_1033110_20260102_73603.pdf",
+    "https://extranet.ffta.fr/pdfresultats/2026/I_1033111_20261107_80964.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/I_1040124_20260117_73121.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/I_1047144_20261028_80700.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/I_1047147_20260110_76901.pdf",
@@ -1920,6 +1921,7 @@
     "https://extranet.ffta.fr/pdfresultats/2026/S_0322009_20260125_74178.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/S_0322011_20260103_72625.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/S_0322019_20260117_73984.pdf",
+    "https://extranet.ffta.fr/pdfresultats/2026/S_0322020_20261107_78528.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/S_0329000_20260117_74494.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/S_0329000_20260118_74495.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/S_0329000_20260124_72794.pdf",
@@ -2399,6 +2401,7 @@
     "https://extranet.ffta.fr/pdfresultats/2026/S_3797013_20260104_74657.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/S_3797017_20260207_74659.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/S_3797018_20260117_74658.pdf",
+    "https://extranet.ffta.fr/pdfresultats/2026/S_3797018_20261107_79900.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/S_3997005_20261025_79617.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/S_CR03000_20260131_72495.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/S_CR03000_20260207_72496.pdf",
