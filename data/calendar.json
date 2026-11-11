@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updated_at": "2026-11-11T07:10:03+00:00",
+  "updated_at": "2026-11-11T19:52:31+00:00",
   "source": "FFTA competitions calendar",
   "departments": [
     "11",
@@ -501,9 +501,9 @@
       "city": "",
       "club": "(CONDOM)",
       "department": "32",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27060",
+      "detail_url": "https://www.ffta.fr/epreuve/27060",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/11184aa51628b8.pdf",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27060",
+      "source_url": "https://www.ffta.fr/epreuve/27060",
       "status": ""
     },
     {
@@ -801,9 +801,9 @@
       "city": "",
       "club": "(CARCASSONNE)",
       "department": "11",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27088",
+      "detail_url": "https://www.ffta.fr/epreuve/27088",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/11173f23b00ec7.pdf",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27088",
+      "source_url": "https://www.ffta.fr/epreuve/27088",
       "status": ""
     },
     {
@@ -816,9 +816,9 @@
       "city": "",
       "club": "(LAUDUN L ARDOISE)",
       "department": "30",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27092",
+      "detail_url": "https://www.ffta.fr/epreuve/27092",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/111ba924243fd.pdf",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27092",
+      "source_url": "https://www.ffta.fr/epreuve/27092",
       "status": ""
     },
     {
@@ -831,9 +831,9 @@
       "city": "",
       "club": "(MONTPELLIER)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27090",
+      "detail_url": "https://www.ffta.fr/epreuve/27090",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27090",
+      "source_url": "https://www.ffta.fr/epreuve/27090",
       "status": ""
     },
     {
@@ -1341,9 +1341,9 @@
       "city": "",
       "club": "(PEROLS)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27140",
+      "detail_url": "https://www.ffta.fr/epreuve/27140",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27140",
+      "source_url": "https://www.ffta.fr/epreuve/27140",
       "status": ""
     },
     {
@@ -1408,14 +1408,14 @@
     },
     {
       "ffta_id": "27144",
-      "title": "CHAMPIONNAT REGIONAL EN SALLE ADULTES a A DEFINIR",
+      "title": "CHAMPIONNAT REGIONAL EN SALLE ADULTE ARC CLASSIQUE a A DEFINIR",
       "discipline": "18m",
       "discipline_label": "Tir a 18m",
       "start_date": "2027-02-13",
       "end_date": "2027-02-14",
       "city": "",
       "club": "(AUCH)",
-      "department": "66",
+      "department": "34",
       "detail_url": "https://www.ffta.fr/epreuve/27144",
       "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27144",
@@ -1431,9 +1431,9 @@
       "city": "",
       "club": "(DRAGUIGNAN)",
       "department": "84",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/26715",
+      "detail_url": "https://www.ffta.fr/epreuve/26715",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/26715",
+      "source_url": "https://www.ffta.fr/epreuve/26715",
       "status": ""
     },
     {
@@ -1446,9 +1446,9 @@
       "city": "",
       "club": "(DRAGUIGNAN)",
       "department": "84",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/26716",
+      "detail_url": "https://www.ffta.fr/epreuve/26716",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/26716",
+      "source_url": "https://www.ffta.fr/epreuve/26716",
       "status": ""
     },
     {
