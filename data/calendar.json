@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updated_at": "2026-11-12T07:45:16+00:00",
+  "updated_at": "2026-11-12T20:27:58+00:00",
   "source": "FFTA competitions calendar",
   "departments": [
     "11",
@@ -742,7 +742,7 @@
       "club": "(BALMA)",
       "department": "31",
       "detail_url": "https://www.ffta.fr/epreuve/27086",
-      "mandate_url": "",
+      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/111d1942bfa265.pdf",
       "source_url": "https://www.ffta.fr/epreuve/27086",
       "status": ""
     },
@@ -832,7 +832,7 @@
       "club": "(MONTPELLIER)",
       "department": "34",
       "detail_url": "https://www.ffta.fr/epreuve/27090",
-      "mandate_url": "",
+      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/111d1ef3df5b60.pdf",
       "source_url": "https://www.ffta.fr/epreuve/27090",
       "status": ""
     },
@@ -1326,9 +1326,9 @@
       "city": "",
       "club": "(CASTELNAUDARY)",
       "department": "11",
-      "detail_url": "https://www.ffta.fr/epreuve/27137",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27137",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/epreuve/27137",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27137",
       "status": ""
     },
     {
@@ -1356,9 +1356,9 @@
       "city": "",
       "club": "(PERPIGNAN)",
       "department": "66",
-      "detail_url": "https://www.ffta.fr/epreuve/27142",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27142",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/epreuve/27142",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27142",
       "status": ""
     },
     {
