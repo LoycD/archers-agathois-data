@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-11-12T07:20:12+00:00",
+  "updated_at": "2026-11-12T20:02:39+00:00",
   "processed_urls": [
     "https://extranet.ffta.fr/pdfresultats/2025/3_0000000_20250929_72260.pdf",
     "https://extranet.ffta.fr/pdfresultats/2025/3_0126072_20251019_74502.pdf",
@@ -1827,6 +1827,7 @@
     "https://extranet.ffta.fr/pdfresultats/2026/S_0126073_20260201_73453.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/S_0138081_20260103_72945.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/S_0138083_20260110_74231.pdf",
+    "https://extranet.ffta.fr/pdfresultats/2026/S_0138085_20261111_78515.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/S_0138102_20260117_72641.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/S_0138104_20260124_73806.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/S_0138107_20260131_72698.pdf",
@@ -1969,6 +1970,8 @@
     "https://extranet.ffta.fr/pdfresultats/2026/S_0356120_20261003_78322.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/S_0356121_20261031_79790.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/S_0418001_20260131_76953.pdf",
+    "https://extranet.ffta.fr/pdfresultats/2026/S_0418004_20261107_78050.pdf",
+    "https://extranet.ffta.fr/pdfresultats/2026/S_0418004_20261108_78052.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/S_0418009_20260110_72505.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/S_0418013_20260131_73130.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/S_0418015_20260124_73204.pdf",
@@ -2148,6 +2151,7 @@
     "https://extranet.ffta.fr/pdfresultats/2026/S_0892199_20260131_74674.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/S_0892205_20260124_74648.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/S_0892206_20260117_72746.pdf",
+    "https://extranet.ffta.fr/pdfresultats/2026/S_0893000_20261112_78762.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/S_0893226_20260110_72515.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/S_0893227_20260124_72674.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/S_0893240_20260227_74763.pdf",
