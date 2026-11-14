@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-11-14T06:36:46+00:00",
+  "updated_at": "2026-11-14T18:14:00+00:00",
   "processed_urls": [
     "https://extranet.ffta.fr/pdfresultats/2025/3_0000000_20250929_72260.pdf",
     "https://extranet.ffta.fr/pdfresultats/2025/3_0126072_20251019_74502.pdf",
@@ -1836,6 +1836,7 @@
     "https://extranet.ffta.fr/pdfresultats/2026/S_0142132_20260110_73429.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/S_0142133_20261107_78362.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/S_0143000_20260125_74257.pdf",
+    "https://extranet.ffta.fr/pdfresultats/2026/S_0143137_20261114_78557.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/S_0143145_20260117_74195.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/S_0143146_20260110_74182.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/S_0143146_20260207_74666.pdf",
@@ -1956,6 +1957,7 @@
     "https://extranet.ffta.fr/pdfresultats/2026/S_0335084_20260121_73938.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/S_0335084_20260204_73931.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/S_0335084_20261031_77506.pdf",
+    "https://extranet.ffta.fr/pdfresultats/2026/S_0335084_20261114_77513.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/S_0335091_20261016_78653.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/S_0335091_20261106_78655.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/S_0356000_20260117_72688.pdf",
@@ -2286,6 +2288,7 @@
     "https://extranet.ffta.fr/pdfresultats/2026/S_1132110_20260118_73327.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/S_1132113_20260207_73481.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/S_1132113_20261031_78665.pdf",
+    "https://extranet.ffta.fr/pdfresultats/2026/S_1132113_20261114_78666.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/S_1132227_20261017_77932.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/S_1132227_20261018_77933.pdf",
     "https://extranet.ffta.fr/pdfresultats/2026/S_1134121_20260103_72536.pdf",
