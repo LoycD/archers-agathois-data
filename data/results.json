@@ -1,9 +1,47 @@
 {
   "version": 4,
-  "updated_at": "2026-11-15T06:43:51+00:00",
+  "updated_at": "2026-11-15T18:56:27+00:00",
   "source": "FFTA official competition result PDFs",
   "parser": "multi-discipline-v4.1-tae-sections",
   "results": [
+    {
+      "id": "c930d2a9a542d8091c20fce2",
+      "licence": "1040387P",
+      "name": "Pascal Germain",
+      "date": "2026-11-14",
+      "competition": "CONCOURS FRANCOIS NAVAJAS - Tir a 18m (2X18M)",
+      "place": "BOMPAS",
+      "discipline": "18m",
+      "category": "S2HCO",
+      "departure": 1,
+      "series": [
+        269,
+        259
+      ],
+      "score": 528,
+      "rank": 2,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/S_1166188_20261114_77709.pdf"
+    },
+    {
+      "id": "17bc1b8042968f1524f5303e",
+      "licence": "1039535V",
+      "name": "Elodie Peyre",
+      "date": "2026-11-14",
+      "competition": "CONCOURS FRANCOIS NAVAJAS - Tir a 18m (2X18M)",
+      "place": "BOMPAS",
+      "discipline": "18m",
+      "category": "S2FCO",
+      "departure": 1,
+      "series": [
+        265,
+        254
+      ],
+      "score": 519,
+      "rank": 2,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/S_1166188_20261114_77709.pdf"
+    },
     {
       "id": "8faa0d962e6b3b3e69824857",
       "licence": "1034590Q",
