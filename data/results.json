@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-11-16T06:43:07+00:00",
+  "updated_at": "2026-11-16T22:15:05+00:00",
   "source": "FFTA official competition result PDFs",
   "parser": "multi-discipline-v4.1-tae-sections",
   "results": [
@@ -79,6 +79,42 @@
       "rank": 1,
       "source": "ffta",
       "source_url": "https://extranet.ffta.fr/pdfresultats/2026/S_1134127_20261115_77555.pdf"
+    },
+    {
+      "id": "219698f01a2f5b2e76629d5f",
+      "licence": "0280322Y",
+      "name": "Thierry Bourrie",
+      "date": "2026-11-15",
+      "competition": "TIR NATURE D'AUTOMNE - Tir Nature (21 CIBLES)",
+      "place": "POMPIGNAN",
+      "discipline": "nature",
+      "category": "S2HAD",
+      "departure": 2,
+      "series": [
+        380
+      ],
+      "score": 380,
+      "rank": null,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/N_1182226_20261115_77235.pdf"
+    },
+    {
+      "id": "9354309ec45253aac6f3deae",
+      "licence": "0280322Y",
+      "name": "Thierry Bourrie",
+      "date": "2026-11-15",
+      "competition": "TIR NATURE D'AUTOMNE - Tir Nature (21 CIBLES)",
+      "place": "POMPIGNAN",
+      "discipline": "nature",
+      "category": "S2HAD",
+      "departure": 1,
+      "series": [
+        455
+      ],
+      "score": 455,
+      "rank": 3,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/N_1182226_20261115_77235.pdf"
     },
     {
       "id": "c930d2a9a542d8091c20fce2",
