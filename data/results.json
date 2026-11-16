@@ -1,9 +1,85 @@
 {
   "version": 4,
-  "updated_at": "2026-11-15T18:56:27+00:00",
+  "updated_at": "2026-11-16T06:43:07+00:00",
   "source": "FFTA official competition result PDFs",
   "parser": "multi-discipline-v4.1-tae-sections",
   "results": [
+    {
+      "id": "4a583727a1e8dd032b031bff",
+      "licence": "1022936K",
+      "name": "Severine Fernandez",
+      "date": "2026-11-15",
+      "competition": "CONCOURS SELECTIF D'AUTOMNE - Tir a 18m (2X18M)",
+      "place": "LUNEL",
+      "discipline": "18m",
+      "category": "S2FBB",
+      "departure": 2,
+      "series": [
+        212,
+        238
+      ],
+      "score": 450,
+      "rank": 2,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/S_1134127_20261115_77555.pdf"
+    },
+    {
+      "id": "d9c7534a63af4c07fc278f44",
+      "licence": "1022936K",
+      "name": "Severine Fernandez",
+      "date": "2026-11-15",
+      "competition": "CONCOURS SELECTIF D'AUTOMNE - Tir a 18m (2X18M)",
+      "place": "LUNEL",
+      "discipline": "18m",
+      "category": "S2FBB",
+      "departure": 1,
+      "series": [
+        215,
+        247
+      ],
+      "score": 462,
+      "rank": 3,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/S_1134127_20261115_77555.pdf"
+    },
+    {
+      "id": "e5784480cca34db3b563798c",
+      "licence": "0969845E",
+      "name": "Eric Benard",
+      "date": "2026-11-15",
+      "competition": "CONCOURS SELECTIF D'AUTOMNE - Tir a 18m (2X18M)",
+      "place": "LUNEL",
+      "discipline": "18m",
+      "category": "S3HBB",
+      "departure": 1,
+      "series": [
+        221,
+        210
+      ],
+      "score": 431,
+      "rank": 2,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/S_1134127_20261115_77555.pdf"
+    },
+    {
+      "id": "353ef153616226f3513b89f4",
+      "licence": "0969843C",
+      "name": "Anne Barbara Benard",
+      "date": "2026-11-15",
+      "competition": "CONCOURS SELECTIF D'AUTOMNE - Tir a 18m (2X18M)",
+      "place": "LUNEL",
+      "discipline": "18m",
+      "category": "S3FBB",
+      "departure": 1,
+      "series": [
+        249,
+        250
+      ],
+      "score": 499,
+      "rank": 1,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/S_1134127_20261115_77555.pdf"
+    },
     {
       "id": "c930d2a9a542d8091c20fce2",
       "licence": "1040387P",
