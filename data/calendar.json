@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updated_at": "2026-11-15T19:07:42+00:00",
+  "updated_at": "2026-11-16T07:18:02+00:00",
   "source": "FFTA competitions calendar",
   "departments": [
     "11",
@@ -22,8 +22,8 @@
     "taen"
   ],
   "range": {
-    "start": "2026-10-16",
-    "end": "2027-11-15"
+    "start": "2026-10-17",
+    "end": "2027-11-16"
   },
   "competitions": [
     {
@@ -621,9 +621,9 @@
       "city": "",
       "club": "(CARCASSONNE)",
       "department": "11",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27074",
+      "detail_url": "https://www.ffta.fr/epreuve/27074",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/11173f155b54a1.pdf",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27074",
+      "source_url": "https://www.ffta.fr/epreuve/27074",
       "status": ""
     },
     {
@@ -651,9 +651,9 @@
       "city": "",
       "club": "(VIVIEZ)",
       "department": "12",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27080",
+      "detail_url": "https://www.ffta.fr/epreuve/27080",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/111655d368e5e7.pdf",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27080",
+      "source_url": "https://www.ffta.fr/epreuve/27080",
       "status": ""
     },
     {
@@ -666,9 +666,9 @@
       "city": "",
       "club": "(ST CHRISTOL LES ALES)",
       "department": "30",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27833",
+      "detail_url": "https://www.ffta.fr/epreuve/27833",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/1118ce11ea577c.pdf",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27833",
+      "source_url": "https://www.ffta.fr/epreuve/27833",
       "status": ""
     },
     {
@@ -1221,9 +1221,9 @@
       "city": "",
       "club": "(BEAUCAIRE)",
       "department": "30",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27131",
+      "detail_url": "https://www.ffta.fr/epreuve/27131",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27131",
+      "source_url": "https://www.ffta.fr/epreuve/27131",
       "status": ""
     },
     {
