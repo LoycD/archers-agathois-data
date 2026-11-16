@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updated_at": "2026-11-16T07:18:02+00:00",
+  "updated_at": "2026-11-16T22:32:00+00:00",
   "source": "FFTA competitions calendar",
   "departments": [
     "11",
@@ -426,9 +426,9 @@
       "city": "",
       "club": "(LATTES)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/epreuve/27055",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27055",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/1114cfd1c80f30.pdf",
-      "source_url": "https://www.ffta.fr/epreuve/27055",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27055",
       "status": ""
     },
     {
@@ -891,9 +891,9 @@
       "city": "",
       "club": "(MORIERES LES AVIGNON)",
       "department": "84",
-      "detail_url": "https://www.ffta.fr/epreuve/26689",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/26689",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/epreuve/26689",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/26689",
       "status": ""
     },
     {
@@ -937,7 +937,7 @@
       "club": "(LATTES)",
       "department": "34",
       "detail_url": "https://www.ffta.fr/epreuve/27104",
-      "mandate_url": "",
+      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/111de483b3a8de.pdf",
       "source_url": "https://www.ffta.fr/epreuve/27104",
       "status": ""
     },
@@ -1221,9 +1221,9 @@
       "city": "",
       "club": "(BEAUCAIRE)",
       "department": "30",
-      "detail_url": "https://www.ffta.fr/epreuve/27131",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27131",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/epreuve/27131",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27131",
       "status": ""
     },
     {
@@ -1251,9 +1251,9 @@
       "city": "",
       "club": "(LUNEL)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/epreuve/27122",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27122",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/epreuve/27122",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27122",
       "status": ""
     },
     {
