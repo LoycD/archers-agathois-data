@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updated_at": "2026-11-16T22:32:00+00:00",
+  "updated_at": "2026-11-17T08:30:45+00:00",
   "source": "FFTA competitions calendar",
   "departments": [
     "11",
@@ -22,55 +22,10 @@
     "taen"
   ],
   "range": {
-    "start": "2026-10-17",
-    "end": "2027-11-16"
+    "start": "2026-10-18",
+    "end": "2027-11-17"
   },
   "competitions": [
-    {
-      "ffta_id": "27024",
-      "title": "CONCOURS EN SALLE OCTOBRE 2026 a PONT ST ESPRIT",
-      "discipline": "18m",
-      "discipline_label": "Tir a 18m",
-      "start_date": "2026-10-17",
-      "end_date": "2026-10-18",
-      "city": "",
-      "club": "(PONT ST ESPRIT)",
-      "department": "30",
-      "detail_url": "https://www.ffta.fr/epreuve/27024",
-      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/110f4ec5e53701.pdf",
-      "source_url": "https://www.ffta.fr/epreuve/27024",
-      "status": ""
-    },
-    {
-      "ffta_id": "27023",
-      "title": "CONCOURS COMBINE ARC'MAGNAC EN SALLE A BOURROUILLAN a BOURROUILLAN",
-      "discipline": "18m",
-      "discipline_label": "Tir a 18m",
-      "start_date": "2026-10-17",
-      "end_date": "2026-10-17",
-      "city": "",
-      "club": "(BOURROUILLAN)",
-      "department": "32",
-      "detail_url": "https://www.ffta.fr/epreuve/27023",
-      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/111171e5bb11eb.pdf",
-      "source_url": "https://www.ffta.fr/epreuve/27023",
-      "status": ""
-    },
-    {
-      "ffta_id": "26647",
-      "title": "TIR 2X18M OCTOBRE a VEDENE",
-      "discipline": "18m",
-      "discipline_label": "TIR 2X18M OCTOBRE a VEDENE",
-      "start_date": "2026-10-17",
-      "end_date": "2026-10-18",
-      "city": "",
-      "club": "(VEDENE)",
-      "department": "84",
-      "detail_url": "https://www.ffta.fr/epreuve/26647",
-      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/1112beb315e548.pdf",
-      "source_url": "https://www.ffta.fr/epreuve/26647",
-      "status": ""
-    },
     {
       "ffta_id": "26651",
       "title": "TIR NATURE a GEMENOS",
@@ -426,9 +381,9 @@
       "city": "",
       "club": "(LATTES)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27055",
+      "detail_url": "https://www.ffta.fr/epreuve/27055",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/1114cfd1c80f30.pdf",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27055",
+      "source_url": "https://www.ffta.fr/epreuve/27055",
       "status": ""
     },
     {
@@ -891,9 +846,9 @@
       "city": "",
       "club": "(MORIERES LES AVIGNON)",
       "department": "84",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/26689",
+      "detail_url": "https://www.ffta.fr/epreuve/26689",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/26689",
+      "source_url": "https://www.ffta.fr/epreuve/26689",
       "status": ""
     },
     {
@@ -1221,9 +1176,9 @@
       "city": "",
       "club": "(BEAUCAIRE)",
       "department": "30",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27131",
+      "detail_url": "https://www.ffta.fr/epreuve/27131",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27131",
+      "source_url": "https://www.ffta.fr/epreuve/27131",
       "status": ""
     },
     {
@@ -1251,9 +1206,9 @@
       "city": "",
       "club": "(LUNEL)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27122",
+      "detail_url": "https://www.ffta.fr/epreuve/27122",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27122",
+      "source_url": "https://www.ffta.fr/epreuve/27122",
       "status": ""
     },
     {
