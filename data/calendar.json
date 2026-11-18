@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updated_at": "2026-11-17T21:20:46+00:00",
+  "updated_at": "2026-11-18T07:57:19+00:00",
   "source": "FFTA competitions calendar",
   "departments": [
     "11",
@@ -22,85 +22,10 @@
     "taen"
   ],
   "range": {
-    "start": "2026-10-18",
-    "end": "2027-11-17"
+    "start": "2026-10-19",
+    "end": "2027-11-18"
   },
   "competitions": [
-    {
-      "ffta_id": "26651",
-      "title": "TIR NATURE a GEMENOS",
-      "discipline": "nature",
-      "discipline_label": "TIR NATURE a GEMENOS",
-      "start_date": "2026-10-18",
-      "end_date": "2026-10-18",
-      "city": "",
-      "club": "(GEMENOS)",
-      "department": "13",
-      "detail_url": "https://www.ffta.fr/epreuve/26651",
-      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/1110a4015525b2.pdf",
-      "source_url": "https://www.ffta.fr/epreuve/26651",
-      "status": ""
-    },
-    {
-      "ffta_id": "27026",
-      "title": "CONCOURS AUTOMNE 2026 a ROCHEFORT DU GARD",
-      "discipline": "nature",
-      "discipline_label": "Tir nature",
-      "start_date": "2026-10-18",
-      "end_date": "2026-10-18",
-      "city": "",
-      "club": "(ROCHEFORT DU GARD)",
-      "department": "30",
-      "detail_url": "https://www.ffta.fr/epreuve/27026",
-      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/110f9374fa341b.pdf",
-      "source_url": "https://www.ffta.fr/epreuve/27026",
-      "status": ""
-    },
-    {
-      "ffta_id": "27039",
-      "title": "NATURE MONTGISCARD a MONTGISCARD",
-      "discipline": "nature",
-      "discipline_label": "Tir nature",
-      "start_date": "2026-10-18",
-      "end_date": "2026-10-18",
-      "city": "",
-      "club": "(MONTGISCARD)",
-      "department": "31",
-      "detail_url": "https://www.ffta.fr/epreuve/27039",
-      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/110f4a0413d281.pdf",
-      "source_url": "https://www.ffta.fr/epreuve/27039",
-      "status": ""
-    },
-    {
-      "ffta_id": "27028",
-      "title": "CONCOURS 18M ARC'MAGNAC A BOURROUILLAN a BOURROUILLAN",
-      "discipline": "18m",
-      "discipline_label": "Tir a 18m",
-      "start_date": "2026-10-18",
-      "end_date": "2026-10-18",
-      "city": "",
-      "club": "(BOURROUILLAN)",
-      "department": "32",
-      "detail_url": "https://www.ffta.fr/epreuve/27028",
-      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/1111bd1487690.pdf",
-      "source_url": "https://www.ffta.fr/epreuve/27028",
-      "status": ""
-    },
-    {
-      "ffta_id": "27029",
-      "title": "SELECTIF SALLE TIR A 18 METRES a PERPIGNAN",
-      "discipline": "18m",
-      "discipline_label": "Tir a 18m",
-      "start_date": "2026-10-18",
-      "end_date": "2026-10-18",
-      "city": "",
-      "club": "(PERPIGNAN)",
-      "department": "66",
-      "detail_url": "https://www.ffta.fr/epreuve/27029",
-      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/1112c755661f1e.pdf",
-      "source_url": "https://www.ffta.fr/epreuve/27029",
-      "status": ""
-    },
     {
       "ffta_id": "27897",
       "title": "TIR 18M a FOS SUR MER",
