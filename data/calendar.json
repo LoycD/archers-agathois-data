@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updated_at": "2026-11-18T07:57:19+00:00",
+  "updated_at": "2026-11-18T20:54:34+00:00",
   "source": "FFTA competitions calendar",
   "departments": [
     "11",
@@ -582,6 +582,21 @@
       "status": ""
     },
     {
+      "ffta_id": "28242",
+      "title": "CHAMPIONNAT ACADEMIE FFSU a TOULOUSE",
+      "discipline": "18m",
+      "discipline_label": "Tir a 18m",
+      "start_date": "2026-12-03",
+      "end_date": "2026-12-03",
+      "city": "",
+      "club": "(TOULOUSE)",
+      "department": "31",
+      "detail_url": "https://www.ffta.fr/epreuve/28242",
+      "mandate_url": "",
+      "source_url": "https://www.ffta.fr/epreuve/28242",
+      "status": ""
+    },
+    {
       "ffta_id": "26681",
       "title": "CONCOURS SALLE a GEMENOS",
       "discipline": "18m",
@@ -606,9 +621,9 @@
       "city": "",
       "club": "(BALMA)",
       "department": "31",
-      "detail_url": "https://www.ffta.fr/epreuve/27086",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27086",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/111d1942bfa265.pdf",
-      "source_url": "https://www.ffta.fr/epreuve/27086",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27086",
       "status": ""
     },
     {
@@ -621,9 +636,9 @@
       "city": "",
       "club": "(LOMBEZ)",
       "department": "32",
-      "detail_url": "https://www.ffta.fr/epreuve/27085",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27085",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/111a92637cce13.pdf",
-      "source_url": "https://www.ffta.fr/epreuve/27085",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27085",
       "status": ""
     },
     {
@@ -636,9 +651,9 @@
       "city": "",
       "club": "(PERPIGNAN)",
       "department": "66",
-      "detail_url": "https://www.ffta.fr/epreuve/27083",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27083",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/111bcc5488aeb7.pdf",
-      "source_url": "https://www.ffta.fr/epreuve/27083",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27083",
       "status": ""
     },
     {
@@ -771,9 +786,9 @@
       "city": "",
       "club": "(MORIERES LES AVIGNON)",
       "department": "84",
-      "detail_url": "https://www.ffta.fr/epreuve/26689",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/26689",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/epreuve/26689",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/26689",
       "status": ""
     },
     {
@@ -789,6 +804,21 @@
       "detail_url": "https://www.ffta.fr/epreuve/27102",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/111d4b85f2415a.pdf",
       "source_url": "https://www.ffta.fr/epreuve/27102",
+      "status": ""
+    },
+    {
+      "ffta_id": "28243",
+      "title": "TAEI a NIMES",
+      "discipline": "taei",
+      "discipline_label": "Tir a l'arc exterieur",
+      "start_date": "2026-12-19",
+      "end_date": "2026-12-19",
+      "city": "",
+      "club": "(NIMES)",
+      "department": "30",
+      "detail_url": "https://www.ffta.fr/epreuve/28243",
+      "mandate_url": "",
+      "source_url": "https://www.ffta.fr/epreuve/28243",
       "status": ""
     },
     {
