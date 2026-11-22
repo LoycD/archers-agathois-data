@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updated_at": "2026-11-22T07:29:09+00:00",
+  "updated_at": "2026-11-22T19:59:19+00:00",
   "source": "FFTA competitions calendar",
   "departments": [
     "11",
@@ -816,9 +816,9 @@
       "city": "",
       "club": "(NIMES)",
       "department": "30",
-      "detail_url": "https://www.ffta.fr/epreuve/28243",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/28243",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/epreuve/28243",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/28243",
       "status": ""
     },
     {
@@ -906,9 +906,9 @@
       "city": "",
       "club": "(ST GENIES DE MALGOIRES)",
       "department": "30",
-      "detail_url": "https://www.ffta.fr/epreuve/27111",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27111",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/epreuve/27111",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27111",
       "status": ""
     },
     {
@@ -996,9 +996,9 @@
       "city": "",
       "club": "(ST GENIES DE MALGOIRES)",
       "department": "30",
-      "detail_url": "https://www.ffta.fr/epreuve/27113",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27113",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/epreuve/27113",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27113",
       "status": ""
     },
     {
@@ -1011,9 +1011,9 @@
       "city": "",
       "club": "(TOULOUSE)",
       "department": "31",
-      "detail_url": "https://www.ffta.fr/epreuve/27112",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27112",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/111ef4b176c631.pdf",
-      "source_url": "https://www.ffta.fr/epreuve/27112",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27112",
       "status": ""
     },
     {
@@ -1056,9 +1056,9 @@
       "city": "",
       "club": "ARC CLUB DE NIMES",
       "department": "30",
-      "detail_url": "https://www.ffta.fr/epreuve/27691",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27691",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/epreuve/27691",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27691",
       "status": ""
     },
     {
@@ -1071,9 +1071,9 @@
       "city": "",
       "club": "(BLAGNAC)",
       "department": "31",
-      "detail_url": "https://www.ffta.fr/epreuve/27118",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27118",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/epreuve/27118",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27118",
       "status": ""
     },
     {
@@ -1131,9 +1131,9 @@
       "city": "",
       "club": "(BEAUCAIRE)",
       "department": "30",
-      "detail_url": "https://www.ffta.fr/epreuve/27131",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27131",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/epreuve/27131",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27131",
       "status": ""
     },
     {
@@ -1206,9 +1206,9 @@
       "city": "",
       "club": "(BALMA)",
       "department": "31",
-      "detail_url": "https://www.ffta.fr/epreuve/27134",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27134",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/epreuve/27134",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27134",
       "status": ""
     },
     {
@@ -1267,7 +1267,7 @@
       "club": "(LATTES)",
       "department": "34",
       "detail_url": "https://www.ffta.fr/epreuve/27143",
-      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/111ec3b13bd68b.pdf",
+      "mandate_url": "",
       "source_url": "https://www.ffta.fr/epreuve/27143",
       "status": ""
     },
@@ -1318,26 +1318,26 @@
     },
     {
       "ffta_id": "26715",
-      "title": "CHAMPIONNAT REGIONAL SALLE JEUNES a INCONNU",
+      "title": "CHAMPIONNAT REGIONAL SALLE JEUNES a MONTEUX",
       "discipline": "18m",
       "discipline_label": "Tir a 18m",
       "start_date": "2027-02-13",
-      "end_date": "2027-02-13",
+      "end_date": "2027-02-14",
       "city": "",
       "club": "(DRAGUIGNAN)",
       "department": "84",
-      "detail_url": "https://www.ffta.fr/epreuve/26715",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/26715",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/epreuve/26715",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/26715",
       "status": ""
     },
     {
       "ffta_id": "26716",
-      "title": "CHAMPIONNAT REGIONAL ADULTES SALLE a INCONNU",
+      "title": "CHAMPIONNAT REGIONAL ADULTES SALLE a ROQUEBRUNE SUR ARGENT",
       "discipline": "18m",
       "discipline_label": "Tir a 18m",
-      "start_date": "2027-02-14",
-      "end_date": "2027-02-14",
+      "start_date": "2027-02-20",
+      "end_date": "2027-02-21",
       "city": "",
       "club": "(DRAGUIGNAN)",
       "department": "84",
