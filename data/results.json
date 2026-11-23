@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "updated_at": "2026-11-23T07:50:05+00:00",
+  "updated_at": "2026-11-23T23:59:58+00:00",
   "source": "FFTA official competition result PDFs",
   "parser": "multi-discipline-v4.1-tae-sections",
   "results": [
@@ -231,6 +231,38 @@
       "rank": 1,
       "source": "ffta",
       "source_url": "https://extranet.ffta.fr/pdfresultats/2026/S_1134140_20261122_77724.pdf"
+    },
+    {
+      "id": "1f0b3e6941388b246b22fd1f",
+      "licence": "0280322Y",
+      "name": "Thierry Bourrie",
+      "date": "2026-11-22",
+      "competition": "CONCOURS NATURE 2 DEPARTS DIMANCHE - Tir Nature (21 CIBLES)",
+      "place": "GRAULHET",
+      "discipline": "nature",
+      "category": "S2HAD",
+      "departure": 2,
+      "series": [],
+      "score": 415,
+      "rank": 2,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/N_1181205_20261122_79763.pdf"
+    },
+    {
+      "id": "1fd320f7d075e7265b88c4df",
+      "licence": "0280322Y",
+      "name": "Thierry Bourrie",
+      "date": "2026-11-22",
+      "competition": "CONCOURS NATURE 2 DEPARTS DIMANCHE - Tir Nature (21 CIBLES)",
+      "place": "GRAULHET",
+      "discipline": "nature",
+      "category": "S2HAD",
+      "departure": 1,
+      "series": [],
+      "score": 440,
+      "rank": 2,
+      "source": "ffta",
+      "source_url": "https://extranet.ffta.fr/pdfresultats/2026/N_1181205_20261122_79763.pdf"
     },
     {
       "id": "a3d3629d082c3e890a54fc03",
