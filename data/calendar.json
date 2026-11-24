@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updated_at": "2026-11-24T10:26:50+00:00",
+  "updated_at": "2026-11-24T22:46:18+00:00",
   "source": "FFTA competitions calendar",
   "departments": [
     "11",
@@ -621,9 +621,9 @@
       "city": "",
       "club": "(CARCASSONNE)",
       "department": "11",
-      "detail_url": "https://www.ffta.fr/epreuve/27088",
-      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/11173f23b00ec7.pdf",
-      "source_url": "https://www.ffta.fr/epreuve/27088",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27088",
+      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/111fa6d2fdb3bc.pdf",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27088",
       "status": ""
     },
     {
@@ -636,9 +636,9 @@
       "city": "",
       "club": "(LAUDUN L ARDOISE)",
       "department": "30",
-      "detail_url": "https://www.ffta.fr/epreuve/27092",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27092",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/111ba924243fd.pdf",
-      "source_url": "https://www.ffta.fr/epreuve/27092",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27092",
       "status": "cancelled"
     },
     {
@@ -651,9 +651,9 @@
       "city": "",
       "club": "(MONTPELLIER)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/epreuve/27090",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27090",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/111d1ef3df5b60.pdf",
-      "source_url": "https://www.ffta.fr/epreuve/27090",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27090",
       "status": ""
     },
     {
@@ -816,9 +816,9 @@
       "city": "",
       "club": "(LE MONASTERE)",
       "department": "12",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27626",
+      "detail_url": "https://www.ffta.fr/epreuve/27626",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/111bc3442b951e.pdf",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27626",
+      "source_url": "https://www.ffta.fr/epreuve/27626",
       "status": ""
     },
     {
@@ -922,7 +922,7 @@
       "club": "(CARCASSONNE)",
       "department": "11",
       "detail_url": "https://www.ffta.fr/epreuve/27117",
-      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/11173f320f9987.pdf",
+      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/111fa7058f5847.pdf",
       "source_url": "https://www.ffta.fr/epreuve/27117",
       "status": ""
     },
@@ -996,9 +996,9 @@
       "city": "",
       "club": "ARC CLUB DE NIMES",
       "department": "30",
-      "detail_url": "https://www.ffta.fr/epreuve/27691",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27691",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/epreuve/27691",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27691",
       "status": ""
     },
     {
