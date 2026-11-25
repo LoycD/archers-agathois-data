@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updated_at": "2026-11-24T22:46:18+00:00",
+  "updated_at": "2026-11-25T09:11:01+00:00",
   "source": "FFTA competitions calendar",
   "departments": [
     "11",
@@ -22,70 +22,10 @@
     "taen"
   ],
   "range": {
-    "start": "2026-10-25",
-    "end": "2027-11-24"
+    "start": "2026-10-26",
+    "end": "2027-11-25"
   },
   "competitions": [
-    {
-      "ffta_id": "27040",
-      "title": "CONCOURS SALLE 2 X 18 M a CARCASSONNE",
-      "discipline": "18m",
-      "discipline_label": "Tir a 18m",
-      "start_date": "2026-10-25",
-      "end_date": "2026-10-25",
-      "city": "",
-      "club": "(CARCASSONNE)",
-      "department": "11",
-      "detail_url": "https://www.ffta.fr/epreuve/27040",
-      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/1117a9b46c03c5.pdf",
-      "source_url": "https://www.ffta.fr/epreuve/27040",
-      "status": ""
-    },
-    {
-      "ffta_id": "27038",
-      "title": "CONCOURS AUTOMNE 2 a ANDUZE",
-      "discipline": "nature",
-      "discipline_label": "Tir nature",
-      "start_date": "2026-10-25",
-      "end_date": "2026-10-25",
-      "city": "",
-      "club": "(ANDUZE)",
-      "department": "30",
-      "detail_url": "https://www.ffta.fr/epreuve/27038",
-      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/110e3f337ca83c.pdf",
-      "source_url": "https://www.ffta.fr/epreuve/27038",
-      "status": ""
-    },
-    {
-      "ffta_id": "27037",
-      "title": "TIR EN SALLE PLAISANCE DU GERS a PLAISANCE DU GERS",
-      "discipline": "18m",
-      "discipline_label": "TIR EN SALLE PLAISANCE DU GERS a PLAISANCE DU GERS",
-      "start_date": "2026-10-25",
-      "end_date": "2026-10-25",
-      "city": "",
-      "club": "(PLAISANCE)",
-      "department": "32",
-      "detail_url": "https://www.ffta.fr/epreuve/27037",
-      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/110fc994808659.pdf",
-      "source_url": "https://www.ffta.fr/epreuve/27037",
-      "status": ""
-    },
-    {
-      "ffta_id": "27041",
-      "title": "CONCOURS SALLE 18M a PRADES",
-      "discipline": "18m",
-      "discipline_label": "Tir a 18m",
-      "start_date": "2026-10-25",
-      "end_date": "2026-10-25",
-      "city": "",
-      "club": "(PRADES)",
-      "department": "66",
-      "detail_url": "https://www.ffta.fr/epreuve/27041",
-      "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/11140744ce50c9.pdf",
-      "source_url": "https://www.ffta.fr/epreuve/27041",
-      "status": ""
-    },
     {
       "ffta_id": "27904",
       "title": "TAE I a NIMES",
@@ -621,9 +561,9 @@
       "city": "",
       "club": "(CARCASSONNE)",
       "department": "11",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27088",
+      "detail_url": "https://www.ffta.fr/epreuve/27088",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/111fa6d2fdb3bc.pdf",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27088",
+      "source_url": "https://www.ffta.fr/epreuve/27088",
       "status": ""
     },
     {
@@ -636,9 +576,9 @@
       "city": "",
       "club": "(LAUDUN L ARDOISE)",
       "department": "30",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27092",
+      "detail_url": "https://www.ffta.fr/epreuve/27092",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/111ba924243fd.pdf",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27092",
+      "source_url": "https://www.ffta.fr/epreuve/27092",
       "status": "cancelled"
     },
     {
@@ -651,9 +591,9 @@
       "city": "",
       "club": "(MONTPELLIER)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27090",
+      "detail_url": "https://www.ffta.fr/epreuve/27090",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/111d1ef3df5b60.pdf",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27090",
+      "source_url": "https://www.ffta.fr/epreuve/27090",
       "status": ""
     },
     {
@@ -996,9 +936,9 @@
       "city": "",
       "club": "ARC CLUB DE NIMES",
       "department": "30",
-      "detail_url": "https://www.ffta.fr/index.php/epreuve/27691",
+      "detail_url": "https://www.ffta.fr/epreuve/27691",
       "mandate_url": "",
-      "source_url": "https://www.ffta.fr/index.php/epreuve/27691",
+      "source_url": "https://www.ffta.fr/epreuve/27691",
       "status": ""
     },
     {
