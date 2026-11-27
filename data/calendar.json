@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updated_at": "2026-11-26T21:56:24+00:00",
+  "updated_at": "2026-11-27T09:06:25+00:00",
   "source": "FFTA competitions calendar",
   "departments": [
     "11",
@@ -22,25 +22,10 @@
     "taen"
   ],
   "range": {
-    "start": "2026-10-27",
-    "end": "2027-11-26"
+    "start": "2026-10-28",
+    "end": "2027-11-27"
   },
   "competitions": [
-    {
-      "ffta_id": "27904",
-      "title": "TAE I a NIMES",
-      "discipline": "taei",
-      "discipline_label": "Tir a l'arc exterieur",
-      "start_date": "2026-10-27",
-      "end_date": "2026-10-27",
-      "city": "",
-      "club": "(NIMES)",
-      "department": "30",
-      "detail_url": "https://www.ffta.fr/epreuve/27904",
-      "mandate_url": "",
-      "source_url": "https://www.ffta.fr/epreuve/27904",
-      "status": ""
-    },
     {
       "ffta_id": "27043",
       "title": "CONCOURS 100% FEMININ a AUCH",
@@ -306,9 +291,9 @@
       "city": "",
       "club": "(BOMPAS)",
       "department": "66",
-      "detail_url": "https://www.ffta.fr/epreuve/27063",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27063",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/111ba192c5cf99.pdf",
-      "source_url": "https://www.ffta.fr/epreuve/27063",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27063",
       "status": ""
     },
     {
@@ -651,9 +636,9 @@
       "city": "",
       "club": "(BEZIERS)",
       "department": "34",
-      "detail_url": "https://www.ffta.fr/epreuve/27098",
+      "detail_url": "https://www.ffta.fr/index.php/epreuve/27098",
       "mandate_url": "https://extranet.ffta.fr/medias/documents_epreuves/111d8fc36cf055.pdf",
-      "source_url": "https://www.ffta.fr/epreuve/27098",
+      "source_url": "https://www.ffta.fr/index.php/epreuve/27098",
       "status": ""
     },
     {
